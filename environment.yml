@@ -1,0 +1,8 @@
+name: detector-validation
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - matplotlib
+  - numpy
+  - pandas
