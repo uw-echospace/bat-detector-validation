@@ -19,7 +19,6 @@ df2022 = df2022[df2022['Site name'] != '(Site not found in Field Records)']
 
 # Random select 2 rows for specific group
 def select_random_rows(group):
-    random.seed(48)
     if len(group) >= 2:
         return group.sample(2, random_state=1)
     else:
