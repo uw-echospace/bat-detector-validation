@@ -13,8 +13,8 @@ with open(csv_file, 'r') as file:
     for row in reader:
         # find the 'Sliced File Path' column in the randomized file
         # 'Sliced File Path' has the format: ubna_data_###/recover-###/UBNA_###/###_###.WAV
-        folder_path = row['Sliced File Path']
+        path = row['Sliced File Path']
 
         # build and execute the rclone command
-        rclone_command = f"rclone copy {bucket_name}/{folder_path} {save_folder}"
+        rclone_command = f"rclone copy {bucket_name}/{path} {save_folder}"
         os.system(rclone_command)
