@@ -1,0 +1,9 @@
+Unnamed: 0	start_time	end_time	low_freq	high_freq	class	class_prob	det_prob	individual	event	input_file	Site name	Recover Folder	SD Card
+0	719.3525	719.3584	46093.0	55086.0	Pipistrellus pipistrellus	0.518	0.542	-1	Echolocation	/mnt/ubna_data_02/recover-20221010/UBNA_007/20221009_030000.WAV	Telephone Field	recover-20221010	7
+0	719.3525	719.3584	46093.0	55086.0	Pipistrellus pipistrellus	0.518	0.542	-1	Echolocation	/mnt/ubna_data_02/recover-20221010/UBNA_007/20221009_030000.WAV	Telephone Field	recover-20221010	7
+1	719.5475	719.5527	45234.0	55350.0	Pipistrellus pipistrellus	0.527	0.544	-1	Echolocation	/mnt/ubna_data_02/recover-20221010/UBNA_007/20221009_030000.WAV	Telephone Field	recover-20221010	7
+1	719.5475	719.5527	45234.0	55350.0	Pipistrellus pipistrellus	0.527	0.544	-1	Echolocation	/mnt/ubna_data_02/recover-20221010/UBNA_007/20221009_030000.WAV	Telephone Field	recover-20221010	7
+2	719.6245	719.6301	47812.0	57404.0	Pipistrellus pipistrellus	0.558	0.578	-1	Echolocation	/mnt/ubna_data_02/recover-20221010/UBNA_007/20221009_030000.WAV	Telephone Field	recover-20221010	7
+2	719.6245	719.6301	47812.0	57404.0	Pipistrellus pipistrellus	0.558	0.578	-1	Echolocation	/mnt/ubna_data_02/recover-20221010/UBNA_007/20221009_030000.WAV	Telephone Field	recover-20221010	7
+3	1745.7305	1745.7451	23750.0	27447.0	Nyctalus leisleri	0.466	0.553	-1	Echolocation	/mnt/ubna_data_02/recover-20221010/UBNA_007/20221009_030000.WAV	Telephone Field	recover-20221010	7
+3	1745.7305	1745.7451	23750.0	27447.0	Nyctalus leisleri	0.466	0.553	-1	Echolocation	/mnt/ubna_data_02/recover-20221010/UBNA_007/20221009_030000.WAV	Telephone Field	recover-20221010	7
