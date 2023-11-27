@@ -1,457 +1,229 @@
-Unnamed: 0	start_time	end_time	low_freq	high_freq	class	class_prob	det_prob	individual	event	input_file	Site name	Recover Folder	SD Card
-0	23.5855	23.5933	38359.0	45982.0	Pipistrellus nathusii	0.621	0.647	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-0	23.5855	23.5933	38359.0	45982.0	Pipistrellus nathusii	0.621	0.647	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-1	23.8695	23.8795	37500.0	45365.0	Pipistrellus nathusii	0.47	0.509	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-1	23.8695	23.8795	37500.0	45365.0	Pipistrellus nathusii	0.47	0.509	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-2	24.8895	24.8993	38359.0	44978.0	Pipistrellus nathusii	0.511	0.555	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-2	24.8895	24.8993	38359.0	44978.0	Pipistrellus nathusii	0.511	0.555	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-3	25.1775	25.1878	39218.0	47013.0	Pipistrellus nathusii	0.422	0.508	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-3	25.1775	25.1878	39218.0	47013.0	Pipistrellus nathusii	0.422	0.508	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-4	25.2745	25.2843	38359.0	46863.0	Pipistrellus nathusii	0.569	0.619	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-4	25.2745	25.2843	38359.0	46863.0	Pipistrellus nathusii	0.569	0.619	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-5	25.6795	25.689	38359.0	45403.0	Pipistrellus nathusii	0.41	0.515	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-5	25.6795	25.689	38359.0	45403.0	Pipistrellus nathusii	0.41	0.515	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-6	26.1405	26.1497	38359.0	44765.0	Pipistrellus nathusii	0.466	0.551	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-6	26.1405	26.1497	38359.0	44765.0	Pipistrellus nathusii	0.466	0.551	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-7	26.2345	26.2413	37500.0	45390.0	Pipistrellus nathusii	0.457	0.506	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-7	26.2345	26.2413	37500.0	45390.0	Pipistrellus nathusii	0.457	0.506	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-8	26.4125	26.4219	38359.0	45452.0	Pipistrellus nathusii	0.452	0.521	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-8	26.4125	26.4219	38359.0	45452.0	Pipistrellus nathusii	0.452	0.521	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-9	26.5065	26.5171	37500.0	45348.0	Pipistrellus nathusii	0.495	0.544	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-9	26.5065	26.5171	37500.0	45348.0	Pipistrellus nathusii	0.495	0.544	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-10	55.1865	55.1981	26328.0	32734.0	Nyctalus leisleri	0.359	0.656	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-10	55.1865	55.1981	26328.0	32734.0	Nyctalus leisleri	0.359	0.656	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-11	57.1685	57.1787	27187.0	34273.0	Nyctalus leisleri	0.404	0.657	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-11	57.1685	57.1787	27187.0	34273.0	Nyctalus leisleri	0.404	0.657	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-12	73.4945	73.5139	25468.0	28667.0	Nyctalus leisleri	0.492	0.558	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-12	73.4945	73.5139	25468.0	28667.0	Nyctalus leisleri	0.492	0.558	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-13	75.0485	75.0651	25468.0	30330.0	Nyctalus leisleri	0.378	0.532	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-13	75.0485	75.0651	25468.0	30330.0	Nyctalus leisleri	0.378	0.532	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-14	78.9635	78.98089999999999	25468.0	29831.0	Nyctalus leisleri	0.445	0.531	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-14	78.9635	78.98089999999999	25468.0	29831.0	Nyctalus leisleri	0.445	0.531	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-15	85.8055	85.8185	26328.0	31200.0	Nyctalus leisleri	0.348	0.547	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-15	85.8055	85.8185	26328.0	31200.0	Nyctalus leisleri	0.348	0.547	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-16	86.2685	86.2838	26328.0	32006.0	Nyctalus leisleri	0.252	0.58	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-16	86.2685	86.2838	26328.0	32006.0	Nyctalus leisleri	0.252	0.58	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-17	86.8895	86.9008	26328.0	32257.0	Nyctalus leisleri	0.48	0.669	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-17	86.8895	86.9008	26328.0	32257.0	Nyctalus leisleri	0.48	0.669	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-18	93.7895	93.8065	25468.0	28161.0	Nyctalus leisleri	0.607	0.675	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-18	93.7895	93.8065	25468.0	28161.0	Nyctalus leisleri	0.607	0.675	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-19	94.8715	94.8863	26328.0	30490.0	Nyctalus leisleri	0.487	0.626	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-19	94.8715	94.8863	26328.0	30490.0	Nyctalus leisleri	0.487	0.626	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-20	95.5945	95.6078	26328.0	32119.0	Nyctalus leisleri	0.393	0.655	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-20	95.5945	95.6078	26328.0	32119.0	Nyctalus leisleri	0.393	0.655	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-21	95.7385	95.753	26328.0	31058.0	Nyctalus leisleri	0.449	0.545	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-21	95.7385	95.753	26328.0	31058.0	Nyctalus leisleri	0.449	0.545	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-22	95.9745	95.9876	26328.0	34481.0	Eptesicus serotinus	0.286	0.624	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-22	95.9745	95.9876	26328.0	34481.0	Eptesicus serotinus	0.286	0.624	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-23	96.4425	96.4576	26328.0	30800.0	Nyctalus leisleri	0.383	0.521	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-23	96.4425	96.4576	26328.0	30800.0	Nyctalus leisleri	0.383	0.521	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-24	207.8435	207.8609	24609.0	29020.0	Nyctalus leisleri	0.371	0.534	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-24	207.8435	207.8609	24609.0	29020.0	Nyctalus leisleri	0.371	0.534	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-25	213.6125	213.6245	25468.0	30520.0	Nyctalus leisleri	0.278	0.52	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-25	213.6125	213.6245	25468.0	30520.0	Nyctalus leisleri	0.278	0.52	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-26	426.5685	426.5844	26328.0	28975.0	Nyctalus leisleri	0.414	0.503	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-26	426.5685	426.5844	26328.0	28975.0	Nyctalus leisleri	0.414	0.503	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-27	427.4135	427.4318	25468.0	29426.0	Nyctalus leisleri	0.331	0.521	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-27	427.4135	427.4318	25468.0	29426.0	Nyctalus leisleri	0.331	0.521	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-28	430.3035	430.3241	24609.0	28381.0	Nyctalus leisleri	0.423	0.514	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-28	430.3035	430.3241	24609.0	28381.0	Nyctalus leisleri	0.423	0.514	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-29	430.6275	430.6453	26328.0	29259.0	Nyctalus leisleri	0.415	0.524	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-29	430.6275	430.6453	26328.0	29259.0	Nyctalus leisleri	0.415	0.524	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-30	431.3575	431.3747	24609.0	28289.0	Nyctalus leisleri	0.574	0.625	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-30	431.3575	431.3747	24609.0	28289.0	Nyctalus leisleri	0.574	0.625	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-31	433.1815	433.1945	26328.0	29327.0	Nyctalus leisleri	0.461	0.569	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-31	433.1815	433.1945	26328.0	29327.0	Nyctalus leisleri	0.461	0.569	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-32	433.4195	433.4337	26328.0	30075.0	Nyctalus leisleri	0.467	0.626	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-32	433.4195	433.4337	26328.0	30075.0	Nyctalus leisleri	0.467	0.626	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-33	433.9135	433.929	25468.0	29878.0	Nyctalus leisleri	0.451	0.585	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-33	433.9135	433.929	25468.0	29878.0	Nyctalus leisleri	0.451	0.585	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-34	434.4445	434.4678	24609.0	27432.0	Nyctalus leisleri	0.456	0.521	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-34	434.4445	434.4678	24609.0	27432.0	Nyctalus leisleri	0.456	0.521	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-35	435.0705	435.0889	25468.0	29217.0	Nyctalus leisleri	0.475	0.538	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-35	435.0705	435.0889	25468.0	29217.0	Nyctalus leisleri	0.475	0.538	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-36	436.6265	436.6436	25468.0	29396.0	Nyctalus leisleri	0.454	0.554	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-36	436.6265	436.6436	25468.0	29396.0	Nyctalus leisleri	0.454	0.554	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-37	436.7335	436.7542	25468.0	28588.0	Nyctalus leisleri	0.447	0.509	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-37	436.7335	436.7542	25468.0	28588.0	Nyctalus leisleri	0.447	0.509	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-38	437.1205	437.1385	25468.0	30816.0	Nyctalus leisleri	0.256	0.541	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-38	437.1205	437.1385	25468.0	30816.0	Nyctalus leisleri	0.256	0.541	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-39	437.6625	437.6799	25468.0	29247.0	Nyctalus leisleri	0.384	0.517	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-39	437.6625	437.6799	25468.0	29247.0	Nyctalus leisleri	0.384	0.517	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-40	445.2135	445.2252	26328.0	33145.0	Eptesicus serotinus	0.272	0.51	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-40	445.2135	445.2252	26328.0	33145.0	Eptesicus serotinus	0.272	0.51	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-41	452.1365	452.1491	26328.0	32767.0	Nyctalus leisleri	0.254	0.527	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-41	452.1365	452.1491	26328.0	32767.0	Nyctalus leisleri	0.254	0.527	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-42	534.0285	534.0455	22890.0	26378.0	Nyctalus leisleri	0.55	0.58	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-42	534.0285	534.0455	22890.0	26378.0	Nyctalus leisleri	0.55	0.58	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-43	601.9885	602.0009	26328.0	31717.0	Nyctalus leisleri	0.339	0.519	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-43	601.9885	602.0009	26328.0	31717.0	Nyctalus leisleri	0.339	0.519	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-44	695.0915	695.1066	25468.0	28522.0	Nyctalus leisleri	0.592	0.667	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-44	695.0915	695.1066	25468.0	28522.0	Nyctalus leisleri	0.592	0.667	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-45	695.3615	695.38	25468.0	29035.0	Nyctalus leisleri	0.357	0.501	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-45	695.3615	695.38	25468.0	29035.0	Nyctalus leisleri	0.357	0.501	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-46	805.3795	805.3946	25468.0	28943.0	Nyctalus leisleri	0.477	0.598	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-46	805.3795	805.3946	25468.0	28943.0	Nyctalus leisleri	0.477	0.598	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-47	820.4925	820.5122	24609.0	27801.0	Nyctalus leisleri	0.442	0.539	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-47	820.4925	820.5122	24609.0	27801.0	Nyctalus leisleri	0.442	0.539	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-48	823.7805	823.8034	24609.0	28053.0	Nyctalus leisleri	0.419	0.501	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-48	823.7805	823.8034	24609.0	28053.0	Nyctalus leisleri	0.419	0.501	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-49	824.4905	824.5071	24609.0	27398.0	Nyctalus leisleri	0.537	0.61	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-49	824.4905	824.5071	24609.0	27398.0	Nyctalus leisleri	0.537	0.61	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-50	826.3955	826.4095	25468.0	30293.0	Nyctalus leisleri	0.472	0.622	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-50	826.3955	826.4095	25468.0	30293.0	Nyctalus leisleri	0.472	0.622	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-51	870.9915	871.0079	26328.0	29934.0	Nyctalus leisleri	0.4	0.502	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-51	870.9915	871.0079	26328.0	29934.0	Nyctalus leisleri	0.4	0.502	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-52	871.7915	871.8071	25468.0	30762.0	Nyctalus leisleri	0.359	0.538	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-52	871.7915	871.8071	25468.0	30762.0	Nyctalus leisleri	0.359	0.538	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-53	873.1565	873.1734	25468.0	29466.0	Nyctalus leisleri	0.308	0.52	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-53	873.1565	873.1734	25468.0	29466.0	Nyctalus leisleri	0.308	0.52	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-54	873.2765	873.2885	27187.0	32462.0	Nyctalus leisleri	0.291	0.582	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-54	873.2765	873.2885	27187.0	32462.0	Nyctalus leisleri	0.291	0.582	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-55	873.7635	873.7789	25468.0	30044.0	Nyctalus leisleri	0.466	0.576	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-55	873.7635	873.7789	25468.0	30044.0	Nyctalus leisleri	0.466	0.576	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-56	874.4515	874.4661	25468.0	29244.0	Nyctalus leisleri	0.625	0.719	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-56	874.4515	874.4661	25468.0	29244.0	Nyctalus leisleri	0.625	0.719	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-57	875.7265	875.7457	24609.0	28468.0	Nyctalus leisleri	0.461	0.523	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-57	875.7265	875.7457	24609.0	28468.0	Nyctalus leisleri	0.461	0.523	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-58	877.3035	877.3209	25468.0	27822.0	Nyctalus leisleri	0.501	0.565	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-58	877.3035	877.3209	25468.0	27822.0	Nyctalus leisleri	0.501	0.565	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-59	878.6945	878.7148	24609.0	27712.0	Nyctalus leisleri	0.528	0.589	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-59	878.6945	878.7148	24609.0	27712.0	Nyctalus leisleri	0.528	0.589	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-60	879.3875	879.4076	24609.0	27844.0	Nyctalus leisleri	0.453	0.546	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-60	879.3875	879.4076	24609.0	27844.0	Nyctalus leisleri	0.453	0.546	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-61	900.8115	900.8271	25468.0	30331.0	Nyctalus leisleri	0.421	0.544	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-61	900.8115	900.8271	25468.0	30331.0	Nyctalus leisleri	0.421	0.544	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-62	901.2775	901.2924	25468.0	30961.0	Nyctalus leisleri	0.324	0.517	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-62	901.2775	901.2924	25468.0	30961.0	Nyctalus leisleri	0.324	0.517	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-63	904.4465	904.4634	25468.0	30265.0	Nyctalus leisleri	0.329	0.501	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-63	904.4465	904.4634	25468.0	30265.0	Nyctalus leisleri	0.329	0.501	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-64	905.1565	905.1745	25468.0	30694.0	Nyctalus leisleri	0.236	0.51	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-64	905.1565	905.1745	25468.0	30694.0	Nyctalus leisleri	0.236	0.51	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-65	905.7365	905.7522	25468.0	30329.0	Nyctalus leisleri	0.364	0.562	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-65	905.7365	905.7522	25468.0	30329.0	Nyctalus leisleri	0.364	0.562	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-66	911.2005	911.2171	24609.0	28810.0	Nyctalus leisleri	0.434	0.605	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-66	911.2005	911.2171	24609.0	28810.0	Nyctalus leisleri	0.434	0.605	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-67	1029.6575	1029.6731	25468.0	29088.0	Nyctalus leisleri	0.42	0.517	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-67	1029.6575	1029.6731	25468.0	29088.0	Nyctalus leisleri	0.42	0.517	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-68	1086.8575	1086.873	24609.0	29007.0	Nyctalus leisleri	0.368	0.564	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-68	1086.8575	1086.873	24609.0	29007.0	Nyctalus leisleri	0.368	0.564	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-69	1127.1845	1127.1924	47812.0	65231.0	Pipistrellus pipistrellus	0.476	0.556	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-69	1127.1845	1127.1924	47812.0	65231.0	Pipistrellus pipistrellus	0.476	0.556	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-70	1127.4455	1127.4532	46953.0	62001.0	Pipistrellus pipistrellus	0.514	0.594	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-70	1127.4455	1127.4532	46953.0	62001.0	Pipistrellus pipistrellus	0.514	0.594	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-71	1127.5355	1127.5452	46953.0	65855.0	Pipistrellus pipistrellus	0.481	0.597	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-71	1127.5355	1127.5452	46953.0	65855.0	Pipistrellus pipistrellus	0.481	0.597	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-72	1127.7335	1127.7427	46093.0	62713.0	Pipistrellus pipistrellus	0.36	0.573	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-72	1127.7335	1127.7427	46093.0	62713.0	Pipistrellus pipistrellus	0.36	0.573	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-73	1127.8355	1127.8435	46953.0	63148.0	Pipistrellus pipistrellus	0.515	0.658	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-73	1127.8355	1127.8435	46953.0	63148.0	Pipistrellus pipistrellus	0.515	0.658	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-74	1127.9265	1127.9351	46093.0	65536.0	Pipistrellus pipistrellus	0.46	0.598	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-74	1127.9265	1127.9351	46093.0	65536.0	Pipistrellus pipistrellus	0.46	0.598	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-75	1128.0115	1128.0216	46093.0	68097.0	Pipistrellus pipistrellus	0.425	0.587	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-75	1128.0115	1128.0216	46093.0	68097.0	Pipistrellus pipistrellus	0.425	0.587	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-76	1128.1215	1128.1282	46953.0	58603.0	Pipistrellus pipistrellus	0.556	0.604	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-76	1128.1215	1128.1282	46953.0	58603.0	Pipistrellus pipistrellus	0.556	0.604	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-77	1128.2075	1128.2137	46093.0	70341.0	Pipistrellus pipistrellus	0.596	0.733	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-77	1128.2075	1128.2137	46093.0	70341.0	Pipistrellus pipistrellus	0.596	0.733	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-78	1128.2995	1128.3065	46953.0	59982.0	Pipistrellus pipistrellus	0.621	0.668	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-78	1128.2995	1128.3065	46953.0	59982.0	Pipistrellus pipistrellus	0.621	0.668	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-79	1128.3795	1128.3909	47812.0	53726.0	Pipistrellus pipistrellus	0.459	0.504	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-79	1128.3795	1128.3909	47812.0	53726.0	Pipistrellus pipistrellus	0.459	0.504	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-80	1128.4545	1128.4612	46953.0	67195.0	Pipistrellus pipistrellus	0.545	0.63	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-80	1128.4545	1128.4612	46953.0	67195.0	Pipistrellus pipistrellus	0.545	0.63	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-81	1128.6005	1128.6076	46953.0	64490.0	Pipistrellus pipistrellus	0.405	0.505	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-81	1128.6005	1128.6076	46953.0	64490.0	Pipistrellus pipistrellus	0.405	0.505	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-82	1128.8965	1128.9028	44375.0	66447.0	Pipistrellus pipistrellus	0.46	0.6	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-82	1128.8965	1128.9028	44375.0	66447.0	Pipistrellus pipistrellus	0.46	0.6	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-83	1129.0385	1129.0452	46093.0	65739.0	Pipistrellus pipistrellus	0.565	0.618	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-83	1129.0385	1129.0452	46093.0	65739.0	Pipistrellus pipistrellus	0.565	0.618	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-84	1129.2285	1129.2364	46953.0	64351.0	Pipistrellus pipistrellus	0.486	0.589	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-84	1129.2285	1129.2364	46953.0	64351.0	Pipistrellus pipistrellus	0.486	0.589	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-85	1129.4335	1129.4406	46953.0	64275.0	Pipistrellus pipistrellus	0.592	0.648	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-85	1129.4335	1129.4406	46953.0	64275.0	Pipistrellus pipistrellus	0.592	0.648	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-86	1129.5255	1129.5314	45234.0	61697.0	Pipistrellus pipistrellus	0.565	0.612	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-86	1129.5255	1129.5314	45234.0	61697.0	Pipistrellus pipistrellus	0.565	0.612	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-87	1129.6875	1129.6959	46953.0	60327.0	Pipistrellus pipistrellus	0.5	0.562	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-87	1129.6875	1129.6959	46953.0	60327.0	Pipistrellus pipistrellus	0.5	0.562	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-88	1129.7415	1129.7471	45234.0	68659.0	Pipistrellus pipistrellus	0.571	0.635	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-88	1129.7415	1129.7471	45234.0	68659.0	Pipistrellus pipistrellus	0.571	0.635	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-89	1129.8005	1129.8056	45234.0	65019.0	Pipistrellus pipistrellus	0.57	0.626	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-89	1129.8005	1129.8056	45234.0	65019.0	Pipistrellus pipistrellus	0.57	0.626	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-90	1129.9545	1129.963	45234.0	63220.0	Pipistrellus pipistrellus	0.434	0.506	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-90	1129.9545	1129.963	45234.0	63220.0	Pipistrellus pipistrellus	0.434	0.506	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-91	1130.0705	1130.0778	43515.0	64349.0	Pipistrellus pipistrellus	0.541	0.686	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-91	1130.0705	1130.0778	43515.0	64349.0	Pipistrellus pipistrellus	0.541	0.686	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-92	1130.2165	1130.2258	45234.0	62188.0	Pipistrellus pipistrellus	0.497	0.616	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-92	1130.2165	1130.2258	45234.0	62188.0	Pipistrellus pipistrellus	0.497	0.616	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-93	1130.2905	1130.3016	43515.0	65570.0	Pipistrellus pipistrellus	0.449	0.619	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-93	1130.2905	1130.3016	43515.0	65570.0	Pipistrellus pipistrellus	0.449	0.619	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-94	1130.3765	1130.385	44375.0	63584.0	Pipistrellus pipistrellus	0.481	0.583	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-94	1130.3765	1130.385	44375.0	63584.0	Pipistrellus pipistrellus	0.481	0.583	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-95	1130.4545	1130.462	43515.0	64471.0	Pipistrellus pipistrellus	0.365	0.57	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-95	1130.4545	1130.462	43515.0	64471.0	Pipistrellus pipistrellus	0.365	0.57	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-96	1130.5315	1130.5374	44375.0	65556.0	Pipistrellus pipistrellus	0.596	0.646	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-96	1130.5315	1130.5374	44375.0	65556.0	Pipistrellus pipistrellus	0.596	0.646	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-97	1130.6115	1130.6182	45234.0	64953.0	Pipistrellus pipistrellus	0.423	0.536	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-97	1130.6115	1130.6182	45234.0	64953.0	Pipistrellus pipistrellus	0.423	0.536	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-98	1131.1755	1131.181	46953.0	60427.0	Pipistrellus pipistrellus	0.543	0.576	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-98	1131.1755	1131.181	46953.0	60427.0	Pipistrellus pipistrellus	0.543	0.576	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-99	1131.2575	1131.2634	45234.0	62461.0	Pipistrellus pipistrellus	0.587	0.639	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-99	1131.2575	1131.2634	45234.0	62461.0	Pipistrellus pipistrellus	0.587	0.639	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-100	1131.5205	1131.526	46093.0	58534.0	Pipistrellus pipistrellus	0.516	0.571	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-100	1131.5205	1131.526	46093.0	58534.0	Pipistrellus pipistrellus	0.516	0.571	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-101	1131.7085	1131.7164	44375.0	55684.0	Pipistrellus pipistrellus	0.461	0.515	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-101	1131.7085	1131.7164	44375.0	55684.0	Pipistrellus pipistrellus	0.461	0.515	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-102	1239.6575	1239.6704	25468.0	29225.0	Nyctalus leisleri	0.439	0.58	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-102	1239.6575	1239.6704	25468.0	29225.0	Nyctalus leisleri	0.439	0.58	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-103	1240.8675	1240.8808	25468.0	30256.0	Nyctalus leisleri	0.39	0.527	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-103	1240.8675	1240.8808	25468.0	30256.0	Nyctalus leisleri	0.39	0.527	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-104	1241.3595	1241.3727	25468.0	31283.0	Nyctalus leisleri	0.27	0.578	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-104	1241.3595	1241.3727	25468.0	31283.0	Nyctalus leisleri	0.27	0.578	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-105	1243.2115	1243.2247	26328.0	31809.0	Nyctalus leisleri	0.359	0.595	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-105	1243.2115	1243.2247	26328.0	31809.0	Nyctalus leisleri	0.359	0.595	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-106	1243.4595	1243.4764	25468.0	30007.0	Nyctalus leisleri	0.398	0.552	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-106	1243.4595	1243.4764	25468.0	30007.0	Nyctalus leisleri	0.398	0.552	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-107	1244.3055	1244.3197	25468.0	31143.0	Nyctalus leisleri	0.395	0.582	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-107	1244.3055	1244.3197	25468.0	31143.0	Nyctalus leisleri	0.395	0.582	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-108	1244.9105	1244.9216	26328.0	31596.0	Nyctalus leisleri	0.543	0.667	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-108	1244.9105	1244.9216	26328.0	31596.0	Nyctalus leisleri	0.543	0.667	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-109	1248.5835	1248.5983	25468.0	30088.0	Nyctalus leisleri	0.401	0.532	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-109	1248.5835	1248.5983	25468.0	30088.0	Nyctalus leisleri	0.401	0.532	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-110	1249.8095	1249.8272	25468.0	31523.0	Nyctalus leisleri	0.251	0.51	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-110	1249.8095	1249.8272	25468.0	31523.0	Nyctalus leisleri	0.251	0.51	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-111	1252.7745	1252.7893	24609.0	31793.0	Nyctalus leisleri	0.276	0.543	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-111	1252.7745	1252.7893	24609.0	31793.0	Nyctalus leisleri	0.276	0.543	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-112	1253.9865	1253.9997	25468.0	32236.0	Nyctalus leisleri	0.203	0.525	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-112	1253.9865	1253.9997	25468.0	32236.0	Nyctalus leisleri	0.203	0.525	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-113	1353.4095	1353.4198	27187.0	32972.0	Nyctalus leisleri	0.242	0.524	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-113	1353.4095	1353.4198	27187.0	32972.0	Nyctalus leisleri	0.242	0.524	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-114	1365.8645	1365.8805	26328.0	29143.0	Nyctalus leisleri	0.495	0.582	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-114	1365.8645	1365.8805	26328.0	29143.0	Nyctalus leisleri	0.495	0.582	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-115	1367.7265	1367.7411	27187.0	30434.0	Nyctalus leisleri	0.467	0.582	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-115	1367.7265	1367.7411	27187.0	30434.0	Nyctalus leisleri	0.467	0.582	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-116	1369.5105	1369.5229	27187.0	34438.0	Nyctalus leisleri	0.26	0.607	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-116	1369.5105	1369.5229	27187.0	34438.0	Nyctalus leisleri	0.26	0.607	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-117	1369.7425	1369.7559	27187.0	34003.0	Nyctalus leisleri	0.246	0.604	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-117	1369.7425	1369.7559	27187.0	34003.0	Nyctalus leisleri	0.246	0.604	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-118	1370.2025	1370.214	27187.0	34405.0	Nyctalus leisleri	0.299	0.647	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-118	1370.2025	1370.214	27187.0	34405.0	Nyctalus leisleri	0.299	0.647	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-119	1371.0235	1371.0366	27187.0	35109.0	Eptesicus serotinus	0.325	0.535	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-119	1371.0235	1371.0366	27187.0	35109.0	Eptesicus serotinus	0.325	0.535	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-120	1371.2595	1371.2708	27187.0	33706.0	Eptesicus serotinus	0.262	0.576	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-120	1371.2595	1371.2708	27187.0	33706.0	Eptesicus serotinus	0.262	0.576	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-121	1371.9785	1371.9899	27187.0	34037.0	Nyctalus leisleri	0.367	0.659	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-121	1371.9785	1371.9899	27187.0	34037.0	Nyctalus leisleri	0.367	0.659	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-122	1372.2045	1372.2156	27187.0	35832.0	Eptesicus serotinus	0.296	0.661	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-122	1372.2045	1372.2156	27187.0	35832.0	Eptesicus serotinus	0.296	0.661	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-123	1373.3055	1373.3176	27187.0	32373.0	Nyctalus leisleri	0.34	0.517	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-123	1373.3055	1373.3176	27187.0	32373.0	Nyctalus leisleri	0.34	0.517	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-124	1374.1465	1374.1598	26328.0	33763.0	Eptesicus serotinus	0.291	0.609	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-124	1374.1465	1374.1598	26328.0	33763.0	Eptesicus serotinus	0.291	0.609	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-125	1374.7635	1374.7775	26328.0	31781.0	Nyctalus leisleri	0.324	0.575	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-125	1374.7635	1374.7775	26328.0	31781.0	Nyctalus leisleri	0.324	0.575	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-126	1375.4935	1375.5083	26328.0	30946.0	Nyctalus leisleri	0.478	0.65	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-126	1375.4935	1375.5083	26328.0	30946.0	Nyctalus leisleri	0.478	0.65	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-127	1375.8455	1375.8598	26328.0	31126.0	Nyctalus leisleri	0.377	0.576	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-127	1375.8455	1375.8598	26328.0	31126.0	Nyctalus leisleri	0.377	0.576	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-128	1377.6675	1377.6811	26328.0	31483.0	Nyctalus leisleri	0.433	0.589	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-128	1377.6675	1377.6811	26328.0	31483.0	Nyctalus leisleri	0.433	0.589	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-129	1380.7145	1380.7283	26328.0	33207.0	Nyctalus leisleri	0.257	0.59	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-129	1380.7145	1380.7283	26328.0	33207.0	Nyctalus leisleri	0.257	0.59	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-130	1382.1365	1382.1525	26328.0	30550.0	Nyctalus leisleri	0.366	0.537	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-130	1382.1365	1382.1525	26328.0	30550.0	Nyctalus leisleri	0.366	0.537	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-131	1383.4715	1383.4872	26328.0	30277.0	Nyctalus leisleri	0.462	0.611	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-131	1383.4715	1383.4872	26328.0	30277.0	Nyctalus leisleri	0.462	0.611	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-132	1384.8185	1384.8319	26328.0	33021.0	Nyctalus leisleri	0.348	0.673	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-132	1384.8185	1384.8319	26328.0	33021.0	Nyctalus leisleri	0.348	0.673	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-133	1385.5695	1385.5828	26328.0	31279.0	Nyctalus leisleri	0.496	0.649	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-133	1385.5695	1385.5828	26328.0	31279.0	Nyctalus leisleri	0.496	0.649	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-134	1385.6985	1385.7121	28046.0	34270.0	Nyctalus leisleri	0.324	0.569	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-134	1385.6985	1385.7121	28046.0	34270.0	Nyctalus leisleri	0.324	0.569	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-135	1385.9625	1385.9747	27187.0	37094.0	Eptesicus serotinus	0.362	0.717	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-135	1385.9625	1385.9747	27187.0	37094.0	Eptesicus serotinus	0.362	0.717	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-136	1386.2005	1386.2146	27187.0	32918.0	Nyctalus leisleri	0.244	0.603	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-136	1386.2005	1386.2146	27187.0	32918.0	Nyctalus leisleri	0.244	0.603	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-137	1386.4465	1386.4614	26328.0	31269.0	Nyctalus leisleri	0.425	0.671	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-137	1386.4465	1386.4614	26328.0	31269.0	Nyctalus leisleri	0.425	0.671	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-138	1386.5805	1386.5908	28046.0	35026.0	Nyctalus leisleri	0.352	0.677	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-138	1386.5805	1386.5908	28046.0	35026.0	Nyctalus leisleri	0.352	0.677	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-139	1386.8095	1386.8215	27187.0	35355.0	Nyctalus leisleri	0.319	0.728	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-139	1386.8095	1386.8215	27187.0	35355.0	Nyctalus leisleri	0.319	0.728	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-140	1387.4135	1387.4282	26328.0	32316.0	Nyctalus leisleri	0.299	0.665	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-140	1387.4135	1387.4282	26328.0	32316.0	Nyctalus leisleri	0.299	0.665	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-141	1387.7775	1387.7935	26328.0	30874.0	Nyctalus leisleri	0.286	0.518	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-141	1387.7775	1387.7935	26328.0	30874.0	Nyctalus leisleri	0.286	0.518	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-142	1388.1285	1388.143	26328.0	30331.0	Nyctalus leisleri	0.561	0.693	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-142	1388.1285	1388.143	26328.0	30331.0	Nyctalus leisleri	0.561	0.693	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-143	1388.6005	1388.6109	28046.0	33384.0	Nyctalus leisleri	0.443	0.599	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-143	1388.6005	1388.6109	28046.0	33384.0	Nyctalus leisleri	0.443	0.599	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-144	1388.7275	1388.7393	27187.0	36182.0	Nyctalus leisleri	0.354	0.616	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-144	1388.7275	1388.7393	27187.0	36182.0	Nyctalus leisleri	0.354	0.616	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-145	1389.0815	1389.0951	26328.0	31443.0	Nyctalus leisleri	0.443	0.667	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-145	1389.0815	1389.0951	26328.0	31443.0	Nyctalus leisleri	0.443	0.667	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-146	1389.3185	1389.3333	26328.0	31553.0	Nyctalus leisleri	0.375	0.63	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-146	1389.3185	1389.3333	26328.0	31553.0	Nyctalus leisleri	0.375	0.63	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-147	1390.0375	1390.0521	26328.0	31093.0	Nyctalus leisleri	0.306	0.536	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-147	1390.0375	1390.0521	26328.0	31093.0	Nyctalus leisleri	0.306	0.536	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-148	1391.0405	1391.0505	28046.0	34363.0	Nyctalus leisleri	0.393	0.643	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-148	1391.0405	1391.0505	28046.0	34363.0	Nyctalus leisleri	0.393	0.643	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-149	1391.4055	1391.4225	26328.0	28995.0	Nyctalus leisleri	0.49	0.563	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-149	1391.4055	1391.4225	26328.0	28995.0	Nyctalus leisleri	0.49	0.563	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-150	1392.7515	1392.7671	26328.0	29785.0	Nyctalus leisleri	0.483	0.623	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-150	1392.7515	1392.7671	26328.0	29785.0	Nyctalus leisleri	0.483	0.623	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-151	1394.3595	1394.3752	26328.0	34666.0	Eptesicus serotinus	0.295	0.562	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-151	1394.3595	1394.3752	26328.0	34666.0	Eptesicus serotinus	0.295	0.562	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-152	1397.0715	1397.0851	26328.0	31361.0	Nyctalus leisleri	0.462	0.655	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-152	1397.0715	1397.0851	26328.0	31361.0	Nyctalus leisleri	0.462	0.655	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-153	1397.6855	1397.6969	27187.0	31796.0	Nyctalus leisleri	0.335	0.505	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-153	1397.6855	1397.6969	27187.0	31796.0	Nyctalus leisleri	0.335	0.505	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-154	1397.9365	1397.949	27187.0	32583.0	Nyctalus leisleri	0.414	0.587	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-154	1397.9365	1397.949	27187.0	32583.0	Nyctalus leisleri	0.414	0.587	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-155	1479.4435	1479.4602	25468.0	28359.0	Nyctalus leisleri	0.521	0.591	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-155	1479.4435	1479.4602	25468.0	28359.0	Nyctalus leisleri	0.521	0.591	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-156	1481.8415	1481.8589	25468.0	28009.0	Nyctalus leisleri	0.494	0.577	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-156	1481.8415	1481.8589	25468.0	28009.0	Nyctalus leisleri	0.494	0.577	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-157	1486.2815	1486.298	25468.0	27264.0	Nyctalus leisleri	0.479	0.564	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-157	1486.2815	1486.298	25468.0	27264.0	Nyctalus leisleri	0.479	0.564	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-158	1486.4105	1486.4234	26328.0	34639.0	Eptesicus serotinus	0.292	0.658	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-158	1486.4105	1486.4234	26328.0	34639.0	Eptesicus serotinus	0.292	0.658	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-159	1486.8785	1486.8964	25468.0	29240.0	Nyctalus leisleri	0.412	0.549	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-159	1486.8785	1486.8964	25468.0	29240.0	Nyctalus leisleri	0.412	0.549	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-160	1488.7195	1488.7358	25468.0	31064.0	Nyctalus leisleri	0.399	0.555	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-160	1488.7195	1488.7358	25468.0	31064.0	Nyctalus leisleri	0.399	0.555	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-161	1494.7125	1494.7266	25468.0	30155.0	Nyctalus leisleri	0.555	0.679	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-161	1494.7125	1494.7266	25468.0	30155.0	Nyctalus leisleri	0.555	0.679	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-162	1504.3815	1504.3949	26328.0	32570.0	Nyctalus leisleri	0.345	0.541	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-162	1504.3815	1504.3949	26328.0	32570.0	Nyctalus leisleri	0.345	0.541	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-163	1508.2965	1508.3107	25468.0	33178.0	Eptesicus serotinus	0.27	0.535	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-163	1508.2965	1508.3107	25468.0	33178.0	Eptesicus serotinus	0.27	0.535	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-164	1508.7715	1508.7852	25468.0	33409.0	Nyctalus leisleri	0.297	0.632	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-164	1508.7715	1508.7852	25468.0	33409.0	Nyctalus leisleri	0.297	0.632	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-165	1509.3815	1509.3951	25468.0	32026.0	Nyctalus leisleri	0.405	0.595	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-165	1509.3815	1509.3951	25468.0	32026.0	Nyctalus leisleri	0.405	0.595	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-166	1510.0815	1510.0959	25468.0	34987.0	Eptesicus serotinus	0.381	0.565	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-166	1510.0815	1510.0959	25468.0	34987.0	Eptesicus serotinus	0.381	0.565	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-167	1511.2945	1511.3112	25468.0	30174.0	Nyctalus leisleri	0.364	0.526	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-167	1511.2945	1511.3112	25468.0	30174.0	Nyctalus leisleri	0.364	0.526	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-168	1511.9085	1511.9246	25468.0	30476.0	Nyctalus leisleri	0.388	0.548	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-168	1511.9085	1511.9246	25468.0	30476.0	Nyctalus leisleri	0.388	0.548	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-169	1514.2555	1514.2677	25468.0	30036.0	Nyctalus leisleri	0.364	0.509	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-169	1514.2555	1514.2677	25468.0	30036.0	Nyctalus leisleri	0.364	0.509	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-170	1514.4885	1514.5064	24609.0	30938.0	Nyctalus leisleri	0.253	0.534	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-170	1514.4885	1514.5064	24609.0	30938.0	Nyctalus leisleri	0.253	0.534	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-171	1514.9605	1514.9761	25468.0	31453.0	Nyctalus leisleri	0.355	0.571	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-171	1514.9605	1514.9761	25468.0	31453.0	Nyctalus leisleri	0.355	0.571	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-172	1515.6575	1515.672	25468.0	30072.0	Nyctalus leisleri	0.392	0.59	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-172	1515.6575	1515.672	25468.0	30072.0	Nyctalus leisleri	0.392	0.59	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-173	1516.2575	1516.274	25468.0	30315.0	Nyctalus leisleri	0.333	0.508	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-173	1516.2575	1516.274	25468.0	30315.0	Nyctalus leisleri	0.333	0.508	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-174	1516.5075	1516.5262	25468.0	31520.0	Eptesicus serotinus	0.201	0.551	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-174	1516.5075	1516.5262	25468.0	31520.0	Eptesicus serotinus	0.201	0.551	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-175	1516.9125	1516.9264	25468.0	33353.0	Nyctalus leisleri	0.292	0.66	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-175	1516.9125	1516.9264	25468.0	33353.0	Nyctalus leisleri	0.292	0.66	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-176	1518.1395	1518.1527	25468.0	31043.0	Nyctalus leisleri	0.471	0.669	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-176	1518.1395	1518.1527	25468.0	31043.0	Nyctalus leisleri	0.471	0.669	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-177	1518.6145	1518.6268	26328.0	31246.0	Nyctalus leisleri	0.448	0.651	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-177	1518.6145	1518.6268	26328.0	31246.0	Nyctalus leisleri	0.448	0.651	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-178	1519.1075	1519.1217	25468.0	30864.0	Nyctalus leisleri	0.407	0.616	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-178	1519.1075	1519.1217	25468.0	30864.0	Nyctalus leisleri	0.407	0.616	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-179	1519.6905	1519.7056	26328.0	31132.0	Nyctalus leisleri	0.338	0.503	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-179	1519.6905	1519.7056	26328.0	31132.0	Nyctalus leisleri	0.338	0.503	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-180	1525.2215	1525.2372	26328.0	30073.0	Nyctalus leisleri	0.452	0.544	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-180	1525.2215	1525.2372	26328.0	30073.0	Nyctalus leisleri	0.452	0.544	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-181	1527.0525	1527.0648	25468.0	30622.0	Nyctalus leisleri	0.486	0.605	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-181	1527.0525	1527.0648	25468.0	30622.0	Nyctalus leisleri	0.486	0.605	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-182	1529.0555	1529.0738	25468.0	30541.0	Nyctalus leisleri	0.305	0.552	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-182	1529.0555	1529.0738	25468.0	30541.0	Nyctalus leisleri	0.305	0.552	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-183	1529.5425	1529.5606	25468.0	28761.0	Nyctalus leisleri	0.439	0.584	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-183	1529.5425	1529.5606	25468.0	28761.0	Nyctalus leisleri	0.439	0.584	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-184	1530.2585	1530.2748	24609.0	29983.0	Nyctalus leisleri	0.425	0.613	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-184	1530.2585	1530.2748	24609.0	29983.0	Nyctalus leisleri	0.425	0.613	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-185	1532.0975	1532.1143	25468.0	29732.0	Nyctalus leisleri	0.501	0.585	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-185	1532.0975	1532.1143	25468.0	29732.0	Nyctalus leisleri	0.501	0.585	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-186	1532.6115	1532.6281	25468.0	30074.0	Nyctalus leisleri	0.402	0.589	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-186	1532.6115	1532.6281	25468.0	30074.0	Nyctalus leisleri	0.402	0.589	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-187	1533.3205	1533.3376	25468.0	28879.0	Nyctalus leisleri	0.395	0.561	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-187	1533.3205	1533.3376	25468.0	28879.0	Nyctalus leisleri	0.395	0.561	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-188	1534.0285	1534.0456	25468.0	29566.0	Nyctalus leisleri	0.371	0.552	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-188	1534.0285	1534.0456	25468.0	29566.0	Nyctalus leisleri	0.371	0.552	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-189	1535.2295	1535.2465	25468.0	28663.0	Nyctalus leisleri	0.422	0.514	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-189	1535.2295	1535.2465	25468.0	28663.0	Nyctalus leisleri	0.422	0.514	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-190	1535.8245	1535.8424	24609.0	27929.0	Nyctalus leisleri	0.469	0.62	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-190	1535.8245	1535.8424	24609.0	27929.0	Nyctalus leisleri	0.469	0.62	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-191	1536.5505	1536.5658	24609.0	28113.0	Nyctalus leisleri	0.497	0.598	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-191	1536.5505	1536.5658	24609.0	28113.0	Nyctalus leisleri	0.497	0.598	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-192	1536.7915	1536.806	26328.0	30377.0	Nyctalus leisleri	0.455	0.577	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-192	1536.7915	1536.806	26328.0	30377.0	Nyctalus leisleri	0.455	0.577	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-193	1557.4495	1557.4658	25468.0	28644.0	Nyctalus leisleri	0.499	0.614	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-193	1557.4495	1557.4658	25468.0	28644.0	Nyctalus leisleri	0.499	0.614	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-194	1558.7715	1558.7867	24609.0	28225.0	Nyctalus leisleri	0.543	0.634	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-194	1558.7715	1558.7867	24609.0	28225.0	Nyctalus leisleri	0.543	0.634	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-195	1558.8905	1558.9059	25468.0	31201.0	Nyctalus leisleri	0.376	0.546	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-195	1558.8905	1558.9059	25468.0	31201.0	Nyctalus leisleri	0.376	0.546	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-196	1560.1255	1560.146	24609.0	27475.0	Nyctalus leisleri	0.504	0.585	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-196	1560.1255	1560.146	24609.0	27475.0	Nyctalus leisleri	0.504	0.585	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-197	1563.6905	1563.7069	25468.0	28726.0	Nyctalus leisleri	0.469	0.558	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-197	1563.6905	1563.7069	25468.0	28726.0	Nyctalus leisleri	0.469	0.558	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-198	1587.0385	1587.0519	25468.0	32551.0	Eptesicus serotinus	0.267	0.552	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-198	1587.0385	1587.0519	25468.0	32551.0	Eptesicus serotinus	0.267	0.552	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-199	1593.1985	1593.2127	25468.0	31123.0	Nyctalus leisleri	0.336	0.563	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-199	1593.1985	1593.2127	25468.0	31123.0	Nyctalus leisleri	0.336	0.563	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-200	1593.4335	1593.4476	25468.0	28983.0	Nyctalus leisleri	0.508	0.598	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-200	1593.4335	1593.4476	25468.0	28983.0	Nyctalus leisleri	0.508	0.598	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-201	1594.4785	1594.493	26328.0	31251.0	Nyctalus leisleri	0.454	0.609	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-201	1594.4785	1594.493	26328.0	31251.0	Nyctalus leisleri	0.454	0.609	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-202	1595.1545	1595.1696	25468.0	31059.0	Nyctalus leisleri	0.296	0.605	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-202	1595.1545	1595.1696	25468.0	31059.0	Nyctalus leisleri	0.296	0.605	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-203	1595.2775	1595.2902	27187.0	32927.0	Nyctalus leisleri	0.32	0.56	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-203	1595.2775	1595.2902	27187.0	32927.0	Nyctalus leisleri	0.32	0.56	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-204	1595.7425	1595.758	25468.0	31421.0	Nyctalus leisleri	0.355	0.582	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-204	1595.7425	1595.758	25468.0	31421.0	Nyctalus leisleri	0.355	0.582	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-205	1596.4465	1596.4616	25468.0	30495.0	Nyctalus leisleri	0.372	0.572	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-205	1596.4465	1596.4616	25468.0	30495.0	Nyctalus leisleri	0.372	0.572	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-206	1596.8025	1596.8154	25468.0	30972.0	Nyctalus leisleri	0.455	0.581	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-206	1596.8025	1596.8154	25468.0	30972.0	Nyctalus leisleri	0.455	0.581	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-207	1597.0245	1597.0399	25468.0	30691.0	Nyctalus leisleri	0.448	0.601	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-207	1597.0245	1597.0399	25468.0	30691.0	Nyctalus leisleri	0.448	0.601	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-208	1598.1815	1598.1922	26328.0	32267.0	Eptesicus serotinus	0.226	0.505	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-208	1598.1815	1598.1922	26328.0	32267.0	Eptesicus serotinus	0.226	0.505	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-209	1599.4905	1599.5038	26328.0	31537.0	Nyctalus leisleri	0.28	0.579	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-209	1599.4905	1599.5038	26328.0	31537.0	Nyctalus leisleri	0.28	0.579	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-210	1599.8255	1599.8385	25468.0	31734.0	Nyctalus leisleri	0.311	0.555	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-210	1599.8255	1599.8385	25468.0	31734.0	Nyctalus leisleri	0.311	0.555	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-211	1600.7295	1600.745	25468.0	32271.0	Eptesicus serotinus	0.27	0.522	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-211	1600.7295	1600.745	25468.0	32271.0	Eptesicus serotinus	0.27	0.522	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-212	1602.3065	1602.3186	26328.0	30908.0	Nyctalus leisleri	0.448	0.586	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-212	1602.3065	1602.3186	26328.0	30908.0	Nyctalus leisleri	0.448	0.586	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-213	1602.8115	1602.8265	25468.0	30015.0	Nyctalus leisleri	0.474	0.623	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-213	1602.8115	1602.8265	25468.0	30015.0	Nyctalus leisleri	0.474	0.623	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-214	1603.0515	1603.0662	25468.0	30752.0	Nyctalus leisleri	0.342	0.525	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-214	1603.0515	1603.0662	25468.0	30752.0	Nyctalus leisleri	0.342	0.525	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-215	1603.6445	1603.6608	25468.0	31622.0	Nyctalus leisleri	0.296	0.571	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-215	1603.6445	1603.6608	25468.0	31622.0	Nyctalus leisleri	0.296	0.571	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-216	1604.2725	1604.2865	24609.0	31610.0	Nyctalus leisleri	0.307	0.582	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-216	1604.2725	1604.2865	24609.0	31610.0	Nyctalus leisleri	0.307	0.582	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-217	1606.1975	1606.2142	25468.0	29606.0	Nyctalus leisleri	0.361	0.502	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-217	1606.1975	1606.2142	25468.0	29606.0	Nyctalus leisleri	0.361	0.502	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-218	1606.5695	1606.587	25468.0	29156.0	Nyctalus leisleri	0.432	0.545	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-218	1606.5695	1606.587	25468.0	29156.0	Nyctalus leisleri	0.432	0.545	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-219	1632.5895	1632.6029	25468.0	29352.0	Nyctalus leisleri	0.461	0.611	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-219	1632.5895	1632.6029	25468.0	29352.0	Nyctalus leisleri	0.461	0.611	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-220	1637.0565	1637.0714	24609.0	28743.0	Nyctalus leisleri	0.395	0.521	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-220	1637.0565	1637.0714	24609.0	28743.0	Nyctalus leisleri	0.395	0.521	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-221	1637.8725	1637.8902	24609.0	28354.0	Nyctalus leisleri	0.426	0.544	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-221	1637.8725	1637.8902	24609.0	28354.0	Nyctalus leisleri	0.426	0.544	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-222	1638.4605	1638.4753	25468.0	29570.0	Nyctalus leisleri	0.424	0.553	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-222	1638.4605	1638.4753	25468.0	29570.0	Nyctalus leisleri	0.424	0.553	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-223	1639.1945	1639.2111	24609.0	28058.0	Nyctalus leisleri	0.399	0.504	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-223	1639.1945	1639.2111	24609.0	28058.0	Nyctalus leisleri	0.399	0.504	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-224	1639.9255	1639.941	24609.0	30138.0	Nyctalus leisleri	0.37	0.553	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-224	1639.9255	1639.941	24609.0	30138.0	Nyctalus leisleri	0.37	0.553	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-225	1640.7725	1640.7862	24609.0	30750.0	Nyctalus leisleri	0.238	0.512	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-225	1640.7725	1640.7862	24609.0	30750.0	Nyctalus leisleri	0.238	0.512	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-226	1641.3645	1641.38	25468.0	31252.0	Nyctalus leisleri	0.343	0.572	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-226	1641.3645	1641.38	25468.0	31252.0	Nyctalus leisleri	0.343	0.572	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-227	1644.4755	1644.4918	24609.0	28935.0	Nyctalus leisleri	0.402	0.591	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
-227	1644.4755	1644.4918	24609.0	28935.0	Nyctalus leisleri	0.402	0.591	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
+Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	class	class_prob	det_prob	individual	event	input_file	Site name	Recover Folder	SD Card
+23.5855	23.5933	38359.0	45982.0	Pipistrellus nathusii	0.621	0.647	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
+23.8695	23.8795	37500.0	45365.0	Pipistrellus nathusii	0.47	0.509	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
+24.8895	24.8993	38359.0	44978.0	Pipistrellus nathusii	0.511	0.555	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
+25.1775	25.1878	39218.0	47013.0	Pipistrellus nathusii	0.422	0.508	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
+25.2745	25.2843	38359.0	46863.0	Pipistrellus nathusii	0.569	0.619	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
+25.6795	25.689	38359.0	45403.0	Pipistrellus nathusii	0.41	0.515	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
+26.1405	26.1497	38359.0	44765.0	Pipistrellus nathusii	0.466	0.551	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
+26.2345	26.2413	37500.0	45390.0	Pipistrellus nathusii	0.457	0.506	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
+26.4125	26.4219	38359.0	45452.0	Pipistrellus nathusii	0.452	0.521	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
+26.5065	26.5171	37500.0	45348.0	Pipistrellus nathusii	0.495	0.544	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
+55.1865	55.1981	26328.0	32734.0	Nyctalus leisleri	0.359	0.656	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
+57.1685	57.1787	27187.0	34273.0	Nyctalus leisleri	0.404	0.657	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
+73.4945	73.5139	25468.0	28667.0	Nyctalus leisleri	0.492	0.558	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
+75.0485	75.0651	25468.0	30330.0	Nyctalus leisleri	0.378	0.532	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
+78.9635	78.98089999999999	25468.0	29831.0	Nyctalus leisleri	0.445	0.531	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
+85.8055	85.8185	26328.0	31200.0	Nyctalus leisleri	0.348	0.547	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
+86.2685	86.2838	26328.0	32006.0	Nyctalus leisleri	0.252	0.58	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
+86.8895	86.9008	26328.0	32257.0	Nyctalus leisleri	0.48	0.669	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
+93.7895	93.8065	25468.0	28161.0	Nyctalus leisleri	0.607	0.675	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
+94.8715	94.8863	26328.0	30490.0	Nyctalus leisleri	0.487	0.626	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
+95.5945	95.6078	26328.0	32119.0	Nyctalus leisleri	0.393	0.655	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
+95.7385	95.753	26328.0	31058.0	Nyctalus leisleri	0.449	0.545	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
+95.9745	95.9876	26328.0	34481.0	Eptesicus serotinus	0.286	0.624	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
+96.4425	96.4576	26328.0	30800.0	Nyctalus leisleri	0.383	0.521	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
+207.8435	207.8609	24609.0	29020.0	Nyctalus leisleri	0.371	0.534	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
+213.6125	213.6245	25468.0	30520.0	Nyctalus leisleri	0.278	0.52	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
+426.5685	426.5844	26328.0	28975.0	Nyctalus leisleri	0.414	0.503	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
+427.4135	427.4318	25468.0	29426.0	Nyctalus leisleri	0.331	0.521	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
+430.3035	430.3241	24609.0	28381.0	Nyctalus leisleri	0.423	0.514	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
+430.6275	430.6453	26328.0	29259.0	Nyctalus leisleri	0.415	0.524	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
+431.3575	431.3747	24609.0	28289.0	Nyctalus leisleri	0.574	0.625	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
+433.1815	433.1945	26328.0	29327.0	Nyctalus leisleri	0.461	0.569	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
+433.4195	433.4337	26328.0	30075.0	Nyctalus leisleri	0.467	0.626	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
+433.9135	433.929	25468.0	29878.0	Nyctalus leisleri	0.451	0.585	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
+434.4445	434.4678	24609.0	27432.0	Nyctalus leisleri	0.456	0.521	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
+435.0705	435.0889	25468.0	29217.0	Nyctalus leisleri	0.475	0.538	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
+436.6265	436.6436	25468.0	29396.0	Nyctalus leisleri	0.454	0.554	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
+436.7335	436.7542	25468.0	28588.0	Nyctalus leisleri	0.447	0.509	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
+437.1205	437.1385	25468.0	30816.0	Nyctalus leisleri	0.256	0.541	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
+437.6625	437.6799	25468.0	29247.0	Nyctalus leisleri	0.384	0.517	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
+445.2135	445.2252	26328.0	33145.0	Eptesicus serotinus	0.272	0.51	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
+452.1365	452.1491	26328.0	32767.0	Nyctalus leisleri	0.254	0.527	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
+534.0285	534.0455	22890.0	26378.0	Nyctalus leisleri	0.55	0.58	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
+601.9885	602.0009	26328.0	31717.0	Nyctalus leisleri	0.339	0.519	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
+695.0915	695.1066	25468.0	28522.0	Nyctalus leisleri	0.592	0.667	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
+695.3615	695.38	25468.0	29035.0	Nyctalus leisleri	0.357	0.501	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
+805.3795	805.3946	25468.0	28943.0	Nyctalus leisleri	0.477	0.598	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
+820.4925	820.5122	24609.0	27801.0	Nyctalus leisleri	0.442	0.539	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
+823.7805	823.8034	24609.0	28053.0	Nyctalus leisleri	0.419	0.501	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
+824.4905	824.5071	24609.0	27398.0	Nyctalus leisleri	0.537	0.61	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
+826.3955	826.4095	25468.0	30293.0	Nyctalus leisleri	0.472	0.622	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
+870.9915	871.0079	26328.0	29934.0	Nyctalus leisleri	0.4	0.502	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
+871.7915	871.8071	25468.0	30762.0	Nyctalus leisleri	0.359	0.538	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
+873.1565	873.1734	25468.0	29466.0	Nyctalus leisleri	0.308	0.52	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
+873.2765	873.2885	27187.0	32462.0	Nyctalus leisleri	0.291	0.582	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
+873.7635	873.7789	25468.0	30044.0	Nyctalus leisleri	0.466	0.576	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
+874.4515	874.4661	25468.0	29244.0	Nyctalus leisleri	0.625	0.719	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
+875.7265	875.7457	24609.0	28468.0	Nyctalus leisleri	0.461	0.523	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
+877.3035	877.3209	25468.0	27822.0	Nyctalus leisleri	0.501	0.565	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
+878.6945	878.7148	24609.0	27712.0	Nyctalus leisleri	0.528	0.589	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
+879.3875	879.4076	24609.0	27844.0	Nyctalus leisleri	0.453	0.546	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
+900.8115	900.8271	25468.0	30331.0	Nyctalus leisleri	0.421	0.544	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
+901.2775	901.2924	25468.0	30961.0	Nyctalus leisleri	0.324	0.517	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
+904.4465	904.4634	25468.0	30265.0	Nyctalus leisleri	0.329	0.501	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
+905.1565	905.1745	25468.0	30694.0	Nyctalus leisleri	0.236	0.51	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
+905.7365	905.7522	25468.0	30329.0	Nyctalus leisleri	0.364	0.562	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
+911.2005	911.2171	24609.0	28810.0	Nyctalus leisleri	0.434	0.605	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
+1029.6575	1029.6731	25468.0	29088.0	Nyctalus leisleri	0.42	0.517	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
+1086.8575	1086.873	24609.0	29007.0	Nyctalus leisleri	0.368	0.564	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
+1127.1845	1127.1924	47812.0	65231.0	Pipistrellus pipistrellus	0.476	0.556	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
+1127.4455	1127.4532	46953.0	62001.0	Pipistrellus pipistrellus	0.514	0.594	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
+1127.5355	1127.5452	46953.0	65855.0	Pipistrellus pipistrellus	0.481	0.597	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
+1127.7335	1127.7427	46093.0	62713.0	Pipistrellus pipistrellus	0.36	0.573	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
+1127.8355	1127.8435	46953.0	63148.0	Pipistrellus pipistrellus	0.515	0.658	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
+1127.9265	1127.9351	46093.0	65536.0	Pipistrellus pipistrellus	0.46	0.598	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
+1128.0115	1128.0216	46093.0	68097.0	Pipistrellus pipistrellus	0.425	0.587	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
+1128.1215	1128.1282	46953.0	58603.0	Pipistrellus pipistrellus	0.556	0.604	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
+1128.2075	1128.2137	46093.0	70341.0	Pipistrellus pipistrellus	0.596	0.733	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
+1128.2995	1128.3065	46953.0	59982.0	Pipistrellus pipistrellus	0.621	0.668	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
+1128.3795	1128.3909	47812.0	53726.0	Pipistrellus pipistrellus	0.459	0.504	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
+1128.4545	1128.4612	46953.0	67195.0	Pipistrellus pipistrellus	0.545	0.63	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
+1128.6005	1128.6076	46953.0	64490.0	Pipistrellus pipistrellus	0.405	0.505	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
+1128.8965	1128.9028	44375.0	66447.0	Pipistrellus pipistrellus	0.46	0.6	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
+1129.0385	1129.0452	46093.0	65739.0	Pipistrellus pipistrellus	0.565	0.618	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
+1129.2285	1129.2364	46953.0	64351.0	Pipistrellus pipistrellus	0.486	0.589	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
+1129.4335	1129.4406	46953.0	64275.0	Pipistrellus pipistrellus	0.592	0.648	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
+1129.5255	1129.5314	45234.0	61697.0	Pipistrellus pipistrellus	0.565	0.612	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
+1129.6875	1129.6959	46953.0	60327.0	Pipistrellus pipistrellus	0.5	0.562	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
+1129.7415	1129.7471	45234.0	68659.0	Pipistrellus pipistrellus	0.571	0.635	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
+1129.8005	1129.8056	45234.0	65019.0	Pipistrellus pipistrellus	0.57	0.626	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
+1129.9545	1129.963	45234.0	63220.0	Pipistrellus pipistrellus	0.434	0.506	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
+1130.0705	1130.0778	43515.0	64349.0	Pipistrellus pipistrellus	0.541	0.686	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
+1130.2165	1130.2258	45234.0	62188.0	Pipistrellus pipistrellus	0.497	0.616	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
+1130.2905	1130.3016	43515.0	65570.0	Pipistrellus pipistrellus	0.449	0.619	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
+1130.3765	1130.385	44375.0	63584.0	Pipistrellus pipistrellus	0.481	0.583	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
+1130.4545	1130.462	43515.0	64471.0	Pipistrellus pipistrellus	0.365	0.57	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
+1130.5315	1130.5374	44375.0	65556.0	Pipistrellus pipistrellus	0.596	0.646	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
+1130.6115	1130.6182	45234.0	64953.0	Pipistrellus pipistrellus	0.423	0.536	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
+1131.1755	1131.181	46953.0	60427.0	Pipistrellus pipistrellus	0.543	0.576	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
+1131.2575	1131.2634	45234.0	62461.0	Pipistrellus pipistrellus	0.587	0.639	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
+1131.5205	1131.526	46093.0	58534.0	Pipistrellus pipistrellus	0.516	0.571	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
+1131.7085	1131.7164	44375.0	55684.0	Pipistrellus pipistrellus	0.461	0.515	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
+1239.6575	1239.6704	25468.0	29225.0	Nyctalus leisleri	0.439	0.58	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
+1240.8675	1240.8808	25468.0	30256.0	Nyctalus leisleri	0.39	0.527	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
+1241.3595	1241.3727	25468.0	31283.0	Nyctalus leisleri	0.27	0.578	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
+1243.2115	1243.2247	26328.0	31809.0	Nyctalus leisleri	0.359	0.595	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
+1243.4595	1243.4764	25468.0	30007.0	Nyctalus leisleri	0.398	0.552	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
+1244.3055	1244.3197	25468.0	31143.0	Nyctalus leisleri	0.395	0.582	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
+1244.9105	1244.9216	26328.0	31596.0	Nyctalus leisleri	0.543	0.667	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
+1248.5835	1248.5983	25468.0	30088.0	Nyctalus leisleri	0.401	0.532	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
+1249.8095	1249.8272	25468.0	31523.0	Nyctalus leisleri	0.251	0.51	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
+1252.7745	1252.7893	24609.0	31793.0	Nyctalus leisleri	0.276	0.543	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
+1253.9865	1253.9997	25468.0	32236.0	Nyctalus leisleri	0.203	0.525	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
+1353.4095	1353.4198	27187.0	32972.0	Nyctalus leisleri	0.242	0.524	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
+1365.8645	1365.8805	26328.0	29143.0	Nyctalus leisleri	0.495	0.582	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
+1367.7265	1367.7411	27187.0	30434.0	Nyctalus leisleri	0.467	0.582	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
+1369.5105	1369.5229	27187.0	34438.0	Nyctalus leisleri	0.26	0.607	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
+1369.7425	1369.7559	27187.0	34003.0	Nyctalus leisleri	0.246	0.604	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
+1370.2025	1370.214	27187.0	34405.0	Nyctalus leisleri	0.299	0.647	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
+1371.0235	1371.0366	27187.0	35109.0	Eptesicus serotinus	0.325	0.535	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
+1371.2595	1371.2708	27187.0	33706.0	Eptesicus serotinus	0.262	0.576	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
+1371.9785	1371.9899	27187.0	34037.0	Nyctalus leisleri	0.367	0.659	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
+1372.2045	1372.2156	27187.0	35832.0	Eptesicus serotinus	0.296	0.661	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
+1373.3055	1373.3176	27187.0	32373.0	Nyctalus leisleri	0.34	0.517	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
+1374.1465	1374.1598	26328.0	33763.0	Eptesicus serotinus	0.291	0.609	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
+1374.7635	1374.7775	26328.0	31781.0	Nyctalus leisleri	0.324	0.575	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
+1375.4935	1375.5083	26328.0	30946.0	Nyctalus leisleri	0.478	0.65	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
+1375.8455	1375.8598	26328.0	31126.0	Nyctalus leisleri	0.377	0.576	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
+1377.6675	1377.6811	26328.0	31483.0	Nyctalus leisleri	0.433	0.589	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
+1380.7145	1380.7283	26328.0	33207.0	Nyctalus leisleri	0.257	0.59	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
+1382.1365	1382.1525	26328.0	30550.0	Nyctalus leisleri	0.366	0.537	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
+1383.4715	1383.4872	26328.0	30277.0	Nyctalus leisleri	0.462	0.611	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
+1384.8185	1384.8319	26328.0	33021.0	Nyctalus leisleri	0.348	0.673	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
+1385.5695	1385.5828	26328.0	31279.0	Nyctalus leisleri	0.496	0.649	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
+1385.6985	1385.7121	28046.0	34270.0	Nyctalus leisleri	0.324	0.569	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
+1385.9625	1385.9747	27187.0	37094.0	Eptesicus serotinus	0.362	0.717	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
+1386.2005	1386.2146	27187.0	32918.0	Nyctalus leisleri	0.244	0.603	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
+1386.4465	1386.4614	26328.0	31269.0	Nyctalus leisleri	0.425	0.671	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
+1386.5805	1386.5908	28046.0	35026.0	Nyctalus leisleri	0.352	0.677	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
+1386.8095	1386.8215	27187.0	35355.0	Nyctalus leisleri	0.319	0.728	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
+1387.4135	1387.4282	26328.0	32316.0	Nyctalus leisleri	0.299	0.665	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
+1387.7775	1387.7935	26328.0	30874.0	Nyctalus leisleri	0.286	0.518	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
+1388.1285	1388.143	26328.0	30331.0	Nyctalus leisleri	0.561	0.693	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
+1388.6005	1388.6109	28046.0	33384.0	Nyctalus leisleri	0.443	0.599	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
+1388.7275	1388.7393	27187.0	36182.0	Nyctalus leisleri	0.354	0.616	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
+1389.0815	1389.0951	26328.0	31443.0	Nyctalus leisleri	0.443	0.667	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
+1389.3185	1389.3333	26328.0	31553.0	Nyctalus leisleri	0.375	0.63	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
+1390.0375	1390.0521	26328.0	31093.0	Nyctalus leisleri	0.306	0.536	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
+1391.0405	1391.0505	28046.0	34363.0	Nyctalus leisleri	0.393	0.643	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
+1391.4055	1391.4225	26328.0	28995.0	Nyctalus leisleri	0.49	0.563	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
+1392.7515	1392.7671	26328.0	29785.0	Nyctalus leisleri	0.483	0.623	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
+1394.3595	1394.3752	26328.0	34666.0	Eptesicus serotinus	0.295	0.562	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
+1397.0715	1397.0851	26328.0	31361.0	Nyctalus leisleri	0.462	0.655	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
+1397.6855	1397.6969	27187.0	31796.0	Nyctalus leisleri	0.335	0.505	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
+1397.9365	1397.949	27187.0	32583.0	Nyctalus leisleri	0.414	0.587	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
+1479.4435	1479.4602	25468.0	28359.0	Nyctalus leisleri	0.521	0.591	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
+1481.8415	1481.8589	25468.0	28009.0	Nyctalus leisleri	0.494	0.577	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
+1486.2815	1486.298	25468.0	27264.0	Nyctalus leisleri	0.479	0.564	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
+1486.4105	1486.4234	26328.0	34639.0	Eptesicus serotinus	0.292	0.658	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
+1486.8785	1486.8964	25468.0	29240.0	Nyctalus leisleri	0.412	0.549	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
+1488.7195	1488.7358	25468.0	31064.0	Nyctalus leisleri	0.399	0.555	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
+1494.7125	1494.7266	25468.0	30155.0	Nyctalus leisleri	0.555	0.679	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
+1504.3815	1504.3949	26328.0	32570.0	Nyctalus leisleri	0.345	0.541	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
+1508.2965	1508.3107	25468.0	33178.0	Eptesicus serotinus	0.27	0.535	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
+1508.7715	1508.7852	25468.0	33409.0	Nyctalus leisleri	0.297	0.632	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
+1509.3815	1509.3951	25468.0	32026.0	Nyctalus leisleri	0.405	0.595	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
+1510.0815	1510.0959	25468.0	34987.0	Eptesicus serotinus	0.381	0.565	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
+1511.2945	1511.3112	25468.0	30174.0	Nyctalus leisleri	0.364	0.526	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
+1511.9085	1511.9246	25468.0	30476.0	Nyctalus leisleri	0.388	0.548	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
+1514.2555	1514.2677	25468.0	30036.0	Nyctalus leisleri	0.364	0.509	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
+1514.4885	1514.5064	24609.0	30938.0	Nyctalus leisleri	0.253	0.534	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
+1514.9605	1514.9761	25468.0	31453.0	Nyctalus leisleri	0.355	0.571	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
+1515.6575	1515.672	25468.0	30072.0	Nyctalus leisleri	0.392	0.59	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
+1516.2575	1516.274	25468.0	30315.0	Nyctalus leisleri	0.333	0.508	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
+1516.5075	1516.5262	25468.0	31520.0	Eptesicus serotinus	0.201	0.551	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
+1516.9125	1516.9264	25468.0	33353.0	Nyctalus leisleri	0.292	0.66	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
+1518.1395	1518.1527	25468.0	31043.0	Nyctalus leisleri	0.471	0.669	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
+1518.6145	1518.6268	26328.0	31246.0	Nyctalus leisleri	0.448	0.651	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
+1519.1075	1519.1217	25468.0	30864.0	Nyctalus leisleri	0.407	0.616	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
+1519.6905	1519.7056	26328.0	31132.0	Nyctalus leisleri	0.338	0.503	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
+1525.2215	1525.2372	26328.0	30073.0	Nyctalus leisleri	0.452	0.544	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
+1527.0525	1527.0648	25468.0	30622.0	Nyctalus leisleri	0.486	0.605	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
+1529.0555	1529.0738	25468.0	30541.0	Nyctalus leisleri	0.305	0.552	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
+1529.5425	1529.5606	25468.0	28761.0	Nyctalus leisleri	0.439	0.584	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
+1530.2585	1530.2748	24609.0	29983.0	Nyctalus leisleri	0.425	0.613	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
+1532.0975	1532.1143	25468.0	29732.0	Nyctalus leisleri	0.501	0.585	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
+1532.6115	1532.6281	25468.0	30074.0	Nyctalus leisleri	0.402	0.589	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
+1533.3205	1533.3376	25468.0	28879.0	Nyctalus leisleri	0.395	0.561	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
+1534.0285	1534.0456	25468.0	29566.0	Nyctalus leisleri	0.371	0.552	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
+1535.2295	1535.2465	25468.0	28663.0	Nyctalus leisleri	0.422	0.514	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
+1535.8245	1535.8424	24609.0	27929.0	Nyctalus leisleri	0.469	0.62	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
+1536.5505	1536.5658	24609.0	28113.0	Nyctalus leisleri	0.497	0.598	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
+1536.7915	1536.806	26328.0	30377.0	Nyctalus leisleri	0.455	0.577	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
+1557.4495	1557.4658	25468.0	28644.0	Nyctalus leisleri	0.499	0.614	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
+1558.7715	1558.7867	24609.0	28225.0	Nyctalus leisleri	0.543	0.634	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
+1558.8905	1558.9059	25468.0	31201.0	Nyctalus leisleri	0.376	0.546	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
+1560.1255	1560.146	24609.0	27475.0	Nyctalus leisleri	0.504	0.585	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
+1563.6905	1563.7069	25468.0	28726.0	Nyctalus leisleri	0.469	0.558	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
+1587.0385	1587.0519	25468.0	32551.0	Eptesicus serotinus	0.267	0.552	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
+1593.1985	1593.2127	25468.0	31123.0	Nyctalus leisleri	0.336	0.563	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
+1593.4335	1593.4476	25468.0	28983.0	Nyctalus leisleri	0.508	0.598	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
+1594.4785	1594.493	26328.0	31251.0	Nyctalus leisleri	0.454	0.609	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
+1595.1545	1595.1696	25468.0	31059.0	Nyctalus leisleri	0.296	0.605	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
+1595.2775	1595.2902	27187.0	32927.0	Nyctalus leisleri	0.32	0.56	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
+1595.7425	1595.758	25468.0	31421.0	Nyctalus leisleri	0.355	0.582	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
+1596.4465	1596.4616	25468.0	30495.0	Nyctalus leisleri	0.372	0.572	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
+1596.8025	1596.8154	25468.0	30972.0	Nyctalus leisleri	0.455	0.581	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
+1597.0245	1597.0399	25468.0	30691.0	Nyctalus leisleri	0.448	0.601	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
+1598.1815	1598.1922	26328.0	32267.0	Eptesicus serotinus	0.226	0.505	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
+1599.4905	1599.5038	26328.0	31537.0	Nyctalus leisleri	0.28	0.579	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
+1599.8255	1599.8385	25468.0	31734.0	Nyctalus leisleri	0.311	0.555	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
+1600.7295	1600.745	25468.0	32271.0	Eptesicus serotinus	0.27	0.522	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
+1602.3065	1602.3186	26328.0	30908.0	Nyctalus leisleri	0.448	0.586	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
+1602.8115	1602.8265	25468.0	30015.0	Nyctalus leisleri	0.474	0.623	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
+1603.0515	1603.0662	25468.0	30752.0	Nyctalus leisleri	0.342	0.525	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
+1603.6445	1603.6608	25468.0	31622.0	Nyctalus leisleri	0.296	0.571	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
+1604.2725	1604.2865	24609.0	31610.0	Nyctalus leisleri	0.307	0.582	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
+1606.1975	1606.2142	25468.0	29606.0	Nyctalus leisleri	0.361	0.502	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
+1606.5695	1606.587	25468.0	29156.0	Nyctalus leisleri	0.432	0.545	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
+1632.5895	1632.6029	25468.0	29352.0	Nyctalus leisleri	0.461	0.611	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
+1637.0565	1637.0714	24609.0	28743.0	Nyctalus leisleri	0.395	0.521	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
+1637.8725	1637.8902	24609.0	28354.0	Nyctalus leisleri	0.426	0.544	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
+1638.4605	1638.4753	25468.0	29570.0	Nyctalus leisleri	0.424	0.553	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
+1639.1945	1639.2111	24609.0	28058.0	Nyctalus leisleri	0.399	0.504	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
+1639.9255	1639.941	24609.0	30138.0	Nyctalus leisleri	0.37	0.553	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
+1640.7725	1640.7862	24609.0	30750.0	Nyctalus leisleri	0.238	0.512	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
+1641.3645	1641.38	25468.0	31252.0	Nyctalus leisleri	0.343	0.572	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003
+1644.4755	1644.4918	24609.0	28935.0	Nyctalus leisleri	0.402	0.591	-1	Echolocation	/mnt/ubna_data_01/recover-20220804/UBNA_003/20220804_080000.WAV	Central Pond	recover-20220804	UBNA_003

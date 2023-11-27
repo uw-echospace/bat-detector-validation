@@ -1,581 +1,291 @@
-Unnamed: 0	start_time	end_time	low_freq	high_freq	class	class_prob	det_prob	individual	event	input_file	Site name	Recover Folder	SD Card
-0	280.6105	280.6166	45234.0	53651.0	Pipistrellus pipistrellus	0.558	0.586	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-0	280.6105	280.6166	45234.0	53651.0	Pipistrellus pipistrellus	0.558	0.586	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-1	280.7065	280.714	45234.0	51603.0	Pipistrellus pipistrellus	0.56	0.572	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-1	280.7065	280.714	45234.0	51603.0	Pipistrellus pipistrellus	0.56	0.572	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-2	280.8035	280.81	45234.0	55078.0	Pipistrellus pipistrellus	0.656	0.684	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-2	280.8035	280.81	45234.0	55078.0	Pipistrellus pipistrellus	0.656	0.684	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-3	280.9015	280.9079	45234.0	52893.0	Pipistrellus pipistrellus	0.494	0.509	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-3	280.9015	280.9079	45234.0	52893.0	Pipistrellus pipistrellus	0.494	0.509	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-4	280.9935	281.0014	45234.0	52714.0	Pipistrellus pipistrellus	0.504	0.516	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-4	280.9935	281.0014	45234.0	52714.0	Pipistrellus pipistrellus	0.504	0.516	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-5	281.0855	281.0921	44375.0	53994.0	Pipistrellus pipistrellus	0.549	0.596	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-5	281.0855	281.0921	44375.0	53994.0	Pipistrellus pipistrellus	0.549	0.596	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-6	281.1605	281.1676	45234.0	53456.0	Pipistrellus pipistrellus	0.501	0.518	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-6	281.1605	281.1676	45234.0	53456.0	Pipistrellus pipistrellus	0.501	0.518	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-7	281.9765	281.983	46093.0	57365.0	Pipistrellus pipistrellus	0.538	0.553	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-7	281.9765	281.983	46093.0	57365.0	Pipistrellus pipistrellus	0.538	0.553	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-8	282.1275	282.1333	45234.0	61039.0	Pipistrellus pipistrellus	0.485	0.595	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-8	282.1275	282.1333	45234.0	61039.0	Pipistrellus pipistrellus	0.485	0.595	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-9	282.20550000000003	282.2112	45234.0	60510.0	Pipistrellus pipistrellus	0.572	0.672	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-9	282.20550000000003	282.2112	45234.0	60510.0	Pipistrellus pipistrellus	0.572	0.672	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-10	282.3695	282.3764	44375.0	57607.0	Pipistrellus pipistrellus	0.545	0.638	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-10	282.3695	282.3764	44375.0	57607.0	Pipistrellus pipistrellus	0.545	0.638	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-11	282.7815	282.7897	43515.0	56096.0	Pipistrellus pipistrellus	0.477	0.527	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-11	282.7815	282.7897	43515.0	56096.0	Pipistrellus pipistrellus	0.477	0.527	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-12	346.5965	346.603	40078.0	46340.0	Pipistrellus nathusii	0.551	0.578	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-12	346.5965	346.603	40078.0	46340.0	Pipistrellus nathusii	0.551	0.578	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-13	427.0675	427.0732	47812.0	58889.0	Pipistrellus pipistrellus	0.542	0.557	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-13	427.0675	427.0732	47812.0	58889.0	Pipistrellus pipistrellus	0.542	0.557	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-14	427.2805	427.2859	47812.0	58274.0	Pipistrellus pipistrellus	0.616	0.633	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-14	427.2805	427.2859	47812.0	58274.0	Pipistrellus pipistrellus	0.616	0.633	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-15	427.9045	427.9097	48671.0	62556.0	Pipistrellus pipistrellus	0.612	0.661	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-15	427.9045	427.9097	48671.0	62556.0	Pipistrellus pipistrellus	0.612	0.661	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-16	428.1915	428.1998	47812.0	61708.0	Pipistrellus pipistrellus	0.449	0.55	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-16	428.1915	428.1998	47812.0	61708.0	Pipistrellus pipistrellus	0.449	0.55	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-17	428.2905	428.2966	46953.0	63063.0	Pipistrellus pipistrellus	0.585	0.639	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-17	428.2905	428.2966	46953.0	63063.0	Pipistrellus pipistrellus	0.585	0.639	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-18	428.3935	428.4029	46093.0	59408.0	Pipistrellus pipistrellus	0.439	0.5	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-18	428.3935	428.4029	46093.0	59408.0	Pipistrellus pipistrellus	0.439	0.5	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-19	428.5025	428.5102	46953.0	61387.0	Pipistrellus pipistrellus	0.518	0.61	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-19	428.5025	428.5102	46953.0	61387.0	Pipistrellus pipistrellus	0.518	0.61	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-20	428.5945	428.6032	46953.0	64379.0	Pipistrellus pipistrellus	0.526	0.667	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-20	428.5945	428.6032	46953.0	64379.0	Pipistrellus pipistrellus	0.526	0.667	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-21	428.7005	428.7067	46953.0	59140.0	Pipistrellus pipistrellus	0.516	0.602	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-21	428.7005	428.7067	46953.0	59140.0	Pipistrellus pipistrellus	0.516	0.602	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-22	428.8945	428.9032	46093.0	65090.0	Pipistrellus pipistrellus	0.46	0.635	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-22	428.8945	428.9032	46093.0	65090.0	Pipistrellus pipistrellus	0.46	0.635	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-23	428.9965	429.0031	46953.0	60693.0	Pipistrellus pipistrellus	0.549	0.591	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-23	428.9965	429.0031	46953.0	60693.0	Pipistrellus pipistrellus	0.549	0.591	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-24	429.0985	429.107	46953.0	66490.0	Pipistrellus pipistrellus	0.524	0.658	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-24	429.0985	429.107	46953.0	66490.0	Pipistrellus pipistrellus	0.524	0.658	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-25	429.2025	429.2115	45234.0	64291.0	Pipistrellus pipistrellus	0.484	0.602	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-25	429.2025	429.2115	45234.0	64291.0	Pipistrellus pipistrellus	0.484	0.602	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-26	429.3025	429.3113	46953.0	64377.0	Pipistrellus pipistrellus	0.487	0.615	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-26	429.3025	429.3113	46953.0	64377.0	Pipistrellus pipistrellus	0.487	0.615	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-27	429.4045	429.4139	46093.0	67618.0	Pipistrellus pipistrellus	0.531	0.644	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-27	429.4045	429.4139	46093.0	67618.0	Pipistrellus pipistrellus	0.531	0.644	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-28	429.5105	429.5184	45234.0	65210.0	Pipistrellus pipistrellus	0.559	0.658	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-28	429.5105	429.5184	45234.0	65210.0	Pipistrellus pipistrellus	0.559	0.658	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-29	429.6165	429.6248	46093.0	67718.0	Pipistrellus pipistrellus	0.56	0.648	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-29	429.6165	429.6248	46093.0	67718.0	Pipistrellus pipistrellus	0.56	0.648	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-30	429.7215	429.7302	46093.0	66742.0	Pipistrellus pipistrellus	0.573	0.667	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-30	429.7215	429.7302	46093.0	66742.0	Pipistrellus pipistrellus	0.573	0.667	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-31	429.8255	429.8339	46953.0	66282.0	Pipistrellus pipistrellus	0.561	0.719	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-31	429.8255	429.8339	46953.0	66282.0	Pipistrellus pipistrellus	0.561	0.719	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-32	429.9275	429.9363	46093.0	66047.0	Pipistrellus pipistrellus	0.542	0.647	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-32	429.9275	429.9363	46093.0	66047.0	Pipistrellus pipistrellus	0.542	0.647	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-33	430.0055	430.0099	47812.0	67200.0	Pipistrellus pipistrellus	0.574	0.63	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-33	430.0055	430.0099	47812.0	67200.0	Pipistrellus pipistrellus	0.574	0.63	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-34	430.0775	430.083	46093.0	70029.0	Pipistrellus pipistrellus	0.498	0.629	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-34	430.0775	430.083	46093.0	70029.0	Pipistrellus pipistrellus	0.498	0.629	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-35	430.1555	430.1624	46093.0	72453.0	Pipistrellus pipistrellus	0.419	0.548	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-35	430.1555	430.1624	46093.0	72453.0	Pipistrellus pipistrellus	0.419	0.548	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-36	430.2555	430.262	46953.0	70637.0	Pipistrellus pipistrellus	0.589	0.714	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-36	430.2555	430.262	46953.0	70637.0	Pipistrellus pipistrellus	0.589	0.714	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-37	430.3645	430.3709	45234.0	69580.0	Pipistrellus pipistrellus	0.458	0.668	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-37	430.3645	430.3709	45234.0	69580.0	Pipistrellus pipistrellus	0.458	0.668	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-38	430.4795	430.486	46953.0	68266.0	Pipistrellus pipistrellus	0.557	0.692	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-38	430.4795	430.486	46953.0	68266.0	Pipistrellus pipistrellus	0.557	0.692	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-39	430.5895	430.5956	46093.0	65117.0	Pipistrellus pipistrellus	0.565	0.698	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-39	430.5895	430.5956	46093.0	65117.0	Pipistrellus pipistrellus	0.565	0.698	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-40	430.7085	430.7147	45234.0	72922.0	Pipistrellus pipistrellus	0.48	0.595	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-40	430.7085	430.7147	45234.0	72922.0	Pipistrellus pipistrellus	0.48	0.595	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-41	430.7885	430.7941	46093.0	70859.0	Pipistrellus pipistrellus	0.532	0.645	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-41	430.7885	430.7941	46093.0	70859.0	Pipistrellus pipistrellus	0.532	0.645	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-42	430.9515	430.9571	44375.0	65915.0	Pipistrellus pipistrellus	0.396	0.636	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-42	430.9515	430.9571	44375.0	65915.0	Pipistrellus pipistrellus	0.396	0.636	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-43	431.0295	431.0352	43515.0	62242.0	Pipistrellus pipistrellus	0.305	0.536	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-43	431.0295	431.0352	43515.0	62242.0	Pipistrellus pipistrellus	0.305	0.536	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-44	432.3225	432.3273	45234.0	87764.0	Myotis alcathoe	0.464	0.528	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-44	432.3225	432.3273	45234.0	87764.0	Myotis alcathoe	0.464	0.528	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-45	432.7495	432.754	46953.0	90675.0	Myotis alcathoe	0.456	0.519	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-45	432.7495	432.754	46953.0	90675.0	Myotis alcathoe	0.456	0.519	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-46	433.3895	433.3948	44375.0	70886.0	Myotis alcathoe	0.235	0.508	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-46	433.3895	433.3948	44375.0	70886.0	Myotis alcathoe	0.235	0.508	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-47	433.7915	433.7955	47812.0	66785.0	Pipistrellus pipistrellus	0.599	0.66	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-47	433.7915	433.7955	47812.0	66785.0	Pipistrellus pipistrellus	0.599	0.66	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-48	433.8785	433.8822	47812.0	65182.0	Pipistrellus pipistrellus	0.464	0.536	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-48	433.8785	433.8822	47812.0	65182.0	Pipistrellus pipistrellus	0.464	0.536	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-49	434.0755	434.0831	46953.0	64462.0	Pipistrellus pipistrellus	0.488	0.599	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-49	434.0755	434.0831	46953.0	64462.0	Pipistrellus pipistrellus	0.488	0.599	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-50	434.2615	434.2667	45234.0	58511.0	Pipistrellus pipistrellus	0.572	0.63	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-50	434.2615	434.2667	45234.0	58511.0	Pipistrellus pipistrellus	0.572	0.63	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-51	434.5445	434.5509	47812.0	58444.0	Pipistrellus pipistrellus	0.496	0.51	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-51	434.5445	434.5509	47812.0	58444.0	Pipistrellus pipistrellus	0.496	0.51	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-52	434.6325	434.6377	43515.0	64381.0	Pipistrellus pipistrellus	0.591	0.719	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-52	434.6325	434.6377	43515.0	64381.0	Pipistrellus pipistrellus	0.591	0.719	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-53	434.7275	434.7325	46953.0	57050.0	Pipistrellus pipistrellus	0.566	0.585	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-53	434.7275	434.7325	46953.0	57050.0	Pipistrellus pipistrellus	0.566	0.585	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-54	436.0595	436.069	45234.0	53064.0	Pipistrellus pipistrellus	0.377	0.517	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-54	436.0595	436.069	45234.0	53064.0	Pipistrellus pipistrellus	0.377	0.517	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-55	476.0765	476.0815	44375.0	63164.0	Pipistrellus pipistrellus	0.361	0.565	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-55	476.0765	476.0815	44375.0	63164.0	Pipistrellus pipistrellus	0.361	0.565	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-56	476.1685	476.1742	47812.0	62246.0	Pipistrellus pipistrellus	0.428	0.525	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-56	476.1685	476.1742	47812.0	62246.0	Pipistrellus pipistrellus	0.428	0.525	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-57	476.3585	476.3629	47812.0	60326.0	Pipistrellus pipistrellus	0.486	0.564	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-57	476.3585	476.3629	47812.0	60326.0	Pipistrellus pipistrellus	0.486	0.564	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-58	476.5225	476.5271	45234.0	59651.0	Pipistrellus pipistrellus	0.449	0.563	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-58	476.5225	476.5271	45234.0	59651.0	Pipistrellus pipistrellus	0.449	0.563	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-59	476.7705	476.775	46953.0	60388.0	Pipistrellus pipistrellus	0.533	0.562	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-59	476.7705	476.775	46953.0	60388.0	Pipistrellus pipistrellus	0.533	0.562	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-60	476.9895	476.994	47812.0	61328.0	Pipistrellus pipistrellus	0.501	0.541	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-60	476.9895	476.994	47812.0	61328.0	Pipistrellus pipistrellus	0.501	0.541	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-61	477.1515	477.1559	47812.0	60726.0	Pipistrellus pipistrellus	0.508	0.57	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-61	477.1515	477.1559	47812.0	60726.0	Pipistrellus pipistrellus	0.508	0.57	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-62	479.6455	479.6511	46953.0	54153.0	Pipistrellus pipistrellus	0.491	0.506	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-62	479.6455	479.6511	46953.0	54153.0	Pipistrellus pipistrellus	0.491	0.506	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-63	496.2525	496.2569	46093.0	56492.0	Pipistrellus pipistrellus	0.476	0.507	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-63	496.2525	496.2569	46093.0	56492.0	Pipistrellus pipistrellus	0.476	0.507	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-64	528.2085	528.2159	46093.0	59265.0	Pipistrellus pipistrellus	0.47	0.526	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-64	528.2085	528.2159	46093.0	59265.0	Pipistrellus pipistrellus	0.47	0.526	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-65	528.3095	528.3158	46953.0	58947.0	Pipistrellus pipistrellus	0.584	0.615	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-65	528.3095	528.3158	46953.0	58947.0	Pipistrellus pipistrellus	0.584	0.615	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-66	528.4125	528.419	46093.0	56329.0	Pipistrellus pipistrellus	0.478	0.509	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-66	528.4125	528.419	46093.0	56329.0	Pipistrellus pipistrellus	0.478	0.509	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-67	528.7455	528.7512	47812.0	59809.0	Pipistrellus pipistrellus	0.538	0.56	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-67	528.7455	528.7512	47812.0	59809.0	Pipistrellus pipistrellus	0.538	0.56	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-68	528.8435	528.8495	47812.0	61181.0	Pipistrellus pipistrellus	0.555	0.58	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-68	528.8435	528.8495	47812.0	61181.0	Pipistrellus pipistrellus	0.555	0.58	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-69	529.1365	529.1424	46093.0	57973.0	Pipistrellus pipistrellus	0.539	0.59	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-69	529.1365	529.1424	46093.0	57973.0	Pipistrellus pipistrellus	0.539	0.59	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-70	529.2375	529.2451	46093.0	62785.0	Pipistrellus pipistrellus	0.455	0.542	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-70	529.2375	529.2451	46093.0	62785.0	Pipistrellus pipistrellus	0.455	0.542	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-71	529.3115	529.3177	47812.0	62412.0	Pipistrellus pipistrellus	0.569	0.608	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-71	529.3115	529.3177	47812.0	62412.0	Pipistrellus pipistrellus	0.569	0.608	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-72	529.3785	529.3841	47812.0	62548.0	Pipistrellus pipistrellus	0.565	0.602	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-72	529.3785	529.3841	47812.0	62548.0	Pipistrellus pipistrellus	0.565	0.602	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-73	529.4695	529.4761	46953.0	62400.0	Pipistrellus pipistrellus	0.607	0.694	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-73	529.4695	529.4761	46953.0	62400.0	Pipistrellus pipistrellus	0.607	0.694	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-74	529.5715	529.578	46953.0	62269.0	Pipistrellus pipistrellus	0.585	0.647	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-74	529.5715	529.578	46953.0	62269.0	Pipistrellus pipistrellus	0.585	0.647	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-75	529.6565	529.6623	46953.0	62554.0	Pipistrellus pipistrellus	0.659	0.716	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-75	529.6565	529.6623	46953.0	62554.0	Pipistrellus pipistrellus	0.659	0.716	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-76	529.7395	529.7454	46093.0	64461.0	Pipistrellus pipistrellus	0.596	0.642	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-76	529.7395	529.7454	46093.0	64461.0	Pipistrellus pipistrellus	0.596	0.642	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-77	529.8395	529.8459	46953.0	64905.0	Pipistrellus pipistrellus	0.599	0.647	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-77	529.8395	529.8459	46953.0	64905.0	Pipistrellus pipistrellus	0.599	0.647	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-78	529.9425	529.9494	46953.0	64964.0	Pipistrellus pipistrellus	0.511	0.595	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-78	529.9425	529.9494	46953.0	64964.0	Pipistrellus pipistrellus	0.511	0.595	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-79	530.0475	530.0548	46953.0	64245.0	Pipistrellus pipistrellus	0.489	0.58	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-79	530.0475	530.0548	46953.0	64245.0	Pipistrellus pipistrellus	0.489	0.58	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-80	530.1514999999999	530.158	46093.0	61292.0	Pipistrellus pipistrellus	0.553	0.638	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-80	530.1514999999999	530.158	46093.0	61292.0	Pipistrellus pipistrellus	0.553	0.638	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-81	530.2555	530.2617	46093.0	59505.0	Pipistrellus pipistrellus	0.532	0.597	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-81	530.2555	530.2617	46093.0	59505.0	Pipistrellus pipistrellus	0.532	0.597	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-82	530.3585	530.3668	45234.0	61433.0	Pipistrellus pipistrellus	0.487	0.614	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-82	530.3585	530.3668	45234.0	61433.0	Pipistrellus pipistrellus	0.487	0.614	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-83	530.4665	530.4726	46953.0	61097.0	Pipistrellus pipistrellus	0.451	0.502	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-83	530.4665	530.4726	46953.0	61097.0	Pipistrellus pipistrellus	0.451	0.502	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-84	530.5645	530.5703	46093.0	58770.0	Pipistrellus pipistrellus	0.552	0.596	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-84	530.5645	530.5703	46093.0	58770.0	Pipistrellus pipistrellus	0.552	0.596	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-85	530.8695	530.876	45234.0	63476.0	Pipistrellus pipistrellus	0.517	0.652	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-85	530.8695	530.876	45234.0	63476.0	Pipistrellus pipistrellus	0.517	0.652	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-86	530.9765	530.9828	48671.0	60158.0	Pipistrellus pipistrellus	0.489	0.512	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-86	530.9765	530.9828	48671.0	60158.0	Pipistrellus pipistrellus	0.489	0.512	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-87	531.1855	531.1927	46093.0	59091.0	Pipistrellus pipistrellus	0.535	0.602	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-87	531.1855	531.1927	46093.0	59091.0	Pipistrellus pipistrellus	0.535	0.602	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-88	531.4935	531.4999	45234.0	57558.0	Pipistrellus pipistrellus	0.483	0.585	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-88	531.4935	531.4999	45234.0	57558.0	Pipistrellus pipistrellus	0.483	0.585	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-89	619.8015	619.8091	47812.0	56459.0	Pipistrellus pipistrellus	0.504	0.516	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-89	619.8015	619.8091	47812.0	56459.0	Pipistrellus pipistrellus	0.504	0.516	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-90	619.9765	619.9815	45234.0	58704.0	Pipistrellus pipistrellus	0.522	0.559	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-90	619.9765	619.9815	45234.0	58704.0	Pipistrellus pipistrellus	0.522	0.559	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-91	620.0665	620.0723	46953.0	57642.0	Pipistrellus pipistrellus	0.594	0.622	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-91	620.0665	620.0723	46953.0	57642.0	Pipistrellus pipistrellus	0.594	0.622	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-92	620.2425	620.2491	45234.0	54429.0	Pipistrellus pipistrellus	0.555	0.586	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-92	620.2425	620.2491	45234.0	54429.0	Pipistrellus pipistrellus	0.555	0.586	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-93	620.3285	620.3346	45234.0	59581.0	Pipistrellus pipistrellus	0.623	0.654	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-93	620.3285	620.3346	45234.0	59581.0	Pipistrellus pipistrellus	0.623	0.654	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-94	620.4175	620.4243	45234.0	60262.0	Pipistrellus pipistrellus	0.581	0.626	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-94	620.4175	620.4243	45234.0	60262.0	Pipistrellus pipistrellus	0.581	0.626	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-95	620.4905	620.4964	45234.0	57179.0	Pipistrellus pipistrellus	0.488	0.533	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-95	620.4905	620.4964	45234.0	57179.0	Pipistrellus pipistrellus	0.488	0.533	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-96	620.5855	620.5917	46093.0	56126.0	Pipistrellus pipistrellus	0.573	0.618	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-96	620.5855	620.5917	46093.0	56126.0	Pipistrellus pipistrellus	0.573	0.618	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-97	620.6775	620.683	46093.0	55413.0	Pipistrellus pipistrellus	0.556	0.573	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-97	620.6775	620.683	46093.0	55413.0	Pipistrellus pipistrellus	0.556	0.573	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-98	620.7665	620.7754	46953.0	54751.0	Pipistrellus pipistrellus	0.517	0.538	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-98	620.7665	620.7754	46953.0	54751.0	Pipistrellus pipistrellus	0.517	0.538	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-99	620.9465	620.953	46953.0	56528.0	Pipistrellus pipistrellus	0.596	0.606	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-99	620.9465	620.953	46953.0	56528.0	Pipistrellus pipistrellus	0.596	0.606	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-100	621.0235	621.0306	46953.0	61345.0	Pipistrellus pipistrellus	0.483	0.508	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-100	621.0235	621.0306	46953.0	61345.0	Pipistrellus pipistrellus	0.483	0.508	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-101	621.1045	621.1116	46953.0	60357.0	Pipistrellus pipistrellus	0.567	0.594	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-101	621.1045	621.1116	46953.0	60357.0	Pipistrellus pipistrellus	0.567	0.594	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-102	621.1915	621.1966	47812.0	61897.0	Pipistrellus pipistrellus	0.557	0.582	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-102	621.1915	621.1966	47812.0	61897.0	Pipistrellus pipistrellus	0.557	0.582	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-103	621.3135	621.3197	46953.0	58024.0	Pipistrellus pipistrellus	0.512	0.539	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-103	621.3135	621.3197	46953.0	58024.0	Pipistrellus pipistrellus	0.512	0.539	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-104	622.1615	622.1679	44375.0	53429.0	Pipistrellus pipistrellus	0.487	0.522	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-104	622.1615	622.1679	44375.0	53429.0	Pipistrellus pipistrellus	0.487	0.522	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-105	622.4985	622.505	46093.0	56047.0	Pipistrellus pipistrellus	0.53	0.551	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-105	622.4985	622.505	46093.0	56047.0	Pipistrellus pipistrellus	0.53	0.551	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-106	813.5535	813.5598	45234.0	54573.0	Pipistrellus pipistrellus	0.462	0.5	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-106	813.5535	813.5598	45234.0	54573.0	Pipistrellus pipistrellus	0.462	0.5	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-107	1435.1775	1435.1845	45234.0	54973.0	Pipistrellus pipistrellus	0.549	0.614	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-107	1435.1775	1435.1845	45234.0	54973.0	Pipistrellus pipistrellus	0.549	0.614	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-108	1435.3025	1435.31	47812.0	55118.0	Pipistrellus pipistrellus	0.548	0.586	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-108	1435.3025	1435.31	47812.0	55118.0	Pipistrellus pipistrellus	0.548	0.586	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-109	1435.4205	1435.4286	46093.0	55558.0	Pipistrellus pipistrellus	0.524	0.632	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-109	1435.4205	1435.4286	46093.0	55558.0	Pipistrellus pipistrellus	0.524	0.632	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-110	1435.5205	1435.528	44375.0	60188.0	Pipistrellus pipistrellus	0.546	0.646	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-110	1435.5205	1435.528	44375.0	60188.0	Pipistrellus pipistrellus	0.546	0.646	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-111	1435.6145	1435.6244	45234.0	59448.0	Pipistrellus pipistrellus	0.424	0.565	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-111	1435.6145	1435.6244	45234.0	59448.0	Pipistrellus pipistrellus	0.424	0.565	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-112	1461.7605	1461.7673	44375.0	58665.0	Pipistrellus pipistrellus	0.433	0.628	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-112	1461.7605	1461.7673	44375.0	58665.0	Pipistrellus pipistrellus	0.433	0.628	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-113	1463.7945	1463.8	47812.0	59354.0	Pipistrellus pipistrellus	0.492	0.54	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-113	1463.7945	1463.8	47812.0	59354.0	Pipistrellus pipistrellus	0.492	0.54	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-114	1469.9855	1469.9914	44375.0	58933.0	Pipistrellus pipistrellus	0.465	0.605	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-114	1469.9855	1469.9914	44375.0	58933.0	Pipistrellus pipistrellus	0.465	0.605	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-115	1470.0625	1470.0675	46093.0	56170.0	Pipistrellus pipistrellus	0.532	0.561	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-115	1470.0625	1470.0675	46093.0	56170.0	Pipistrellus pipistrellus	0.532	0.561	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-116	1470.1265	1470.131	44375.0	58350.0	Pipistrellus pipistrellus	0.45	0.578	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-116	1470.1265	1470.131	44375.0	58350.0	Pipistrellus pipistrellus	0.45	0.578	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-117	1470.6555	1470.6619	45234.0	62983.0	Pipistrellus pipistrellus	0.464	0.64	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-117	1470.6555	1470.6619	45234.0	62983.0	Pipistrellus pipistrellus	0.464	0.64	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-118	1470.8025	1470.8088	46093.0	58100.0	Pipistrellus pipistrellus	0.467	0.532	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-118	1470.8025	1470.8088	46093.0	58100.0	Pipistrellus pipistrellus	0.467	0.532	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-119	1471.1275	1471.132	46093.0	60107.0	Pipistrellus pipistrellus	0.552	0.609	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-119	1471.1275	1471.132	46093.0	60107.0	Pipistrellus pipistrellus	0.552	0.609	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-120	1478.4305	1478.4374	46953.0	54172.0	Pipistrellus pipistrellus	0.492	0.527	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-120	1478.4305	1478.4374	46953.0	54172.0	Pipistrellus pipistrellus	0.492	0.527	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-121	1484.5695	1484.5754	47812.0	55574.0	Pipistrellus pipistrellus	0.533	0.539	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-121	1484.5695	1484.5754	47812.0	55574.0	Pipistrellus pipistrellus	0.533	0.539	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-122	1485.2275	1485.2339	46093.0	53055.0	Pipistrellus pipistrellus	0.584	0.598	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-122	1485.2275	1485.2339	46093.0	53055.0	Pipistrellus pipistrellus	0.584	0.598	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-123	1485.4415	1485.4474	46953.0	61029.0	Pipistrellus pipistrellus	0.631	0.72	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-123	1485.4415	1485.4474	46953.0	61029.0	Pipistrellus pipistrellus	0.631	0.72	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-124	1485.6105	1485.6178	46093.0	55925.0	Pipistrellus pipistrellus	0.577	0.624	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-124	1485.6105	1485.6178	46093.0	55925.0	Pipistrellus pipistrellus	0.577	0.624	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-125	1485.6955	1485.7038	46093.0	56509.0	Pipistrellus pipistrellus	0.612	0.684	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-125	1485.6955	1485.7038	46093.0	56509.0	Pipistrellus pipistrellus	0.612	0.684	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-126	1496.2555	1496.2665	45234.0	49964.0	Pipistrellus pipistrellus	0.368	0.529	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-126	1496.2555	1496.2665	45234.0	49964.0	Pipistrellus pipistrellus	0.368	0.529	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-127	1500.7525	1500.763	46093.0	60094.0	Pipistrellus pipistrellus	0.374	0.559	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-127	1500.7525	1500.763	46093.0	60094.0	Pipistrellus pipistrellus	0.374	0.559	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-128	1510.4775	1510.4826	46953.0	56688.0	Pipistrellus pipistrellus	0.519	0.527	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-128	1510.4775	1510.4826	46953.0	56688.0	Pipistrellus pipistrellus	0.519	0.527	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-129	1510.5685	1510.5736	46953.0	59309.0	Pipistrellus pipistrellus	0.565	0.598	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-129	1510.5685	1510.5736	46953.0	59309.0	Pipistrellus pipistrellus	0.565	0.598	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-130	1510.6305	1510.6355	46093.0	58677.0	Pipistrellus pipistrellus	0.617	0.663	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-130	1510.6305	1510.6355	46093.0	58677.0	Pipistrellus pipistrellus	0.617	0.663	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-131	1511.2765	1511.2816	48671.0	57062.0	Pipistrellus pipistrellus	0.49	0.501	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-131	1511.2765	1511.2816	48671.0	57062.0	Pipistrellus pipistrellus	0.49	0.501	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-132	1511.7185	1511.7235	46953.0	56639.0	Pipistrellus pipistrellus	0.531	0.543	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-132	1511.7185	1511.7235	46953.0	56639.0	Pipistrellus pipistrellus	0.531	0.543	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-133	1511.9525	1511.9589	46953.0	57566.0	Pipistrellus pipistrellus	0.527	0.551	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-133	1511.9525	1511.9589	46953.0	57566.0	Pipistrellus pipistrellus	0.527	0.551	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-134	1512.0235	1512.0297	46093.0	59211.0	Pipistrellus pipistrellus	0.581	0.647	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-134	1512.0235	1512.0297	46093.0	59211.0	Pipistrellus pipistrellus	0.581	0.647	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-135	1512.1265	1512.1329	45234.0	52465.0	Pipistrellus pipistrellus	0.557	0.568	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-135	1512.1265	1512.1329	45234.0	52465.0	Pipistrellus pipistrellus	0.557	0.568	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-136	1512.2245	1512.2317	45234.0	54970.0	Pipistrellus pipistrellus	0.486	0.526	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-136	1512.2245	1512.2317	45234.0	54970.0	Pipistrellus pipistrellus	0.486	0.526	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-137	1512.4225	1512.4281	44375.0	62113.0	Pipistrellus pipistrellus	0.601	0.639	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-137	1512.4225	1512.4281	44375.0	62113.0	Pipistrellus pipistrellus	0.601	0.639	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-138	1512.5165	1512.5226	46953.0	56961.0	Pipistrellus pipistrellus	0.61	0.663	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-138	1512.5165	1512.5226	46953.0	56961.0	Pipistrellus pipistrellus	0.61	0.663	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-139	1512.6155	1512.6216	46953.0	57950.0	Pipistrellus pipistrellus	0.605	0.655	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-139	1512.6155	1512.6216	46953.0	57950.0	Pipistrellus pipistrellus	0.605	0.655	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-140	1512.7135	1512.72	45234.0	63717.0	Pipistrellus pipistrellus	0.626	0.685	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-140	1512.7135	1512.72	45234.0	63717.0	Pipistrellus pipistrellus	0.626	0.685	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-141	1513.1805	1513.186	44375.0	56630.0	Pipistrellus pipistrellus	0.627	0.671	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-141	1513.1805	1513.186	44375.0	56630.0	Pipistrellus pipistrellus	0.627	0.671	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-142	1514.6955	1514.7009	47812.0	58358.0	Pipistrellus pipistrellus	0.579	0.598	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-142	1514.6955	1514.7009	47812.0	58358.0	Pipistrellus pipistrellus	0.579	0.598	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-143	1514.8955	1514.9007	47812.0	59830.0	Pipistrellus pipistrellus	0.5	0.535	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-143	1514.8955	1514.9007	47812.0	59830.0	Pipistrellus pipistrellus	0.5	0.535	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-144	1514.9915	1514.9981	46953.0	56576.0	Pipistrellus pipistrellus	0.566	0.59	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-144	1514.9915	1514.9981	46953.0	56576.0	Pipistrellus pipistrellus	0.566	0.59	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-145	1515.0885	1515.0944	46953.0	56309.0	Pipistrellus pipistrellus	0.574	0.596	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-145	1515.0885	1515.0944	46953.0	56309.0	Pipistrellus pipistrellus	0.574	0.596	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-146	1515.1825	1515.1894	46953.0	62569.0	Pipistrellus pipistrellus	0.471	0.502	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-146	1515.1825	1515.1894	46953.0	62569.0	Pipistrellus pipistrellus	0.471	0.502	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-147	1515.2875	1515.2941	47812.0	57033.0	Pipistrellus pipistrellus	0.583	0.606	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-147	1515.2875	1515.2941	47812.0	57033.0	Pipistrellus pipistrellus	0.583	0.606	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-148	1515.3875	1515.3936	46093.0	60298.0	Pipistrellus pipistrellus	0.645	0.72	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-148	1515.3875	1515.3936	46093.0	60298.0	Pipistrellus pipistrellus	0.645	0.72	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-149	1515.5075	1515.5132	47812.0	57520.0	Pipistrellus pipistrellus	0.628	0.661	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-149	1515.5075	1515.5132	47812.0	57520.0	Pipistrellus pipistrellus	0.628	0.661	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-150	1515.5575	1515.5628	48671.0	59032.0	Pipistrellus pipistrellus	0.504	0.513	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-150	1515.5575	1515.5628	48671.0	59032.0	Pipistrellus pipistrellus	0.504	0.513	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-151	1516.2595	1516.2662	47812.0	61556.0	Pipistrellus pipistrellus	0.462	0.537	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-151	1516.2595	1516.2662	47812.0	61556.0	Pipistrellus pipistrellus	0.462	0.537	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-152	1516.3375	1516.343	46093.0	63267.0	Pipistrellus pipistrellus	0.58	0.656	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-152	1516.3375	1516.343	46093.0	63267.0	Pipistrellus pipistrellus	0.58	0.656	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-153	1516.4145	1516.4205	47812.0	61809.0	Pipistrellus pipistrellus	0.558	0.605	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-153	1516.4145	1516.4205	47812.0	61809.0	Pipistrellus pipistrellus	0.558	0.605	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-154	1516.4925	1516.5001	44375.0	64040.0	Pipistrellus pipistrellus	0.585	0.694	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-154	1516.4925	1516.5001	44375.0	64040.0	Pipistrellus pipistrellus	0.585	0.694	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-155	1516.5745	1516.5812	45234.0	64530.0	Pipistrellus pipistrellus	0.562	0.633	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-155	1516.5745	1516.5812	45234.0	64530.0	Pipistrellus pipistrellus	0.562	0.633	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-156	1516.6575	1516.6637	44375.0	65576.0	Pipistrellus pipistrellus	0.607	0.669	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-156	1516.6575	1516.6637	44375.0	65576.0	Pipistrellus pipistrellus	0.607	0.669	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-157	1516.7375	1516.7448	46093.0	59205.0	Pipistrellus pipistrellus	0.526	0.62	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-157	1516.7375	1516.7448	46093.0	59205.0	Pipistrellus pipistrellus	0.526	0.62	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-158	1516.8175	1516.8239	45234.0	59345.0	Pipistrellus pipistrellus	0.623	0.672	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-158	1516.8175	1516.8239	45234.0	59345.0	Pipistrellus pipistrellus	0.623	0.672	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-159	1516.8975	1516.9031	46093.0	58031.0	Pipistrellus pipistrellus	0.548	0.587	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-159	1516.8975	1516.9031	46093.0	58031.0	Pipistrellus pipistrellus	0.548	0.587	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-160	1517.0605	1517.0665	47812.0	56095.0	Pipistrellus pipistrellus	0.493	0.516	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-160	1517.0605	1517.0665	47812.0	56095.0	Pipistrellus pipistrellus	0.493	0.516	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-161	1542.1055	1542.1114	46093.0	54030.0	Pipistrellus pipistrellus	0.529	0.556	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-161	1542.1055	1542.1114	46093.0	54030.0	Pipistrellus pipistrellus	0.529	0.556	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-162	1542.3065	1542.3131	46093.0	54039.0	Pipistrellus pipistrellus	0.546	0.584	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-162	1542.3065	1542.3131	46093.0	54039.0	Pipistrellus pipistrellus	0.546	0.584	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-163	1561.2555	1561.2607	46093.0	58623.0	Pipistrellus pipistrellus	0.543	0.559	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-163	1561.2555	1561.2607	46093.0	58623.0	Pipistrellus pipistrellus	0.543	0.559	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-164	1561.5455	1561.5515	47812.0	61028.0	Pipistrellus pipistrellus	0.629	0.661	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-164	1561.5455	1561.5515	47812.0	61028.0	Pipistrellus pipistrellus	0.629	0.661	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-165	1561.8255	1561.8313	46953.0	55235.0	Pipistrellus pipistrellus	0.605	0.656	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-165	1561.8255	1561.8313	46953.0	55235.0	Pipistrellus pipistrellus	0.605	0.656	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-166	1561.9155	1561.921	46093.0	54900.0	Pipistrellus pipistrellus	0.606	0.628	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-166	1561.9155	1561.921	46093.0	54900.0	Pipistrellus pipistrellus	0.606	0.628	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-167	1562.4515	1562.4566	46953.0	57059.0	Pipistrellus pipistrellus	0.524	0.54	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-167	1562.4515	1562.4566	46953.0	57059.0	Pipistrellus pipistrellus	0.524	0.54	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-168	1562.6195	1562.6253	46953.0	57645.0	Pipistrellus pipistrellus	0.523	0.551	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-168	1562.6195	1562.6253	46953.0	57645.0	Pipistrellus pipistrellus	0.523	0.551	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-169	1562.7985	1562.805	46953.0	63580.0	Pipistrellus pipistrellus	0.446	0.56	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-169	1562.7985	1562.805	46953.0	63580.0	Pipistrellus pipistrellus	0.446	0.56	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-170	1562.8485	1562.8533	48671.0	63999.0	Pipistrellus pipistrellus	0.512	0.535	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-170	1562.8485	1562.8533	48671.0	63999.0	Pipistrellus pipistrellus	0.512	0.535	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-171	1562.8875	1562.8923	48671.0	63890.0	Pipistrellus pipistrellus	0.556	0.584	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-171	1562.8875	1562.8923	48671.0	63890.0	Pipistrellus pipistrellus	0.556	0.584	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-172	1563.2735	1563.2794	46953.0	57076.0	Pipistrellus pipistrellus	0.551	0.599	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-172	1563.2735	1563.2794	46953.0	57076.0	Pipistrellus pipistrellus	0.551	0.599	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-173	1563.3455	1563.352	46093.0	60733.0	Pipistrellus pipistrellus	0.581	0.645	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-173	1563.3455	1563.352	46093.0	60733.0	Pipistrellus pipistrellus	0.581	0.645	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-174	1563.4275	1563.4328	46093.0	63144.0	Pipistrellus pipistrellus	0.643	0.684	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-174	1563.4275	1563.4328	46093.0	63144.0	Pipistrellus pipistrellus	0.643	0.684	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-175	1563.5065	1563.5122	46953.0	64613.0	Pipistrellus pipistrellus	0.546	0.596	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-175	1563.5065	1563.5122	46953.0	64613.0	Pipistrellus pipistrellus	0.546	0.596	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-176	1563.5965	1563.6017	46093.0	62761.0	Pipistrellus pipistrellus	0.599	0.649	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-176	1563.5965	1563.6017	46093.0	62761.0	Pipistrellus pipistrellus	0.599	0.649	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-177	1563.6865	1563.6923	46093.0	61841.0	Pipistrellus pipistrellus	0.572	0.599	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-177	1563.6865	1563.6923	46093.0	61841.0	Pipistrellus pipistrellus	0.572	0.599	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-178	1563.7705	1563.7787	44375.0	65284.0	Pipistrellus pipistrellus	0.612	0.656	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-178	1563.7705	1563.7787	44375.0	65284.0	Pipistrellus pipistrellus	0.612	0.656	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-179	1563.8385	1563.8436	48671.0	65334.0	Pipistrellus pipistrellus	0.603	0.634	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-179	1563.8385	1563.8436	48671.0	65334.0	Pipistrellus pipistrellus	0.603	0.634	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-180	1563.8945	1563.8999	46953.0	63851.0	Pipistrellus pipistrellus	0.571	0.61	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-180	1563.8945	1563.8999	46953.0	63851.0	Pipistrellus pipistrellus	0.571	0.61	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-181	1563.9615	1563.9671	46953.0	63891.0	Pipistrellus pipistrellus	0.557	0.615	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-181	1563.9615	1563.9671	46953.0	63891.0	Pipistrellus pipistrellus	0.557	0.615	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-182	1564.0505	1564.0559	45234.0	62809.0	Pipistrellus pipistrellus	0.562	0.602	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-182	1564.0505	1564.0559	45234.0	62809.0	Pipistrellus pipistrellus	0.562	0.602	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-183	1564.1475	1564.1524	46093.0	60178.0	Pipistrellus pipistrellus	0.576	0.624	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-183	1564.1475	1564.1524	46093.0	60178.0	Pipistrellus pipistrellus	0.576	0.624	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-184	1564.8305	1564.8365	46953.0	56891.0	Pipistrellus pipistrellus	0.575	0.589	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-184	1564.8305	1564.8365	46953.0	56891.0	Pipistrellus pipistrellus	0.575	0.589	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-185	1564.9855	1564.9925	45234.0	55543.0	Pipistrellus pipistrellus	0.559	0.62	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-185	1564.9855	1564.9925	45234.0	55543.0	Pipistrellus pipistrellus	0.559	0.62	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-186	1565.1165	1565.1218	46953.0	59173.0	Pipistrellus pipistrellus	0.542	0.566	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-186	1565.1165	1565.1218	46953.0	59173.0	Pipistrellus pipistrellus	0.542	0.566	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-187	1565.1945	1565.2	45234.0	56304.0	Pipistrellus pipistrellus	0.595	0.625	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-187	1565.1945	1565.2	45234.0	56304.0	Pipistrellus pipistrellus	0.595	0.625	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-188	1565.3735	1565.3802	46093.0	54389.0	Pipistrellus pipistrellus	0.586	0.602	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-188	1565.3735	1565.3802	46093.0	54389.0	Pipistrellus pipistrellus	0.586	0.602	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-189	1566.5605	1566.5673	46953.0	61915.0	Pipistrellus pipistrellus	0.552	0.674	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-189	1566.5605	1566.5673	46953.0	61915.0	Pipistrellus pipistrellus	0.552	0.674	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-190	1566.6265	1566.6355	46093.0	51593.0	Pipistrellus pipistrellus	0.486	0.612	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-190	1566.6265	1566.6355	46093.0	51593.0	Pipistrellus pipistrellus	0.486	0.612	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-191	1588.1115	1588.1171	46093.0	56498.0	Pipistrellus pipistrellus	0.579	0.609	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-191	1588.1115	1588.1171	46093.0	56498.0	Pipistrellus pipistrellus	0.579	0.609	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-192	1588.9645	1588.9719	45234.0	56862.0	Pipistrellus pipistrellus	0.544	0.653	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-192	1588.9645	1588.9719	45234.0	56862.0	Pipistrellus pipistrellus	0.544	0.653	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-193	1589.3475	1589.3542	45234.0	53659.0	Pipistrellus pipistrellus	0.532	0.562	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-193	1589.3475	1589.3542	45234.0	53659.0	Pipistrellus pipistrellus	0.532	0.562	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-194	1594.7395	1594.745	46953.0	56813.0	Pipistrellus pipistrellus	0.493	0.515	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-194	1594.7395	1594.745	46953.0	56813.0	Pipistrellus pipistrellus	0.493	0.515	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-195	1595.1135	1595.1193	48671.0	58775.0	Pipistrellus pipistrellus	0.56	0.581	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-195	1595.1135	1595.1193	48671.0	58775.0	Pipistrellus pipistrellus	0.56	0.581	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-196	1595.2895	1595.2953	47812.0	57628.0	Pipistrellus pipistrellus	0.538	0.547	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-196	1595.2895	1595.2953	47812.0	57628.0	Pipistrellus pipistrellus	0.538	0.547	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-197	1595.4735	1595.4799	47812.0	60401.0	Pipistrellus pipistrellus	0.54	0.594	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-197	1595.4735	1595.4799	47812.0	60401.0	Pipistrellus pipistrellus	0.54	0.594	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-198	1595.5645	1595.5688	47812.0	61471.0	Pipistrellus pipistrellus	0.614	0.635	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-198	1595.5645	1595.5688	47812.0	61471.0	Pipistrellus pipistrellus	0.614	0.635	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-199	1595.6535	1595.6586	47812.0	56437.0	Pipistrellus pipistrellus	0.495	0.507	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-199	1595.6535	1595.6586	47812.0	56437.0	Pipistrellus pipistrellus	0.495	0.507	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-200	1595.7445	1595.7497	46953.0	60353.0	Pipistrellus pipistrellus	0.602	0.659	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-200	1595.7445	1595.7497	46953.0	60353.0	Pipistrellus pipistrellus	0.602	0.659	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-201	1595.8345	1595.8407	46953.0	57944.0	Pipistrellus pipistrellus	0.537	0.56	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-201	1595.8345	1595.8407	46953.0	57944.0	Pipistrellus pipistrellus	0.537	0.56	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-202	1595.9225	1595.9277	45234.0	56074.0	Pipistrellus pipistrellus	0.481	0.51	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-202	1595.9225	1595.9277	45234.0	56074.0	Pipistrellus pipistrellus	0.481	0.51	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-203	1596.0965	1596.102	46953.0	59999.0	Pipistrellus pipistrellus	0.597	0.639	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-203	1596.0965	1596.102	46953.0	59999.0	Pipistrellus pipistrellus	0.597	0.639	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-204	1596.1875	1596.1934	46953.0	55678.0	Pipistrellus pipistrellus	0.511	0.525	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-204	1596.1875	1596.1934	46953.0	55678.0	Pipistrellus pipistrellus	0.511	0.525	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-205	1596.2765	1596.2828	46953.0	56934.0	Pipistrellus pipistrellus	0.543	0.601	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-205	1596.2765	1596.2828	46953.0	56934.0	Pipistrellus pipistrellus	0.543	0.601	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-206	1624.7545	1624.7613	46093.0	58046.0	Pipistrellus pipistrellus	0.525	0.557	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-206	1624.7545	1624.7613	46093.0	58046.0	Pipistrellus pipistrellus	0.525	0.557	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-207	1624.9465	1624.9531	46093.0	55137.0	Pipistrellus pipistrellus	0.555	0.604	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-207	1624.9465	1624.9531	46093.0	55137.0	Pipistrellus pipistrellus	0.555	0.604	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-208	1638.6115	1638.6177	46953.0	59633.0	Pipistrellus pipistrellus	0.516	0.553	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-208	1638.6115	1638.6177	46953.0	59633.0	Pipistrellus pipistrellus	0.516	0.553	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-209	1638.9415	1638.9467	46093.0	57593.0	Pipistrellus pipistrellus	0.568	0.591	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-209	1638.9415	1638.9467	46093.0	57593.0	Pipistrellus pipistrellus	0.568	0.591	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-210	1639.0055	1639.0103	47812.0	60015.0	Pipistrellus pipistrellus	0.543	0.57	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-210	1639.0055	1639.0103	47812.0	60015.0	Pipistrellus pipistrellus	0.543	0.57	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-211	1639.7275	1639.7327	46953.0	59502.0	Pipistrellus pipistrellus	0.544	0.572	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-211	1639.7275	1639.7327	46953.0	59502.0	Pipistrellus pipistrellus	0.544	0.572	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-212	1639.8775	1639.8827	47812.0	59110.0	Pipistrellus pipistrellus	0.518	0.552	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-212	1639.8775	1639.8827	47812.0	59110.0	Pipistrellus pipistrellus	0.518	0.552	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-213	1639.9455	1639.9521	46953.0	62851.0	Pipistrellus pipistrellus	0.445	0.523	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-213	1639.9455	1639.9521	46953.0	62851.0	Pipistrellus pipistrellus	0.445	0.523	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-214	1640.1125	1640.1191	44375.0	59847.0	Pipistrellus pipistrellus	0.244	0.527	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-214	1640.1125	1640.1191	44375.0	59847.0	Pipistrellus pipistrellus	0.244	0.527	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-215	1643.1265	1643.1347	38359.0	46971.0	Pipistrellus nathusii	0.385	0.555	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-215	1643.1265	1643.1347	38359.0	46971.0	Pipistrellus nathusii	0.385	0.555	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-216	1643.3145	1643.3209	38359.0	47267.0	Pipistrellus nathusii	0.42	0.533	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-216	1643.3145	1643.3209	38359.0	47267.0	Pipistrellus nathusii	0.42	0.533	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-217	1643.5045	1643.5121	38359.0	48404.0	Pipistrellus nathusii	0.478	0.574	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-217	1643.5045	1643.5121	38359.0	48404.0	Pipistrellus nathusii	0.478	0.574	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-218	1643.6905	1643.6983	40078.0	48254.0	Pipistrellus nathusii	0.48	0.567	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-218	1643.6905	1643.6983	40078.0	48254.0	Pipistrellus nathusii	0.48	0.567	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-219	1654.2885	1654.293	48671.0	62311.0	Pipistrellus pipistrellus	0.626	0.646	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-219	1654.2885	1654.293	48671.0	62311.0	Pipistrellus pipistrellus	0.626	0.646	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-220	1654.6045	1654.6091	45234.0	59483.0	Pipistrellus pipistrellus	0.57	0.609	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-220	1654.6045	1654.6091	45234.0	59483.0	Pipistrellus pipistrellus	0.57	0.609	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-221	1654.6865	1654.6911	47812.0	61185.0	Pipistrellus pipistrellus	0.486	0.507	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-221	1654.6865	1654.6911	47812.0	61185.0	Pipistrellus pipistrellus	0.486	0.507	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-222	1654.7715	1654.777	45234.0	57252.0	Pipistrellus pipistrellus	0.5	0.531	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-222	1654.7715	1654.777	45234.0	57252.0	Pipistrellus pipistrellus	0.5	0.531	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-223	1654.9425	1654.9471	46093.0	58998.0	Pipistrellus pipistrellus	0.476	0.535	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-223	1654.9425	1654.9471	46093.0	58998.0	Pipistrellus pipistrellus	0.476	0.535	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-224	1655.1035	1655.1085	45234.0	58471.0	Pipistrellus pipistrellus	0.501	0.546	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-224	1655.1035	1655.1085	45234.0	58471.0	Pipistrellus pipistrellus	0.501	0.546	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-225	1655.1715	1655.1767	50390.0	58214.0	Pipistrellus pipistrellus	0.488	0.504	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-225	1655.1715	1655.1767	50390.0	58214.0	Pipistrellus pipistrellus	0.488	0.504	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-226	1673.0275	1673.0335	45234.0	56381.0	Pipistrellus pipistrellus	0.57	0.595	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-226	1673.0275	1673.0335	45234.0	56381.0	Pipistrellus pipistrellus	0.57	0.595	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-227	1673.2065	1673.2127	44375.0	53107.0	Pipistrellus pipistrellus	0.519	0.602	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-227	1673.2065	1673.2127	44375.0	53107.0	Pipistrellus pipistrellus	0.519	0.602	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-228	1681.9035	1681.9083	45234.0	58061.0	Pipistrellus pipistrellus	0.512	0.584	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-228	1681.9035	1681.9083	45234.0	58061.0	Pipistrellus pipistrellus	0.512	0.584	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-229	1682.0835	1682.0895	45234.0	57639.0	Pipistrellus pipistrellus	0.558	0.585	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-229	1682.0835	1682.0895	45234.0	57639.0	Pipistrellus pipistrellus	0.558	0.585	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-230	1682.3695	1682.3775	44375.0	56992.0	Pipistrellus pipistrellus	0.575	0.617	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-230	1682.3695	1682.3775	44375.0	56992.0	Pipistrellus pipistrellus	0.575	0.617	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-231	1682.5205	1682.5263	45234.0	60377.0	Pipistrellus pipistrellus	0.66	0.705	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-231	1682.5205	1682.5263	45234.0	60377.0	Pipistrellus pipistrellus	0.66	0.705	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-232	1682.6275	1682.6346	45234.0	54471.0	Pipistrellus pipistrellus	0.51	0.53	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-232	1682.6275	1682.6346	45234.0	54471.0	Pipistrellus pipistrellus	0.51	0.53	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-233	1682.7165	1682.723	44375.0	61204.0	Pipistrellus pipistrellus	0.621	0.663	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-233	1682.7165	1682.723	44375.0	61204.0	Pipistrellus pipistrellus	0.621	0.663	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-234	1682.8075	1682.8133	45234.0	54700.0	Pipistrellus pipistrellus	0.581	0.613	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-234	1682.8075	1682.8133	45234.0	54700.0	Pipistrellus pipistrellus	0.581	0.613	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-235	1682.9865	1682.9931	46093.0	59378.0	Pipistrellus pipistrellus	0.578	0.613	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-235	1682.9865	1682.9931	46093.0	59378.0	Pipistrellus pipistrellus	0.578	0.613	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-236	1683.3415	1683.347	46953.0	58842.0	Pipistrellus pipistrellus	0.582	0.636	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-236	1683.3415	1683.347	46953.0	58842.0	Pipistrellus pipistrellus	0.582	0.636	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-237	1703.6375	1703.646	45234.0	60210.0	Pipistrellus pipistrellus	0.278	0.564	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-237	1703.6375	1703.646	45234.0	60210.0	Pipistrellus pipistrellus	0.278	0.564	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-238	1709.5055	1709.5113	47812.0	57400.0	Pipistrellus pipistrellus	0.517	0.538	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-238	1709.5055	1709.5113	47812.0	57400.0	Pipistrellus pipistrellus	0.517	0.538	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-239	1709.5995	1709.6072	46093.0	61290.0	Pipistrellus pipistrellus	0.427	0.603	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-239	1709.5995	1709.6072	46093.0	61290.0	Pipistrellus pipistrellus	0.427	0.603	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-240	1710.7535	1710.7591	45234.0	57930.0	Pipistrellus pipistrellus	0.464	0.504	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-240	1710.7535	1710.7591	45234.0	57930.0	Pipistrellus pipistrellus	0.464	0.504	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-241	1712.2805	1712.2863	47812.0	57841.0	Pipistrellus pipistrellus	0.488	0.504	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-241	1712.2805	1712.2863	47812.0	57841.0	Pipistrellus pipistrellus	0.488	0.504	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-242	1713.1845	1713.1899	46953.0	59967.0	Pipistrellus pipistrellus	0.472	0.539	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-242	1713.1845	1713.1899	46953.0	59967.0	Pipistrellus pipistrellus	0.472	0.539	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-243	1714.1285	1714.1321	48671.0	62088.0	Pipistrellus pipistrellus	0.458	0.507	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-243	1714.1285	1714.1321	48671.0	62088.0	Pipistrellus pipistrellus	0.458	0.507	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-244	1718.6935	1718.6989	46953.0	57961.0	Pipistrellus pipistrellus	0.493	0.515	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-244	1718.6935	1718.6989	46953.0	57961.0	Pipistrellus pipistrellus	0.493	0.515	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-245	1718.7845	1718.7901	46093.0	59959.0	Pipistrellus pipistrellus	0.478	0.509	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-245	1718.7845	1718.7901	46093.0	59959.0	Pipistrellus pipistrellus	0.478	0.509	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-246	1718.9055	1718.9106	47812.0	59263.0	Pipistrellus pipistrellus	0.621	0.646	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-246	1718.9055	1718.9106	47812.0	59263.0	Pipistrellus pipistrellus	0.621	0.646	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-247	1718.9855	1718.9913	46953.0	60131.0	Pipistrellus pipistrellus	0.587	0.628	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-247	1718.9855	1718.9913	46953.0	60131.0	Pipistrellus pipistrellus	0.587	0.628	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-248	1719.0705	1719.0752	46093.0	59527.0	Pipistrellus pipistrellus	0.64	0.68	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-248	1719.0705	1719.0752	46093.0	59527.0	Pipistrellus pipistrellus	0.64	0.68	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-249	1719.1575	1719.1637	47812.0	63425.0	Pipistrellus pipistrellus	0.58	0.645	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-249	1719.1575	1719.1637	47812.0	63425.0	Pipistrellus pipistrellus	0.58	0.645	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-250	1719.2425	1719.2483	46093.0	63547.0	Pipistrellus pipistrellus	0.619	0.665	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-250	1719.2425	1719.2483	46093.0	63547.0	Pipistrellus pipistrellus	0.619	0.665	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-251	1719.3295	1719.3358	46953.0	58886.0	Pipistrellus pipistrellus	0.619	0.664	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-251	1719.3295	1719.3358	46953.0	58886.0	Pipistrellus pipistrellus	0.619	0.664	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-252	1719.4165	1719.4241	46953.0	55331.0	Pipistrellus pipistrellus	0.489	0.501	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-252	1719.4165	1719.4241	46953.0	55331.0	Pipistrellus pipistrellus	0.489	0.501	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-253	1719.5805	1719.5865	46953.0	63234.0	Pipistrellus pipistrellus	0.615	0.672	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-253	1719.5805	1719.5865	46953.0	63234.0	Pipistrellus pipistrellus	0.615	0.672	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-254	1719.6665	1719.6733	46953.0	55887.0	Pipistrellus pipistrellus	0.522	0.534	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-254	1719.6665	1719.6733	46953.0	55887.0	Pipistrellus pipistrellus	0.522	0.534	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-255	1719.7415	1719.7488	46953.0	54541.0	Pipistrellus pipistrellus	0.507	0.518	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-255	1719.7415	1719.7488	46953.0	54541.0	Pipistrellus pipistrellus	0.507	0.518	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-256	1736.2165	1736.2222	46953.0	61019.0	Pipistrellus pipistrellus	0.569	0.634	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-256	1736.2165	1736.2222	46953.0	61019.0	Pipistrellus pipistrellus	0.569	0.634	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-257	1736.3985	1736.407	45234.0	61001.0	Pipistrellus pipistrellus	0.474	0.645	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-257	1736.3985	1736.407	45234.0	61001.0	Pipistrellus pipistrellus	0.474	0.645	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-258	1736.4895	1736.4966	46093.0	59329.0	Pipistrellus pipistrellus	0.563	0.678	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-258	1736.4895	1736.4966	46093.0	59329.0	Pipistrellus pipistrellus	0.563	0.678	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-259	1736.5795	1736.5864	46093.0	58771.0	Pipistrellus pipistrellus	0.552	0.583	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-259	1736.5795	1736.5864	46093.0	58771.0	Pipistrellus pipistrellus	0.552	0.583	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-260	1751.7055	1751.7121	45234.0	53694.0	Pipistrellus pipistrellus	0.527	0.553	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-260	1751.7055	1751.7121	45234.0	53694.0	Pipistrellus pipistrellus	0.527	0.553	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-261	1751.8665	1751.8728	45234.0	51984.0	Pipistrellus pipistrellus	0.554	0.58	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-261	1751.8665	1751.8728	45234.0	51984.0	Pipistrellus pipistrellus	0.554	0.58	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-262	1758.5105	1758.5191	46953.0	52280.0	Pipistrellus pipistrellus	0.484	0.543	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-262	1758.5105	1758.5191	46953.0	52280.0	Pipistrellus pipistrellus	0.484	0.543	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-263	1769.2475	1769.2527	47812.0	58040.0	Pipistrellus pipistrellus	0.556	0.57	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-263	1769.2475	1769.2527	47812.0	58040.0	Pipistrellus pipistrellus	0.556	0.57	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-264	1769.3215	1769.3269	46093.0	57925.0	Pipistrellus pipistrellus	0.486	0.527	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-264	1769.3215	1769.3269	46093.0	57925.0	Pipistrellus pipistrellus	0.486	0.527	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-265	1769.4025	1769.4082	44375.0	58600.0	Pipistrellus pipistrellus	0.498	0.578	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-265	1769.4025	1769.4082	44375.0	58600.0	Pipistrellus pipistrellus	0.498	0.578	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-266	1769.4875	1769.4926	45234.0	61606.0	Pipistrellus pipistrellus	0.553	0.621	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-266	1769.4875	1769.4926	45234.0	61606.0	Pipistrellus pipistrellus	0.553	0.621	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-267	1769.6565	1769.6622	46093.0	60673.0	Pipistrellus pipistrellus	0.542	0.583	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-267	1769.6565	1769.6622	46093.0	60673.0	Pipistrellus pipistrellus	0.542	0.583	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-268	1769.7375	1769.7427	46093.0	60592.0	Pipistrellus pipistrellus	0.523	0.555	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-268	1769.7375	1769.7427	46093.0	60592.0	Pipistrellus pipistrellus	0.523	0.555	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-269	1771.8715	1771.8764	48671.0	60419.0	Pipistrellus pipistrellus	0.462	0.514	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-269	1771.8715	1771.8764	48671.0	60419.0	Pipistrellus pipistrellus	0.462	0.514	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-270	1772.0195	1772.0257	46093.0	57598.0	Pipistrellus pipistrellus	0.545	0.578	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-270	1772.0195	1772.0257	46093.0	57598.0	Pipistrellus pipistrellus	0.545	0.578	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-271	1772.0845	1772.0896	45234.0	57367.0	Pipistrellus pipistrellus	0.456	0.507	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-271	1772.0845	1772.0896	45234.0	57367.0	Pipistrellus pipistrellus	0.456	0.507	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-272	1772.2375	1772.2437	45234.0	57492.0	Pipistrellus pipistrellus	0.428	0.508	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-272	1772.2375	1772.2437	45234.0	57492.0	Pipistrellus pipistrellus	0.428	0.508	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-273	1777.4785	1777.4869	45234.0	60027.0	Pipistrellus pipistrellus	0.459	0.592	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-273	1777.4785	1777.4869	45234.0	60027.0	Pipistrellus pipistrellus	0.459	0.592	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-274	1777.5535	1777.5589	46093.0	57079.0	Pipistrellus pipistrellus	0.519	0.551	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-274	1777.5535	1777.5589	46093.0	57079.0	Pipistrellus pipistrellus	0.519	0.551	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-275	1777.6205	1777.6264	46093.0	60778.0	Pipistrellus pipistrellus	0.493	0.614	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-275	1777.6205	1777.6264	46093.0	60778.0	Pipistrellus pipistrellus	0.493	0.614	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-276	1777.7825	1777.7891	45234.0	59530.0	Pipistrellus pipistrellus	0.453	0.637	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-276	1777.7825	1777.7891	45234.0	59530.0	Pipistrellus pipistrellus	0.453	0.637	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-277	1777.8465	1777.8536	46093.0	57644.0	Pipistrellus pipistrellus	0.479	0.517	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-277	1777.8465	1777.8536	46093.0	57644.0	Pipistrellus pipistrellus	0.479	0.517	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-278	1779.3875	1779.3921	46953.0	56338.0	Pipistrellus pipistrellus	0.468	0.502	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-278	1779.3875	1779.3921	46953.0	56338.0	Pipistrellus pipistrellus	0.468	0.502	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-279	1789.0135	1789.0194	46953.0	54802.0	Pipistrellus pipistrellus	0.503	0.508	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-279	1789.0135	1789.0194	46953.0	54802.0	Pipistrellus pipistrellus	0.503	0.508	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-280	1789.2825	1789.2888	46093.0	52944.0	Pipistrellus pipistrellus	0.526	0.536	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-280	1789.2825	1789.2888	46093.0	52944.0	Pipistrellus pipistrellus	0.526	0.536	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-281	1789.3845	1789.3901	46093.0	54912.0	Pipistrellus pipistrellus	0.54	0.6	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-281	1789.3845	1789.3901	46093.0	54912.0	Pipistrellus pipistrellus	0.54	0.6	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-282	1789.6735	1789.6799	46093.0	53301.0	Pipistrellus pipistrellus	0.541	0.565	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-282	1789.6735	1789.6799	46093.0	53301.0	Pipistrellus pipistrellus	0.541	0.565	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-283	1790.4795	1790.4845	46093.0	58222.0	Pipistrellus pipistrellus	0.503	0.563	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-283	1790.4795	1790.4845	46093.0	58222.0	Pipistrellus pipistrellus	0.503	0.563	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-284	1790.5525	1790.5574	44375.0	55754.0	Pipistrellus pipistrellus	0.578	0.648	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-284	1790.5525	1790.5574	44375.0	55754.0	Pipistrellus pipistrellus	0.578	0.648	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-285	1793.6275	1793.633	47812.0	57880.0	Pipistrellus pipistrellus	0.509	0.522	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-285	1793.6275	1793.633	47812.0	57880.0	Pipistrellus pipistrellus	0.509	0.522	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-286	1793.8125	1793.8186	46953.0	54708.0	Pipistrellus pipistrellus	0.487	0.505	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-286	1793.8125	1793.8186	46953.0	54708.0	Pipistrellus pipistrellus	0.487	0.505	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-287	1794.0935	1794.0998	46953.0	56115.0	Pipistrellus pipistrellus	0.575	0.629	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-287	1794.0935	1794.0998	46953.0	56115.0	Pipistrellus pipistrellus	0.575	0.629	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-288	1794.3885	1794.3942	46093.0	58263.0	Pipistrellus pipistrellus	0.483	0.513	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-288	1794.3885	1794.3942	46093.0	58263.0	Pipistrellus pipistrellus	0.483	0.513	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-289	1794.4775	1794.4859	46953.0	54598.0	Pipistrellus pipistrellus	0.503	0.532	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
-289	1794.4775	1794.4859	46953.0	54598.0	Pipistrellus pipistrellus	0.503	0.532	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	class	class_prob	det_prob	individual	event	input_file	Site name	Recover Folder	SD Card
+280.6105	280.6166	45234.0	53651.0	Pipistrellus pipistrellus	0.558	0.586	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+280.7065	280.714	45234.0	51603.0	Pipistrellus pipistrellus	0.56	0.572	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+280.8035	280.81	45234.0	55078.0	Pipistrellus pipistrellus	0.656	0.684	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+280.9015	280.9079	45234.0	52893.0	Pipistrellus pipistrellus	0.494	0.509	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+280.9935	281.0014	45234.0	52714.0	Pipistrellus pipistrellus	0.504	0.516	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+281.0855	281.0921	44375.0	53994.0	Pipistrellus pipistrellus	0.549	0.596	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+281.1605	281.1676	45234.0	53456.0	Pipistrellus pipistrellus	0.501	0.518	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+281.9765	281.983	46093.0	57365.0	Pipistrellus pipistrellus	0.538	0.553	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+282.1275	282.1333	45234.0	61039.0	Pipistrellus pipistrellus	0.485	0.595	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+282.20550000000003	282.2112	45234.0	60510.0	Pipistrellus pipistrellus	0.572	0.672	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+282.3695	282.3764	44375.0	57607.0	Pipistrellus pipistrellus	0.545	0.638	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+282.7815	282.7897	43515.0	56096.0	Pipistrellus pipistrellus	0.477	0.527	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+346.5965	346.603	40078.0	46340.0	Pipistrellus nathusii	0.551	0.578	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+427.0675	427.0732	47812.0	58889.0	Pipistrellus pipistrellus	0.542	0.557	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+427.2805	427.2859	47812.0	58274.0	Pipistrellus pipistrellus	0.616	0.633	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+427.9045	427.9097	48671.0	62556.0	Pipistrellus pipistrellus	0.612	0.661	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+428.1915	428.1998	47812.0	61708.0	Pipistrellus pipistrellus	0.449	0.55	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+428.2905	428.2966	46953.0	63063.0	Pipistrellus pipistrellus	0.585	0.639	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+428.3935	428.4029	46093.0	59408.0	Pipistrellus pipistrellus	0.439	0.5	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+428.5025	428.5102	46953.0	61387.0	Pipistrellus pipistrellus	0.518	0.61	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+428.5945	428.6032	46953.0	64379.0	Pipistrellus pipistrellus	0.526	0.667	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+428.7005	428.7067	46953.0	59140.0	Pipistrellus pipistrellus	0.516	0.602	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+428.8945	428.9032	46093.0	65090.0	Pipistrellus pipistrellus	0.46	0.635	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+428.9965	429.0031	46953.0	60693.0	Pipistrellus pipistrellus	0.549	0.591	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+429.0985	429.107	46953.0	66490.0	Pipistrellus pipistrellus	0.524	0.658	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+429.2025	429.2115	45234.0	64291.0	Pipistrellus pipistrellus	0.484	0.602	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+429.3025	429.3113	46953.0	64377.0	Pipistrellus pipistrellus	0.487	0.615	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+429.4045	429.4139	46093.0	67618.0	Pipistrellus pipistrellus	0.531	0.644	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+429.5105	429.5184	45234.0	65210.0	Pipistrellus pipistrellus	0.559	0.658	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+429.6165	429.6248	46093.0	67718.0	Pipistrellus pipistrellus	0.56	0.648	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+429.7215	429.7302	46093.0	66742.0	Pipistrellus pipistrellus	0.573	0.667	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+429.8255	429.8339	46953.0	66282.0	Pipistrellus pipistrellus	0.561	0.719	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+429.9275	429.9363	46093.0	66047.0	Pipistrellus pipistrellus	0.542	0.647	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+430.0055	430.0099	47812.0	67200.0	Pipistrellus pipistrellus	0.574	0.63	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+430.0775	430.083	46093.0	70029.0	Pipistrellus pipistrellus	0.498	0.629	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+430.1555	430.1624	46093.0	72453.0	Pipistrellus pipistrellus	0.419	0.548	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+430.2555	430.262	46953.0	70637.0	Pipistrellus pipistrellus	0.589	0.714	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+430.3645	430.3709	45234.0	69580.0	Pipistrellus pipistrellus	0.458	0.668	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+430.4795	430.486	46953.0	68266.0	Pipistrellus pipistrellus	0.557	0.692	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+430.5895	430.5956	46093.0	65117.0	Pipistrellus pipistrellus	0.565	0.698	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+430.7085	430.7147	45234.0	72922.0	Pipistrellus pipistrellus	0.48	0.595	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+430.7885	430.7941	46093.0	70859.0	Pipistrellus pipistrellus	0.532	0.645	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+430.9515	430.9571	44375.0	65915.0	Pipistrellus pipistrellus	0.396	0.636	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+431.0295	431.0352	43515.0	62242.0	Pipistrellus pipistrellus	0.305	0.536	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+432.3225	432.3273	45234.0	87764.0	Myotis alcathoe	0.464	0.528	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+432.7495	432.754	46953.0	90675.0	Myotis alcathoe	0.456	0.519	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+433.3895	433.3948	44375.0	70886.0	Myotis alcathoe	0.235	0.508	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+433.7915	433.7955	47812.0	66785.0	Pipistrellus pipistrellus	0.599	0.66	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+433.8785	433.8822	47812.0	65182.0	Pipistrellus pipistrellus	0.464	0.536	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+434.0755	434.0831	46953.0	64462.0	Pipistrellus pipistrellus	0.488	0.599	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+434.2615	434.2667	45234.0	58511.0	Pipistrellus pipistrellus	0.572	0.63	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+434.5445	434.5509	47812.0	58444.0	Pipistrellus pipistrellus	0.496	0.51	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+434.6325	434.6377	43515.0	64381.0	Pipistrellus pipistrellus	0.591	0.719	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+434.7275	434.7325	46953.0	57050.0	Pipistrellus pipistrellus	0.566	0.585	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+436.0595	436.069	45234.0	53064.0	Pipistrellus pipistrellus	0.377	0.517	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+476.0765	476.0815	44375.0	63164.0	Pipistrellus pipistrellus	0.361	0.565	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+476.1685	476.1742	47812.0	62246.0	Pipistrellus pipistrellus	0.428	0.525	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+476.3585	476.3629	47812.0	60326.0	Pipistrellus pipistrellus	0.486	0.564	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+476.5225	476.5271	45234.0	59651.0	Pipistrellus pipistrellus	0.449	0.563	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+476.7705	476.775	46953.0	60388.0	Pipistrellus pipistrellus	0.533	0.562	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+476.9895	476.994	47812.0	61328.0	Pipistrellus pipistrellus	0.501	0.541	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+477.1515	477.1559	47812.0	60726.0	Pipistrellus pipistrellus	0.508	0.57	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+479.6455	479.6511	46953.0	54153.0	Pipistrellus pipistrellus	0.491	0.506	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+496.2525	496.2569	46093.0	56492.0	Pipistrellus pipistrellus	0.476	0.507	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+528.2085	528.2159	46093.0	59265.0	Pipistrellus pipistrellus	0.47	0.526	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+528.3095	528.3158	46953.0	58947.0	Pipistrellus pipistrellus	0.584	0.615	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+528.4125	528.419	46093.0	56329.0	Pipistrellus pipistrellus	0.478	0.509	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+528.7455	528.7512	47812.0	59809.0	Pipistrellus pipistrellus	0.538	0.56	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+528.8435	528.8495	47812.0	61181.0	Pipistrellus pipistrellus	0.555	0.58	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+529.1365	529.1424	46093.0	57973.0	Pipistrellus pipistrellus	0.539	0.59	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+529.2375	529.2451	46093.0	62785.0	Pipistrellus pipistrellus	0.455	0.542	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+529.3115	529.3177	47812.0	62412.0	Pipistrellus pipistrellus	0.569	0.608	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+529.3785	529.3841	47812.0	62548.0	Pipistrellus pipistrellus	0.565	0.602	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+529.4695	529.4761	46953.0	62400.0	Pipistrellus pipistrellus	0.607	0.694	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+529.5715	529.578	46953.0	62269.0	Pipistrellus pipistrellus	0.585	0.647	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+529.6565	529.6623	46953.0	62554.0	Pipistrellus pipistrellus	0.659	0.716	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+529.7395	529.7454	46093.0	64461.0	Pipistrellus pipistrellus	0.596	0.642	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+529.8395	529.8459	46953.0	64905.0	Pipistrellus pipistrellus	0.599	0.647	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+529.9425	529.9494	46953.0	64964.0	Pipistrellus pipistrellus	0.511	0.595	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+530.0475	530.0548	46953.0	64245.0	Pipistrellus pipistrellus	0.489	0.58	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+530.1514999999999	530.158	46093.0	61292.0	Pipistrellus pipistrellus	0.553	0.638	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+530.2555	530.2617	46093.0	59505.0	Pipistrellus pipistrellus	0.532	0.597	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+530.3585	530.3668	45234.0	61433.0	Pipistrellus pipistrellus	0.487	0.614	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+530.4665	530.4726	46953.0	61097.0	Pipistrellus pipistrellus	0.451	0.502	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+530.5645	530.5703	46093.0	58770.0	Pipistrellus pipistrellus	0.552	0.596	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+530.8695	530.876	45234.0	63476.0	Pipistrellus pipistrellus	0.517	0.652	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+530.9765	530.9828	48671.0	60158.0	Pipistrellus pipistrellus	0.489	0.512	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+531.1855	531.1927	46093.0	59091.0	Pipistrellus pipistrellus	0.535	0.602	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+531.4935	531.4999	45234.0	57558.0	Pipistrellus pipistrellus	0.483	0.585	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+619.8015	619.8091	47812.0	56459.0	Pipistrellus pipistrellus	0.504	0.516	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+619.9765	619.9815	45234.0	58704.0	Pipistrellus pipistrellus	0.522	0.559	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+620.0665	620.0723	46953.0	57642.0	Pipistrellus pipistrellus	0.594	0.622	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+620.2425	620.2491	45234.0	54429.0	Pipistrellus pipistrellus	0.555	0.586	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+620.3285	620.3346	45234.0	59581.0	Pipistrellus pipistrellus	0.623	0.654	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+620.4175	620.4243	45234.0	60262.0	Pipistrellus pipistrellus	0.581	0.626	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+620.4905	620.4964	45234.0	57179.0	Pipistrellus pipistrellus	0.488	0.533	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+620.5855	620.5917	46093.0	56126.0	Pipistrellus pipistrellus	0.573	0.618	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+620.6775	620.683	46093.0	55413.0	Pipistrellus pipistrellus	0.556	0.573	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+620.7665	620.7754	46953.0	54751.0	Pipistrellus pipistrellus	0.517	0.538	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+620.9465	620.953	46953.0	56528.0	Pipistrellus pipistrellus	0.596	0.606	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+621.0235	621.0306	46953.0	61345.0	Pipistrellus pipistrellus	0.483	0.508	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+621.1045	621.1116	46953.0	60357.0	Pipistrellus pipistrellus	0.567	0.594	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+621.1915	621.1966	47812.0	61897.0	Pipistrellus pipistrellus	0.557	0.582	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+621.3135	621.3197	46953.0	58024.0	Pipistrellus pipistrellus	0.512	0.539	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+622.1615	622.1679	44375.0	53429.0	Pipistrellus pipistrellus	0.487	0.522	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+622.4985	622.505	46093.0	56047.0	Pipistrellus pipistrellus	0.53	0.551	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+813.5535	813.5598	45234.0	54573.0	Pipistrellus pipistrellus	0.462	0.5	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+1435.1775	1435.1845	45234.0	54973.0	Pipistrellus pipistrellus	0.549	0.614	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+1435.3025	1435.31	47812.0	55118.0	Pipistrellus pipistrellus	0.548	0.586	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+1435.4205	1435.4286	46093.0	55558.0	Pipistrellus pipistrellus	0.524	0.632	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+1435.5205	1435.528	44375.0	60188.0	Pipistrellus pipistrellus	0.546	0.646	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+1435.6145	1435.6244	45234.0	59448.0	Pipistrellus pipistrellus	0.424	0.565	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+1461.7605	1461.7673	44375.0	58665.0	Pipistrellus pipistrellus	0.433	0.628	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+1463.7945	1463.8	47812.0	59354.0	Pipistrellus pipistrellus	0.492	0.54	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+1469.9855	1469.9914	44375.0	58933.0	Pipistrellus pipistrellus	0.465	0.605	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+1470.0625	1470.0675	46093.0	56170.0	Pipistrellus pipistrellus	0.532	0.561	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+1470.1265	1470.131	44375.0	58350.0	Pipistrellus pipistrellus	0.45	0.578	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+1470.6555	1470.6619	45234.0	62983.0	Pipistrellus pipistrellus	0.464	0.64	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+1470.8025	1470.8088	46093.0	58100.0	Pipistrellus pipistrellus	0.467	0.532	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+1471.1275	1471.132	46093.0	60107.0	Pipistrellus pipistrellus	0.552	0.609	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+1478.4305	1478.4374	46953.0	54172.0	Pipistrellus pipistrellus	0.492	0.527	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+1484.5695	1484.5754	47812.0	55574.0	Pipistrellus pipistrellus	0.533	0.539	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+1485.2275	1485.2339	46093.0	53055.0	Pipistrellus pipistrellus	0.584	0.598	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+1485.4415	1485.4474	46953.0	61029.0	Pipistrellus pipistrellus	0.631	0.72	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+1485.6105	1485.6178	46093.0	55925.0	Pipistrellus pipistrellus	0.577	0.624	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+1485.6955	1485.7038	46093.0	56509.0	Pipistrellus pipistrellus	0.612	0.684	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+1496.2555	1496.2665	45234.0	49964.0	Pipistrellus pipistrellus	0.368	0.529	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+1500.7525	1500.763	46093.0	60094.0	Pipistrellus pipistrellus	0.374	0.559	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+1510.4775	1510.4826	46953.0	56688.0	Pipistrellus pipistrellus	0.519	0.527	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+1510.5685	1510.5736	46953.0	59309.0	Pipistrellus pipistrellus	0.565	0.598	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+1510.6305	1510.6355	46093.0	58677.0	Pipistrellus pipistrellus	0.617	0.663	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+1511.2765	1511.2816	48671.0	57062.0	Pipistrellus pipistrellus	0.49	0.501	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+1511.7185	1511.7235	46953.0	56639.0	Pipistrellus pipistrellus	0.531	0.543	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+1511.9525	1511.9589	46953.0	57566.0	Pipistrellus pipistrellus	0.527	0.551	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+1512.0235	1512.0297	46093.0	59211.0	Pipistrellus pipistrellus	0.581	0.647	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+1512.1265	1512.1329	45234.0	52465.0	Pipistrellus pipistrellus	0.557	0.568	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+1512.2245	1512.2317	45234.0	54970.0	Pipistrellus pipistrellus	0.486	0.526	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+1512.4225	1512.4281	44375.0	62113.0	Pipistrellus pipistrellus	0.601	0.639	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+1512.5165	1512.5226	46953.0	56961.0	Pipistrellus pipistrellus	0.61	0.663	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+1512.6155	1512.6216	46953.0	57950.0	Pipistrellus pipistrellus	0.605	0.655	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+1512.7135	1512.72	45234.0	63717.0	Pipistrellus pipistrellus	0.626	0.685	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+1513.1805	1513.186	44375.0	56630.0	Pipistrellus pipistrellus	0.627	0.671	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+1514.6955	1514.7009	47812.0	58358.0	Pipistrellus pipistrellus	0.579	0.598	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+1514.8955	1514.9007	47812.0	59830.0	Pipistrellus pipistrellus	0.5	0.535	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+1514.9915	1514.9981	46953.0	56576.0	Pipistrellus pipistrellus	0.566	0.59	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+1515.0885	1515.0944	46953.0	56309.0	Pipistrellus pipistrellus	0.574	0.596	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+1515.1825	1515.1894	46953.0	62569.0	Pipistrellus pipistrellus	0.471	0.502	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+1515.2875	1515.2941	47812.0	57033.0	Pipistrellus pipistrellus	0.583	0.606	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+1515.3875	1515.3936	46093.0	60298.0	Pipistrellus pipistrellus	0.645	0.72	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+1515.5075	1515.5132	47812.0	57520.0	Pipistrellus pipistrellus	0.628	0.661	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+1515.5575	1515.5628	48671.0	59032.0	Pipistrellus pipistrellus	0.504	0.513	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+1516.2595	1516.2662	47812.0	61556.0	Pipistrellus pipistrellus	0.462	0.537	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+1516.3375	1516.343	46093.0	63267.0	Pipistrellus pipistrellus	0.58	0.656	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+1516.4145	1516.4205	47812.0	61809.0	Pipistrellus pipistrellus	0.558	0.605	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+1516.4925	1516.5001	44375.0	64040.0	Pipistrellus pipistrellus	0.585	0.694	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+1516.5745	1516.5812	45234.0	64530.0	Pipistrellus pipistrellus	0.562	0.633	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+1516.6575	1516.6637	44375.0	65576.0	Pipistrellus pipistrellus	0.607	0.669	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+1516.7375	1516.7448	46093.0	59205.0	Pipistrellus pipistrellus	0.526	0.62	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+1516.8175	1516.8239	45234.0	59345.0	Pipistrellus pipistrellus	0.623	0.672	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+1516.8975	1516.9031	46093.0	58031.0	Pipistrellus pipistrellus	0.548	0.587	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+1517.0605	1517.0665	47812.0	56095.0	Pipistrellus pipistrellus	0.493	0.516	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+1542.1055	1542.1114	46093.0	54030.0	Pipistrellus pipistrellus	0.529	0.556	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+1542.3065	1542.3131	46093.0	54039.0	Pipistrellus pipistrellus	0.546	0.584	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+1561.2555	1561.2607	46093.0	58623.0	Pipistrellus pipistrellus	0.543	0.559	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+1561.5455	1561.5515	47812.0	61028.0	Pipistrellus pipistrellus	0.629	0.661	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+1561.8255	1561.8313	46953.0	55235.0	Pipistrellus pipistrellus	0.605	0.656	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+1561.9155	1561.921	46093.0	54900.0	Pipistrellus pipistrellus	0.606	0.628	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+1562.4515	1562.4566	46953.0	57059.0	Pipistrellus pipistrellus	0.524	0.54	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+1562.6195	1562.6253	46953.0	57645.0	Pipistrellus pipistrellus	0.523	0.551	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+1562.7985	1562.805	46953.0	63580.0	Pipistrellus pipistrellus	0.446	0.56	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+1562.8485	1562.8533	48671.0	63999.0	Pipistrellus pipistrellus	0.512	0.535	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+1562.8875	1562.8923	48671.0	63890.0	Pipistrellus pipistrellus	0.556	0.584	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+1563.2735	1563.2794	46953.0	57076.0	Pipistrellus pipistrellus	0.551	0.599	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+1563.3455	1563.352	46093.0	60733.0	Pipistrellus pipistrellus	0.581	0.645	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+1563.4275	1563.4328	46093.0	63144.0	Pipistrellus pipistrellus	0.643	0.684	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+1563.5065	1563.5122	46953.0	64613.0	Pipistrellus pipistrellus	0.546	0.596	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+1563.5965	1563.6017	46093.0	62761.0	Pipistrellus pipistrellus	0.599	0.649	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+1563.6865	1563.6923	46093.0	61841.0	Pipistrellus pipistrellus	0.572	0.599	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+1563.7705	1563.7787	44375.0	65284.0	Pipistrellus pipistrellus	0.612	0.656	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+1563.8385	1563.8436	48671.0	65334.0	Pipistrellus pipistrellus	0.603	0.634	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+1563.8945	1563.8999	46953.0	63851.0	Pipistrellus pipistrellus	0.571	0.61	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+1563.9615	1563.9671	46953.0	63891.0	Pipistrellus pipistrellus	0.557	0.615	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+1564.0505	1564.0559	45234.0	62809.0	Pipistrellus pipistrellus	0.562	0.602	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+1564.1475	1564.1524	46093.0	60178.0	Pipistrellus pipistrellus	0.576	0.624	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+1564.8305	1564.8365	46953.0	56891.0	Pipistrellus pipistrellus	0.575	0.589	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+1564.9855	1564.9925	45234.0	55543.0	Pipistrellus pipistrellus	0.559	0.62	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+1565.1165	1565.1218	46953.0	59173.0	Pipistrellus pipistrellus	0.542	0.566	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+1565.1945	1565.2	45234.0	56304.0	Pipistrellus pipistrellus	0.595	0.625	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+1565.3735	1565.3802	46093.0	54389.0	Pipistrellus pipistrellus	0.586	0.602	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+1566.5605	1566.5673	46953.0	61915.0	Pipistrellus pipistrellus	0.552	0.674	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+1566.6265	1566.6355	46093.0	51593.0	Pipistrellus pipistrellus	0.486	0.612	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+1588.1115	1588.1171	46093.0	56498.0	Pipistrellus pipistrellus	0.579	0.609	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+1588.9645	1588.9719	45234.0	56862.0	Pipistrellus pipistrellus	0.544	0.653	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+1589.3475	1589.3542	45234.0	53659.0	Pipistrellus pipistrellus	0.532	0.562	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+1594.7395	1594.745	46953.0	56813.0	Pipistrellus pipistrellus	0.493	0.515	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+1595.1135	1595.1193	48671.0	58775.0	Pipistrellus pipistrellus	0.56	0.581	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+1595.2895	1595.2953	47812.0	57628.0	Pipistrellus pipistrellus	0.538	0.547	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+1595.4735	1595.4799	47812.0	60401.0	Pipistrellus pipistrellus	0.54	0.594	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+1595.5645	1595.5688	47812.0	61471.0	Pipistrellus pipistrellus	0.614	0.635	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+1595.6535	1595.6586	47812.0	56437.0	Pipistrellus pipistrellus	0.495	0.507	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+1595.7445	1595.7497	46953.0	60353.0	Pipistrellus pipistrellus	0.602	0.659	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+1595.8345	1595.8407	46953.0	57944.0	Pipistrellus pipistrellus	0.537	0.56	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+1595.9225	1595.9277	45234.0	56074.0	Pipistrellus pipistrellus	0.481	0.51	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+1596.0965	1596.102	46953.0	59999.0	Pipistrellus pipistrellus	0.597	0.639	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+1596.1875	1596.1934	46953.0	55678.0	Pipistrellus pipistrellus	0.511	0.525	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+1596.2765	1596.2828	46953.0	56934.0	Pipistrellus pipistrellus	0.543	0.601	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+1624.7545	1624.7613	46093.0	58046.0	Pipistrellus pipistrellus	0.525	0.557	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+1624.9465	1624.9531	46093.0	55137.0	Pipistrellus pipistrellus	0.555	0.604	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+1638.6115	1638.6177	46953.0	59633.0	Pipistrellus pipistrellus	0.516	0.553	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+1638.9415	1638.9467	46093.0	57593.0	Pipistrellus pipistrellus	0.568	0.591	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+1639.0055	1639.0103	47812.0	60015.0	Pipistrellus pipistrellus	0.543	0.57	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+1639.7275	1639.7327	46953.0	59502.0	Pipistrellus pipistrellus	0.544	0.572	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+1639.8775	1639.8827	47812.0	59110.0	Pipistrellus pipistrellus	0.518	0.552	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+1639.9455	1639.9521	46953.0	62851.0	Pipistrellus pipistrellus	0.445	0.523	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+1640.1125	1640.1191	44375.0	59847.0	Pipistrellus pipistrellus	0.244	0.527	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+1643.1265	1643.1347	38359.0	46971.0	Pipistrellus nathusii	0.385	0.555	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+1643.3145	1643.3209	38359.0	47267.0	Pipistrellus nathusii	0.42	0.533	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+1643.5045	1643.5121	38359.0	48404.0	Pipistrellus nathusii	0.478	0.574	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+1643.6905	1643.6983	40078.0	48254.0	Pipistrellus nathusii	0.48	0.567	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+1654.2885	1654.293	48671.0	62311.0	Pipistrellus pipistrellus	0.626	0.646	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+1654.6045	1654.6091	45234.0	59483.0	Pipistrellus pipistrellus	0.57	0.609	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+1654.6865	1654.6911	47812.0	61185.0	Pipistrellus pipistrellus	0.486	0.507	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+1654.7715	1654.777	45234.0	57252.0	Pipistrellus pipistrellus	0.5	0.531	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+1654.9425	1654.9471	46093.0	58998.0	Pipistrellus pipistrellus	0.476	0.535	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+1655.1035	1655.1085	45234.0	58471.0	Pipistrellus pipistrellus	0.501	0.546	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+1655.1715	1655.1767	50390.0	58214.0	Pipistrellus pipistrellus	0.488	0.504	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+1673.0275	1673.0335	45234.0	56381.0	Pipistrellus pipistrellus	0.57	0.595	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+1673.2065	1673.2127	44375.0	53107.0	Pipistrellus pipistrellus	0.519	0.602	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+1681.9035	1681.9083	45234.0	58061.0	Pipistrellus pipistrellus	0.512	0.584	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+1682.0835	1682.0895	45234.0	57639.0	Pipistrellus pipistrellus	0.558	0.585	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+1682.3695	1682.3775	44375.0	56992.0	Pipistrellus pipistrellus	0.575	0.617	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+1682.5205	1682.5263	45234.0	60377.0	Pipistrellus pipistrellus	0.66	0.705	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+1682.6275	1682.6346	45234.0	54471.0	Pipistrellus pipistrellus	0.51	0.53	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+1682.7165	1682.723	44375.0	61204.0	Pipistrellus pipistrellus	0.621	0.663	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+1682.8075	1682.8133	45234.0	54700.0	Pipistrellus pipistrellus	0.581	0.613	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+1682.9865	1682.9931	46093.0	59378.0	Pipistrellus pipistrellus	0.578	0.613	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+1683.3415	1683.347	46953.0	58842.0	Pipistrellus pipistrellus	0.582	0.636	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+1703.6375	1703.646	45234.0	60210.0	Pipistrellus pipistrellus	0.278	0.564	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+1709.5055	1709.5113	47812.0	57400.0	Pipistrellus pipistrellus	0.517	0.538	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+1709.5995	1709.6072	46093.0	61290.0	Pipistrellus pipistrellus	0.427	0.603	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+1710.7535	1710.7591	45234.0	57930.0	Pipistrellus pipistrellus	0.464	0.504	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+1712.2805	1712.2863	47812.0	57841.0	Pipistrellus pipistrellus	0.488	0.504	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+1713.1845	1713.1899	46953.0	59967.0	Pipistrellus pipistrellus	0.472	0.539	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+1714.1285	1714.1321	48671.0	62088.0	Pipistrellus pipistrellus	0.458	0.507	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+1718.6935	1718.6989	46953.0	57961.0	Pipistrellus pipistrellus	0.493	0.515	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+1718.7845	1718.7901	46093.0	59959.0	Pipistrellus pipistrellus	0.478	0.509	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+1718.9055	1718.9106	47812.0	59263.0	Pipistrellus pipistrellus	0.621	0.646	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+1718.9855	1718.9913	46953.0	60131.0	Pipistrellus pipistrellus	0.587	0.628	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+1719.0705	1719.0752	46093.0	59527.0	Pipistrellus pipistrellus	0.64	0.68	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+1719.1575	1719.1637	47812.0	63425.0	Pipistrellus pipistrellus	0.58	0.645	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+1719.2425	1719.2483	46093.0	63547.0	Pipistrellus pipistrellus	0.619	0.665	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+1719.3295	1719.3358	46953.0	58886.0	Pipistrellus pipistrellus	0.619	0.664	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+1719.4165	1719.4241	46953.0	55331.0	Pipistrellus pipistrellus	0.489	0.501	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+1719.5805	1719.5865	46953.0	63234.0	Pipistrellus pipistrellus	0.615	0.672	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+1719.6665	1719.6733	46953.0	55887.0	Pipistrellus pipistrellus	0.522	0.534	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+1719.7415	1719.7488	46953.0	54541.0	Pipistrellus pipistrellus	0.507	0.518	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+1736.2165	1736.2222	46953.0	61019.0	Pipistrellus pipistrellus	0.569	0.634	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+1736.3985	1736.407	45234.0	61001.0	Pipistrellus pipistrellus	0.474	0.645	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+1736.4895	1736.4966	46093.0	59329.0	Pipistrellus pipistrellus	0.563	0.678	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+1736.5795	1736.5864	46093.0	58771.0	Pipistrellus pipistrellus	0.552	0.583	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+1751.7055	1751.7121	45234.0	53694.0	Pipistrellus pipistrellus	0.527	0.553	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+1751.8665	1751.8728	45234.0	51984.0	Pipistrellus pipistrellus	0.554	0.58	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+1758.5105	1758.5191	46953.0	52280.0	Pipistrellus pipistrellus	0.484	0.543	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+1769.2475	1769.2527	47812.0	58040.0	Pipistrellus pipistrellus	0.556	0.57	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+1769.3215	1769.3269	46093.0	57925.0	Pipistrellus pipistrellus	0.486	0.527	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+1769.4025	1769.4082	44375.0	58600.0	Pipistrellus pipistrellus	0.498	0.578	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+1769.4875	1769.4926	45234.0	61606.0	Pipistrellus pipistrellus	0.553	0.621	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+1769.6565	1769.6622	46093.0	60673.0	Pipistrellus pipistrellus	0.542	0.583	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+1769.7375	1769.7427	46093.0	60592.0	Pipistrellus pipistrellus	0.523	0.555	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+1771.8715	1771.8764	48671.0	60419.0	Pipistrellus pipistrellus	0.462	0.514	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+1772.0195	1772.0257	46093.0	57598.0	Pipistrellus pipistrellus	0.545	0.578	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+1772.0845	1772.0896	45234.0	57367.0	Pipistrellus pipistrellus	0.456	0.507	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+1772.2375	1772.2437	45234.0	57492.0	Pipistrellus pipistrellus	0.428	0.508	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+1777.4785	1777.4869	45234.0	60027.0	Pipistrellus pipistrellus	0.459	0.592	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+1777.5535	1777.5589	46093.0	57079.0	Pipistrellus pipistrellus	0.519	0.551	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+1777.6205	1777.6264	46093.0	60778.0	Pipistrellus pipistrellus	0.493	0.614	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+1777.7825	1777.7891	45234.0	59530.0	Pipistrellus pipistrellus	0.453	0.637	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+1777.8465	1777.8536	46093.0	57644.0	Pipistrellus pipistrellus	0.479	0.517	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+1779.3875	1779.3921	46953.0	56338.0	Pipistrellus pipistrellus	0.468	0.502	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+1789.0135	1789.0194	46953.0	54802.0	Pipistrellus pipistrellus	0.503	0.508	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+1789.2825	1789.2888	46093.0	52944.0	Pipistrellus pipistrellus	0.526	0.536	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+1789.3845	1789.3901	46093.0	54912.0	Pipistrellus pipistrellus	0.54	0.6	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+1789.6735	1789.6799	46093.0	53301.0	Pipistrellus pipistrellus	0.541	0.565	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+1790.4795	1790.4845	46093.0	58222.0	Pipistrellus pipistrellus	0.503	0.563	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+1790.5525	1790.5574	44375.0	55754.0	Pipistrellus pipistrellus	0.578	0.648	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+1793.6275	1793.633	47812.0	57880.0	Pipistrellus pipistrellus	0.509	0.522	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+1793.8125	1793.8186	46953.0	54708.0	Pipistrellus pipistrellus	0.487	0.505	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+1794.0935	1794.0998	46953.0	56115.0	Pipistrellus pipistrellus	0.575	0.629	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+1794.3885	1794.3942	46093.0	58263.0	Pipistrellus pipistrellus	0.483	0.513	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001
+1794.4775	1794.4859	46953.0	54598.0	Pipistrellus pipistrellus	0.503	0.532	-1	Echolocation	/mnt/ubna_data_02/recover-20220915/UBNA_001/20220913_103000.WAV	Telephone Field	recover-20220915	UBNA_001

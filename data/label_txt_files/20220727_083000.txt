@@ -1,47 +1,24 @@
-Unnamed: 0	start_time	end_time	low_freq	high_freq	class	class_prob	det_prob	individual	event	input_file	Site name	Recover Folder	SD Card
-0	859.2105	859.2255	23750.0	28120.0	Nyctalus leisleri	0.545	0.638	-1	Echolocation	/mnt/ubna_data_01/recover-20220728/UBNA_011/20220727_083000.WAV	Foliage	recover-20220728	11
-0	859.2105	859.2255	23750.0	28120.0	Nyctalus leisleri	0.545	0.638	-1	Echolocation	/mnt/ubna_data_01/recover-20220728/UBNA_011/20220727_083000.WAV	Foliage	recover-20220728	11
-1	861.8675	861.883	22890.0	27158.0	Nyctalus leisleri	0.403	0.545	-1	Echolocation	/mnt/ubna_data_01/recover-20220728/UBNA_011/20220727_083000.WAV	Foliage	recover-20220728	11
-1	861.8675	861.883	22890.0	27158.0	Nyctalus leisleri	0.403	0.545	-1	Echolocation	/mnt/ubna_data_01/recover-20220728/UBNA_011/20220727_083000.WAV	Foliage	recover-20220728	11
-2	1067.0045	1067.0235	22031.0	26344.0	Nyctalus leisleri	0.397	0.501	-1	Echolocation	/mnt/ubna_data_01/recover-20220728/UBNA_011/20220727_083000.WAV	Foliage	recover-20220728	11
-2	1067.0045	1067.0235	22031.0	26344.0	Nyctalus leisleri	0.397	0.501	-1	Echolocation	/mnt/ubna_data_01/recover-20220728/UBNA_011/20220727_083000.WAV	Foliage	recover-20220728	11
-3	1068.4515	1068.4644	23750.0	28902.0	Nyctalus leisleri	0.389	0.586	-1	Echolocation	/mnt/ubna_data_01/recover-20220728/UBNA_011/20220727_083000.WAV	Foliage	recover-20220728	11
-3	1068.4515	1068.4644	23750.0	28902.0	Nyctalus leisleri	0.389	0.586	-1	Echolocation	/mnt/ubna_data_01/recover-20220728/UBNA_011/20220727_083000.WAV	Foliage	recover-20220728	11
-4	1082.2945	1082.3088	23750.0	28156.0	Nyctalus leisleri	0.416	0.545	-1	Echolocation	/mnt/ubna_data_01/recover-20220728/UBNA_011/20220727_083000.WAV	Foliage	recover-20220728	11
-4	1082.2945	1082.3088	23750.0	28156.0	Nyctalus leisleri	0.416	0.545	-1	Echolocation	/mnt/ubna_data_01/recover-20220728/UBNA_011/20220727_083000.WAV	Foliage	recover-20220728	11
-5	1085.4375	1085.4443	40937.0	49440.0	Pipistrellus nathusii	0.443	0.508	-1	Echolocation	/mnt/ubna_data_01/recover-20220728/UBNA_011/20220727_083000.WAV	Foliage	recover-20220728	11
-5	1085.4375	1085.4443	40937.0	49440.0	Pipistrellus nathusii	0.443	0.508	-1	Echolocation	/mnt/ubna_data_01/recover-20220728/UBNA_011/20220727_083000.WAV	Foliage	recover-20220728	11
-6	1088.7515	1088.7658	22890.0	29060.0	Nyctalus leisleri	0.221	0.527	-1	Echolocation	/mnt/ubna_data_01/recover-20220728/UBNA_011/20220727_083000.WAV	Foliage	recover-20220728	11
-6	1088.7515	1088.7658	22890.0	29060.0	Nyctalus leisleri	0.221	0.527	-1	Echolocation	/mnt/ubna_data_01/recover-20220728/UBNA_011/20220727_083000.WAV	Foliage	recover-20220728	11
-7	1089.3525	1089.3686	22031.0	26996.0	Nyctalus leisleri	0.489	0.599	-1	Echolocation	/mnt/ubna_data_01/recover-20220728/UBNA_011/20220727_083000.WAV	Foliage	recover-20220728	11
-7	1089.3525	1089.3686	22031.0	26996.0	Nyctalus leisleri	0.489	0.599	-1	Echolocation	/mnt/ubna_data_01/recover-20220728/UBNA_011/20220727_083000.WAV	Foliage	recover-20220728	11
-8	1099.9605	1099.9743	23750.0	28932.0	Nyctalus leisleri	0.436	0.603	-1	Echolocation	/mnt/ubna_data_01/recover-20220728/UBNA_011/20220727_083000.WAV	Foliage	recover-20220728	11
-8	1099.9605	1099.9743	23750.0	28932.0	Nyctalus leisleri	0.436	0.603	-1	Echolocation	/mnt/ubna_data_01/recover-20220728/UBNA_011/20220727_083000.WAV	Foliage	recover-20220728	11
-9	1100.2455	1100.2606	22890.0	28277.0	Nyctalus leisleri	0.329	0.524	-1	Echolocation	/mnt/ubna_data_01/recover-20220728/UBNA_011/20220727_083000.WAV	Foliage	recover-20220728	11
-9	1100.2455	1100.2606	22890.0	28277.0	Nyctalus leisleri	0.329	0.524	-1	Echolocation	/mnt/ubna_data_01/recover-20220728/UBNA_011/20220727_083000.WAV	Foliage	recover-20220728	11
-10	1138.3165	1138.33	23750.0	28871.0	Nyctalus leisleri	0.329	0.518	-1	Echolocation	/mnt/ubna_data_01/recover-20220728/UBNA_011/20220727_083000.WAV	Foliage	recover-20220728	11
-10	1138.3165	1138.33	23750.0	28871.0	Nyctalus leisleri	0.329	0.518	-1	Echolocation	/mnt/ubna_data_01/recover-20220728/UBNA_011/20220727_083000.WAV	Foliage	recover-20220728	11
-11	1345.7685	1345.7804	23750.0	29324.0	Nyctalus leisleri	0.279	0.522	-1	Echolocation	/mnt/ubna_data_01/recover-20220728/UBNA_011/20220727_083000.WAV	Foliage	recover-20220728	11
-11	1345.7685	1345.7804	23750.0	29324.0	Nyctalus leisleri	0.279	0.522	-1	Echolocation	/mnt/ubna_data_01/recover-20220728/UBNA_011/20220727_083000.WAV	Foliage	recover-20220728	11
-12	1361.0605	1361.0744	22890.0	28340.0	Nyctalus leisleri	0.414	0.607	-1	Echolocation	/mnt/ubna_data_01/recover-20220728/UBNA_011/20220727_083000.WAV	Foliage	recover-20220728	11
-12	1361.0605	1361.0744	22890.0	28340.0	Nyctalus leisleri	0.414	0.607	-1	Echolocation	/mnt/ubna_data_01/recover-20220728/UBNA_011/20220727_083000.WAV	Foliage	recover-20220728	11
-13	1363.3695	1363.3836	22031.0	27072.0	Nyctalus leisleri	0.396	0.557	-1	Echolocation	/mnt/ubna_data_01/recover-20220728/UBNA_011/20220727_083000.WAV	Foliage	recover-20220728	11
-13	1363.3695	1363.3836	22031.0	27072.0	Nyctalus leisleri	0.396	0.557	-1	Echolocation	/mnt/ubna_data_01/recover-20220728/UBNA_011/20220727_083000.WAV	Foliage	recover-20220728	11
-14	1364.1675	1364.1818	22890.0	28207.0	Nyctalus leisleri	0.368	0.635	-1	Echolocation	/mnt/ubna_data_01/recover-20220728/UBNA_011/20220727_083000.WAV	Foliage	recover-20220728	11
-14	1364.1675	1364.1818	22890.0	28207.0	Nyctalus leisleri	0.368	0.635	-1	Echolocation	/mnt/ubna_data_01/recover-20220728/UBNA_011/20220727_083000.WAV	Foliage	recover-20220728	11
-15	1643.7745	1643.794	22890.0	26684.0	Nyctalus leisleri	0.454	0.506	-1	Echolocation	/mnt/ubna_data_01/recover-20220728/UBNA_011/20220727_083000.WAV	Foliage	recover-20220728	11
-15	1643.7745	1643.794	22890.0	26684.0	Nyctalus leisleri	0.454	0.506	-1	Echolocation	/mnt/ubna_data_01/recover-20220728/UBNA_011/20220727_083000.WAV	Foliage	recover-20220728	11
-16	1645.4615	1645.4811	22890.0	26086.0	Nyctalus leisleri	0.577	0.622	-1	Echolocation	/mnt/ubna_data_01/recover-20220728/UBNA_011/20220727_083000.WAV	Foliage	recover-20220728	11
-16	1645.4615	1645.4811	22890.0	26086.0	Nyctalus leisleri	0.577	0.622	-1	Echolocation	/mnt/ubna_data_01/recover-20220728/UBNA_011/20220727_083000.WAV	Foliage	recover-20220728	11
-17	1645.8445	1645.8638	22890.0	25898.0	Nyctalus leisleri	0.531	0.571	-1	Echolocation	/mnt/ubna_data_01/recover-20220728/UBNA_011/20220727_083000.WAV	Foliage	recover-20220728	11
-17	1645.8445	1645.8638	22890.0	25898.0	Nyctalus leisleri	0.531	0.571	-1	Echolocation	/mnt/ubna_data_01/recover-20220728/UBNA_011/20220727_083000.WAV	Foliage	recover-20220728	11
-18	1646.3545	1646.3735	22890.0	26307.0	Nyctalus leisleri	0.588	0.642	-1	Echolocation	/mnt/ubna_data_01/recover-20220728/UBNA_011/20220727_083000.WAV	Foliage	recover-20220728	11
-18	1646.3545	1646.3735	22890.0	26307.0	Nyctalus leisleri	0.588	0.642	-1	Echolocation	/mnt/ubna_data_01/recover-20220728/UBNA_011/20220727_083000.WAV	Foliage	recover-20220728	11
-19	1646.7435	1646.7614	22890.0	25679.0	Nyctalus leisleri	0.672	0.697	-1	Echolocation	/mnt/ubna_data_01/recover-20220728/UBNA_011/20220727_083000.WAV	Foliage	recover-20220728	11
-19	1646.7435	1646.7614	22890.0	25679.0	Nyctalus leisleri	0.672	0.697	-1	Echolocation	/mnt/ubna_data_01/recover-20220728/UBNA_011/20220727_083000.WAV	Foliage	recover-20220728	11
-20	1647.1335	1647.1533	22890.0	25886.0	Nyctalus leisleri	0.639	0.669	-1	Echolocation	/mnt/ubna_data_01/recover-20220728/UBNA_011/20220727_083000.WAV	Foliage	recover-20220728	11
-20	1647.1335	1647.1533	22890.0	25886.0	Nyctalus leisleri	0.639	0.669	-1	Echolocation	/mnt/ubna_data_01/recover-20220728/UBNA_011/20220727_083000.WAV	Foliage	recover-20220728	11
-21	1647.5245	1647.5441	22890.0	26443.0	Nyctalus leisleri	0.521	0.566	-1	Echolocation	/mnt/ubna_data_01/recover-20220728/UBNA_011/20220727_083000.WAV	Foliage	recover-20220728	11
-21	1647.5245	1647.5441	22890.0	26443.0	Nyctalus leisleri	0.521	0.566	-1	Echolocation	/mnt/ubna_data_01/recover-20220728/UBNA_011/20220727_083000.WAV	Foliage	recover-20220728	11
-22	1648.0505	1648.0705	22890.0	26521.0	Nyctalus leisleri	0.474	0.515	-1	Echolocation	/mnt/ubna_data_01/recover-20220728/UBNA_011/20220727_083000.WAV	Foliage	recover-20220728	11
-22	1648.0505	1648.0705	22890.0	26521.0	Nyctalus leisleri	0.474	0.515	-1	Echolocation	/mnt/ubna_data_01/recover-20220728/UBNA_011/20220727_083000.WAV	Foliage	recover-20220728	11
+Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	class	class_prob	det_prob	individual	event	input_file	Site name	Recover Folder	SD Card
+859.2105	859.2255	23750.0	28120.0	Nyctalus leisleri	0.545	0.638	-1	Echolocation	/mnt/ubna_data_01/recover-20220728/UBNA_011/20220727_083000.WAV	Foliage	recover-20220728	11
+861.8675	861.883	22890.0	27158.0	Nyctalus leisleri	0.403	0.545	-1	Echolocation	/mnt/ubna_data_01/recover-20220728/UBNA_011/20220727_083000.WAV	Foliage	recover-20220728	11
+1067.0045	1067.0235	22031.0	26344.0	Nyctalus leisleri	0.397	0.501	-1	Echolocation	/mnt/ubna_data_01/recover-20220728/UBNA_011/20220727_083000.WAV	Foliage	recover-20220728	11
+1068.4515	1068.4644	23750.0	28902.0	Nyctalus leisleri	0.389	0.586	-1	Echolocation	/mnt/ubna_data_01/recover-20220728/UBNA_011/20220727_083000.WAV	Foliage	recover-20220728	11
+1082.2945	1082.3088	23750.0	28156.0	Nyctalus leisleri	0.416	0.545	-1	Echolocation	/mnt/ubna_data_01/recover-20220728/UBNA_011/20220727_083000.WAV	Foliage	recover-20220728	11
+1085.4375	1085.4443	40937.0	49440.0	Pipistrellus nathusii	0.443	0.508	-1	Echolocation	/mnt/ubna_data_01/recover-20220728/UBNA_011/20220727_083000.WAV	Foliage	recover-20220728	11
+1088.7515	1088.7658	22890.0	29060.0	Nyctalus leisleri	0.221	0.527	-1	Echolocation	/mnt/ubna_data_01/recover-20220728/UBNA_011/20220727_083000.WAV	Foliage	recover-20220728	11
+1089.3525	1089.3686	22031.0	26996.0	Nyctalus leisleri	0.489	0.599	-1	Echolocation	/mnt/ubna_data_01/recover-20220728/UBNA_011/20220727_083000.WAV	Foliage	recover-20220728	11
+1099.9605	1099.9743	23750.0	28932.0	Nyctalus leisleri	0.436	0.603	-1	Echolocation	/mnt/ubna_data_01/recover-20220728/UBNA_011/20220727_083000.WAV	Foliage	recover-20220728	11
+1100.2455	1100.2606	22890.0	28277.0	Nyctalus leisleri	0.329	0.524	-1	Echolocation	/mnt/ubna_data_01/recover-20220728/UBNA_011/20220727_083000.WAV	Foliage	recover-20220728	11
+1138.3165	1138.33	23750.0	28871.0	Nyctalus leisleri	0.329	0.518	-1	Echolocation	/mnt/ubna_data_01/recover-20220728/UBNA_011/20220727_083000.WAV	Foliage	recover-20220728	11
+1345.7685	1345.7804	23750.0	29324.0	Nyctalus leisleri	0.279	0.522	-1	Echolocation	/mnt/ubna_data_01/recover-20220728/UBNA_011/20220727_083000.WAV	Foliage	recover-20220728	11
+1361.0605	1361.0744	22890.0	28340.0	Nyctalus leisleri	0.414	0.607	-1	Echolocation	/mnt/ubna_data_01/recover-20220728/UBNA_011/20220727_083000.WAV	Foliage	recover-20220728	11
+1363.3695	1363.3836	22031.0	27072.0	Nyctalus leisleri	0.396	0.557	-1	Echolocation	/mnt/ubna_data_01/recover-20220728/UBNA_011/20220727_083000.WAV	Foliage	recover-20220728	11
+1364.1675	1364.1818	22890.0	28207.0	Nyctalus leisleri	0.368	0.635	-1	Echolocation	/mnt/ubna_data_01/recover-20220728/UBNA_011/20220727_083000.WAV	Foliage	recover-20220728	11
+1643.7745	1643.794	22890.0	26684.0	Nyctalus leisleri	0.454	0.506	-1	Echolocation	/mnt/ubna_data_01/recover-20220728/UBNA_011/20220727_083000.WAV	Foliage	recover-20220728	11
+1645.4615	1645.4811	22890.0	26086.0	Nyctalus leisleri	0.577	0.622	-1	Echolocation	/mnt/ubna_data_01/recover-20220728/UBNA_011/20220727_083000.WAV	Foliage	recover-20220728	11
+1645.8445	1645.8638	22890.0	25898.0	Nyctalus leisleri	0.531	0.571	-1	Echolocation	/mnt/ubna_data_01/recover-20220728/UBNA_011/20220727_083000.WAV	Foliage	recover-20220728	11
+1646.3545	1646.3735	22890.0	26307.0	Nyctalus leisleri	0.588	0.642	-1	Echolocation	/mnt/ubna_data_01/recover-20220728/UBNA_011/20220727_083000.WAV	Foliage	recover-20220728	11
+1646.7435	1646.7614	22890.0	25679.0	Nyctalus leisleri	0.672	0.697	-1	Echolocation	/mnt/ubna_data_01/recover-20220728/UBNA_011/20220727_083000.WAV	Foliage	recover-20220728	11
+1647.1335	1647.1533	22890.0	25886.0	Nyctalus leisleri	0.639	0.669	-1	Echolocation	/mnt/ubna_data_01/recover-20220728/UBNA_011/20220727_083000.WAV	Foliage	recover-20220728	11
+1647.5245	1647.5441	22890.0	26443.0	Nyctalus leisleri	0.521	0.566	-1	Echolocation	/mnt/ubna_data_01/recover-20220728/UBNA_011/20220727_083000.WAV	Foliage	recover-20220728	11
+1648.0505	1648.0705	22890.0	26521.0	Nyctalus leisleri	0.474	0.515	-1	Echolocation	/mnt/ubna_data_01/recover-20220728/UBNA_011/20220727_083000.WAV	Foliage	recover-20220728	11

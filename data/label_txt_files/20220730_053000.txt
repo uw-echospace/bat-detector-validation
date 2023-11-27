@@ -1,689 +1,345 @@
-Unnamed: 0	start_time	end_time	low_freq	high_freq	class	class_prob	det_prob	individual	event	input_file	Site name	Recover Folder	SD Card
-0	231.2775	231.2891	25468.0	30247.0	Nyctalus leisleri	0.359	0.592	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-0	231.2775	231.2891	25468.0	30247.0	Nyctalus leisleri	0.359	0.592	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-1	231.6515	231.6635	24609.0	29885.0	Nyctalus leisleri	0.297	0.598	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-1	231.6515	231.6635	24609.0	29885.0	Nyctalus leisleri	0.297	0.598	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-2	231.9315	231.9459	24609.0	29998.0	Nyctalus leisleri	0.34	0.545	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-2	231.9315	231.9459	24609.0	29998.0	Nyctalus leisleri	0.34	0.545	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-3	232.4015	232.4206	24609.0	29436.0	Nyctalus leisleri	0.309	0.53	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-3	232.4015	232.4206	24609.0	29436.0	Nyctalus leisleri	0.309	0.53	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-4	232.7135	232.7302	23750.0	28253.0	Nyctalus leisleri	0.411	0.555	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-4	232.7135	232.7302	23750.0	28253.0	Nyctalus leisleri	0.411	0.555	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-5	233.1445	233.1609	23750.0	29353.0	Nyctalus leisleri	0.381	0.618	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-5	233.1445	233.1609	23750.0	29353.0	Nyctalus leisleri	0.381	0.618	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-6	233.3015	233.3123	26328.0	34940.0	Eptesicus serotinus	0.346	0.641	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-6	233.3015	233.3123	26328.0	34940.0	Eptesicus serotinus	0.346	0.641	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-7	233.4735	233.4853	25468.0	33041.0	Eptesicus serotinus	0.294	0.56	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-7	233.4735	233.4853	25468.0	33041.0	Eptesicus serotinus	0.294	0.56	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-8	233.7245	233.741	23750.0	27728.0	Nyctalus leisleri	0.487	0.624	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-8	233.7245	233.741	23750.0	27728.0	Nyctalus leisleri	0.487	0.624	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-9	234.4245	234.4387	24609.0	28987.0	Nyctalus leisleri	0.392	0.529	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-9	234.4245	234.4387	24609.0	28987.0	Nyctalus leisleri	0.392	0.529	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-10	234.7155	234.7302	23750.0	27984.0	Nyctalus leisleri	0.583	0.678	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-10	234.7155	234.7302	23750.0	27984.0	Nyctalus leisleri	0.583	0.678	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-11	235.0115	235.0279	23750.0	28596.0	Nyctalus leisleri	0.467	0.599	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-11	235.0115	235.0279	23750.0	28596.0	Nyctalus leisleri	0.467	0.599	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-12	235.4245	235.4414	23750.0	28145.0	Nyctalus leisleri	0.389	0.532	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-12	235.4245	235.4414	23750.0	28145.0	Nyctalus leisleri	0.389	0.532	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-13	235.6915	235.7084	23750.0	27737.0	Nyctalus leisleri	0.53	0.6	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-13	235.6915	235.7084	23750.0	27737.0	Nyctalus leisleri	0.53	0.6	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-14	236.2545	236.2691	23750.0	29636.0	Nyctalus leisleri	0.408	0.601	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-14	236.2545	236.2691	23750.0	29636.0	Nyctalus leisleri	0.408	0.601	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-15	236.5535	236.5684	24609.0	27776.0	Nyctalus leisleri	0.498	0.59	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-15	236.5535	236.5684	24609.0	27776.0	Nyctalus leisleri	0.498	0.59	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-16	236.8535	236.8701	24609.0	28802.0	Nyctalus leisleri	0.467	0.551	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-16	236.8535	236.8701	24609.0	28802.0	Nyctalus leisleri	0.467	0.551	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-17	237.1345	237.1536	23750.0	28013.0	Nyctalus leisleri	0.394	0.51	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-17	237.1345	237.1536	23750.0	28013.0	Nyctalus leisleri	0.394	0.51	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-18	237.5485	237.5674	23750.0	29181.0	Nyctalus leisleri	0.353	0.532	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-18	237.5485	237.5674	23750.0	29181.0	Nyctalus leisleri	0.353	0.532	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-19	237.8635	237.8786	24609.0	30245.0	Nyctalus leisleri	0.441	0.644	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-19	237.8635	237.8786	24609.0	30245.0	Nyctalus leisleri	0.441	0.644	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-20	240.2375	240.2501	25468.0	30763.0	Nyctalus leisleri	0.498	0.617	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-20	240.2375	240.2501	25468.0	30763.0	Nyctalus leisleri	0.498	0.617	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-21	240.3815	240.3963	24609.0	30835.0	Nyctalus leisleri	0.318	0.552	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-21	240.3815	240.3963	24609.0	30835.0	Nyctalus leisleri	0.318	0.552	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-22	240.6305	240.6457	24609.0	31416.0	Nyctalus leisleri	0.322	0.627	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-22	240.6305	240.6457	24609.0	31416.0	Nyctalus leisleri	0.322	0.627	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-23	240.8985	240.9153	24609.0	28495.0	Nyctalus leisleri	0.398	0.503	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-23	240.8985	240.9153	24609.0	28495.0	Nyctalus leisleri	0.398	0.503	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-24	241.0885	241.1025	24609.0	31132.0	Nyctalus leisleri	0.36	0.657	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-24	241.0885	241.1025	24609.0	31132.0	Nyctalus leisleri	0.36	0.657	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-25	241.3805	241.3955	24609.0	30131.0	Nyctalus leisleri	0.429	0.606	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-25	241.3805	241.3955	24609.0	30131.0	Nyctalus leisleri	0.429	0.606	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-26	241.6725	241.6901	23750.0	26757.0	Nyctalus leisleri	0.512	0.569	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-26	241.6725	241.6901	23750.0	26757.0	Nyctalus leisleri	0.512	0.569	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-27	242.3845	242.4017	23750.0	26712.0	Nyctalus leisleri	0.543	0.594	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-27	242.3845	242.4017	23750.0	26712.0	Nyctalus leisleri	0.543	0.594	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-28	242.6685	242.6848	24609.0	27844.0	Nyctalus leisleri	0.544	0.656	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-28	242.6685	242.6848	24609.0	27844.0	Nyctalus leisleri	0.544	0.656	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-29	252.5555	252.5632	40937.0	50016.0	Pipistrellus nathusii	0.555	0.595	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-29	252.5555	252.5632	40937.0	50016.0	Pipistrellus nathusii	0.555	0.595	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-30	252.6585	252.6656	40078.0	48433.0	Pipistrellus nathusii	0.532	0.557	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-30	252.6585	252.6656	40078.0	48433.0	Pipistrellus nathusii	0.532	0.557	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-31	252.7555	252.7647	40078.0	51122.0	Pipistrellus nathusii	0.548	0.596	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-31	252.7555	252.7647	40078.0	51122.0	Pipistrellus nathusii	0.548	0.596	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-32	252.8465	252.8571	40937.0	53130.0	Pipistrellus nathusii	0.47	0.56	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-32	252.8465	252.8571	40937.0	53130.0	Pipistrellus nathusii	0.47	0.56	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-33	252.9505	252.9587	39218.0	47468.0	Pipistrellus nathusii	0.523	0.581	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-33	252.9505	252.9587	39218.0	47468.0	Pipistrellus nathusii	0.523	0.581	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-34	253.0455	253.0538	40937.0	51895.0	Pipistrellus nathusii	0.572	0.62	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-34	253.0455	253.0538	40937.0	51895.0	Pipistrellus nathusii	0.572	0.62	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-35	253.1455	253.1546	40078.0	48459.0	Pipistrellus nathusii	0.489	0.567	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-35	253.1455	253.1546	40078.0	48459.0	Pipistrellus nathusii	0.489	0.567	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-36	253.2405	253.249	40937.0	51251.0	Pipistrellus nathusii	0.521	0.627	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-36	253.2405	253.249	40937.0	51251.0	Pipistrellus nathusii	0.521	0.627	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-37	253.3215	253.3297	41796.0	53083.0	Pipistrellus nathusii	0.517	0.643	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-37	253.3215	253.3297	41796.0	53083.0	Pipistrellus nathusii	0.517	0.643	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-38	253.4645	253.4719	41796.0	54389.0	Pipistrellus nathusii	0.525	0.643	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-38	253.4645	253.4719	41796.0	54389.0	Pipistrellus nathusii	0.525	0.643	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-39	253.5595	253.5675	40937.0	51004.0	Pipistrellus nathusii	0.531	0.629	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-39	253.5595	253.5675	40937.0	51004.0	Pipistrellus nathusii	0.531	0.629	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-40	253.6475	253.6573	40078.0	54085.0	Pipistrellus nathusii	0.519	0.61	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-40	253.6475	253.6573	40078.0	54085.0	Pipistrellus nathusii	0.519	0.61	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-41	253.7435	253.7528	40078.0	54142.0	Pipistrellus nathusii	0.504	0.534	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-41	253.7435	253.7528	40078.0	54142.0	Pipistrellus nathusii	0.504	0.534	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-42	253.9255	253.9337	40937.0	52096.0	Pipistrellus nathusii	0.485	0.583	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-42	253.9255	253.9337	40937.0	52096.0	Pipistrellus nathusii	0.485	0.583	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-43	254.0265	254.0338	39218.0	47371.0	Pipistrellus nathusii	0.523	0.566	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-43	254.0265	254.0338	39218.0	47371.0	Pipistrellus nathusii	0.523	0.566	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-44	254.1995	254.2084	40937.0	54457.0	Pipistrellus nathusii	0.667	0.702	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-44	254.1995	254.2084	40937.0	54457.0	Pipistrellus nathusii	0.667	0.702	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-45	254.3925	254.4006	40937.0	55139.0	Pipistrellus nathusii	0.589	0.644	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-45	254.3925	254.4006	40937.0	55139.0	Pipistrellus nathusii	0.589	0.644	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-46	254.5765	254.5867	40078.0	48861.0	Pipistrellus nathusii	0.51	0.581	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-46	254.5765	254.5867	40078.0	48861.0	Pipistrellus nathusii	0.51	0.581	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-47	254.6605	254.6704	40078.0	51685.0	Pipistrellus nathusii	0.518	0.569	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-47	254.6605	254.6704	40078.0	51685.0	Pipistrellus nathusii	0.518	0.569	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-48	254.7545	254.7628	39218.0	49206.0	Pipistrellus nathusii	0.536	0.598	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-48	254.7545	254.7628	39218.0	49206.0	Pipistrellus nathusii	0.536	0.598	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-49	254.8375	254.845	40078.0	54538.0	Pipistrellus nathusii	0.531	0.596	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-49	254.8375	254.845	40078.0	54538.0	Pipistrellus nathusii	0.531	0.596	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-50	254.9395	254.9472	38359.0	48039.0	Pipistrellus nathusii	0.455	0.507	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-50	254.9395	254.9472	38359.0	48039.0	Pipistrellus nathusii	0.455	0.507	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-51	255.0355	255.0433	39218.0	53627.0	Pipistrellus nathusii	0.592	0.64	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-51	255.0355	255.0433	39218.0	53627.0	Pipistrellus nathusii	0.592	0.64	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-52	255.1305	255.139	40078.0	51845.0	Pipistrellus nathusii	0.545	0.613	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-52	255.1305	255.139	40078.0	51845.0	Pipistrellus nathusii	0.545	0.613	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-53	255.2235	255.2338	40078.0	53638.0	Pipistrellus nathusii	0.567	0.646	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-53	255.2235	255.2338	40078.0	53638.0	Pipistrellus nathusii	0.567	0.646	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-54	255.4025	255.4116	40937.0	51002.0	Pipistrellus nathusii	0.457	0.537	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-54	255.4025	255.4116	40937.0	51002.0	Pipistrellus nathusii	0.457	0.537	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-55	255.7815	255.791	41796.0	48534.0	Pipistrellus nathusii	0.515	0.541	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-55	255.7815	255.791	41796.0	48534.0	Pipistrellus nathusii	0.515	0.541	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-56	255.8695	255.8781	40937.0	50125.0	Pipistrellus nathusii	0.474	0.517	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-56	255.8695	255.8781	40937.0	50125.0	Pipistrellus nathusii	0.474	0.517	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-57	256.0515	256.0603	40078.0	49398.0	Pipistrellus nathusii	0.513	0.576	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-57	256.0515	256.0603	40078.0	49398.0	Pipistrellus nathusii	0.513	0.576	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-58	256.4345	256.4435	40078.0	50093.0	Pipistrellus nathusii	0.546	0.644	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-58	256.4345	256.4435	40078.0	50093.0	Pipistrellus nathusii	0.546	0.644	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-59	257.6975	257.7047	39218.0	45825.0	Pipistrellus nathusii	0.41	0.523	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-59	257.6975	257.7047	39218.0	45825.0	Pipistrellus nathusii	0.41	0.523	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-60	258.3745	258.3821	40937.0	53887.0	Pipistrellus nathusii	0.473	0.532	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-60	258.3745	258.3821	40937.0	53887.0	Pipistrellus nathusii	0.473	0.532	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-61	258.8605	258.8695	40937.0	49710.0	Pipistrellus nathusii	0.515	0.571	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-61	258.8605	258.8695	40937.0	49710.0	Pipistrellus nathusii	0.515	0.571	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-62	259.0525	259.0619	40937.0	49845.0	Pipistrellus nathusii	0.585	0.653	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-62	259.0525	259.0619	40937.0	49845.0	Pipistrellus nathusii	0.585	0.653	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-63	259.1385	259.1473	41796.0	51198.0	Pipistrellus nathusii	0.531	0.595	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-63	259.1385	259.1473	41796.0	51198.0	Pipistrellus nathusii	0.531	0.595	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-64	259.2305	259.2425	41796.0	51715.0	Pipistrellus nathusii	0.46	0.516	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-64	259.2305	259.2425	41796.0	51715.0	Pipistrellus nathusii	0.46	0.516	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-65	259.5385	259.5499	41796.0	51842.0	Pipistrellus nathusii	0.485	0.534	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-65	259.5385	259.5499	41796.0	51842.0	Pipistrellus nathusii	0.485	0.534	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-66	259.6255	259.6374	41796.0	58209.0	Pipistrellus nathusii	0.475	0.556	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-66	259.6255	259.6374	41796.0	58209.0	Pipistrellus nathusii	0.475	0.556	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-67	260.6285	260.6379	44375.0	56423.0	Pipistrellus pipistrellus	0.289	0.518	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-67	260.6285	260.6379	44375.0	56423.0	Pipistrellus pipistrellus	0.289	0.518	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-68	260.7085	260.717	42656.0	53097.0	Pipistrellus nathusii	0.221	0.545	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-68	260.7085	260.717	42656.0	53097.0	Pipistrellus nathusii	0.221	0.545	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-69	260.9495	260.9583	42656.0	61119.0	Pipistrellus nathusii	0.181	0.505	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-69	260.9495	260.9583	42656.0	61119.0	Pipistrellus nathusii	0.181	0.505	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-70	261.3185	261.3292	40937.0	61482.0	Pipistrellus pipistrellus	0.185	0.511	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-70	261.3185	261.3292	40937.0	61482.0	Pipistrellus pipistrellus	0.185	0.511	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-71	261.4095	261.4184	43515.0	51622.0	Pipistrellus pipistrellus	0.273	0.544	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-71	261.4095	261.4184	43515.0	51622.0	Pipistrellus pipistrellus	0.273	0.544	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-72	261.5425	261.5512	41796.0	59162.0	Pipistrellus nathusii	0.323	0.535	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-72	261.5425	261.5512	41796.0	59162.0	Pipistrellus nathusii	0.323	0.535	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-73	261.7325	261.7425	40078.0	58058.0	Pipistrellus nathusii	0.345	0.523	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-73	261.7325	261.7425	40078.0	58058.0	Pipistrellus nathusii	0.345	0.523	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-74	262.2555	262.2651	38359.0	51251.0	Pipistrellus nathusii	0.485	0.518	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-74	262.2555	262.2651	38359.0	51251.0	Pipistrellus nathusii	0.485	0.518	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-75	262.3565	262.3667	39218.0	56400.0	Pipistrellus nathusii	0.527	0.582	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-75	262.3565	262.3667	39218.0	56400.0	Pipistrellus nathusii	0.527	0.582	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-76	262.4635	262.4724	38359.0	50532.0	Pipistrellus nathusii	0.481	0.529	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-76	262.4635	262.4724	38359.0	50532.0	Pipistrellus nathusii	0.481	0.529	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-77	262.5625	262.572	39218.0	53992.0	Pipistrellus nathusii	0.563	0.606	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-77	262.5625	262.572	39218.0	53992.0	Pipistrellus nathusii	0.563	0.606	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-78	262.6515	262.6598	39218.0	55912.0	Pipistrellus nathusii	0.618	0.689	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-78	262.6515	262.6598	39218.0	55912.0	Pipistrellus nathusii	0.618	0.689	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-79	262.7605	262.7699	38359.0	51594.0	Pipistrellus nathusii	0.528	0.627	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-79	262.7605	262.7699	38359.0	51594.0	Pipistrellus nathusii	0.528	0.627	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-80	262.8615	262.8706	39218.0	56707.0	Pipistrellus nathusii	0.628	0.69	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-80	262.8615	262.8706	39218.0	56707.0	Pipistrellus nathusii	0.628	0.69	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-81	262.9635	262.9729	38359.0	52759.0	Pipistrellus nathusii	0.566	0.619	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-81	262.9635	262.9729	38359.0	52759.0	Pipistrellus nathusii	0.566	0.619	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-82	263.0665	263.0764	38359.0	49928.0	Pipistrellus nathusii	0.499	0.547	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-82	263.0665	263.0764	38359.0	49928.0	Pipistrellus nathusii	0.499	0.547	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-83	263.2775	263.2865	38359.0	53222.0	Pipistrellus nathusii	0.55	0.598	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-83	263.2775	263.2865	38359.0	53222.0	Pipistrellus nathusii	0.55	0.598	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-84	263.3805	263.389	36640.0	50774.0	Pipistrellus nathusii	0.487	0.557	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-84	263.3805	263.389	36640.0	50774.0	Pipistrellus nathusii	0.487	0.557	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-85	263.5835	263.5943	39218.0	51736.0	Pipistrellus nathusii	0.484	0.556	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-85	263.5835	263.5943	39218.0	51736.0	Pipistrellus nathusii	0.484	0.556	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-86	263.8885	263.8989	39218.0	51813.0	Pipistrellus nathusii	0.511	0.599	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-86	263.8885	263.8989	39218.0	51813.0	Pipistrellus nathusii	0.511	0.599	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-87	264.1925	264.2009	39218.0	45945.0	Pipistrellus nathusii	0.558	0.621	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-87	264.1925	264.2009	39218.0	45945.0	Pipistrellus nathusii	0.558	0.621	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-88	316.3505	316.3601	41796.0	49194.0	Pipistrellus nathusii	0.448	0.544	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-88	316.3505	316.3601	41796.0	49194.0	Pipistrellus nathusii	0.448	0.544	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-89	316.7215	316.7296	41796.0	51372.0	Pipistrellus nathusii	0.431	0.511	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-89	316.7215	316.7296	41796.0	51372.0	Pipistrellus nathusii	0.431	0.511	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-90	316.9055	316.9127	41796.0	51121.0	Pipistrellus nathusii	0.444	0.537	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-90	316.9055	316.9127	41796.0	51121.0	Pipistrellus nathusii	0.444	0.537	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-91	317.1205	317.1285	41796.0	48861.0	Pipistrellus nathusii	0.56	0.582	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-91	317.1205	317.1285	41796.0	48861.0	Pipistrellus nathusii	0.56	0.582	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-92	318.1315	318.1398	44375.0	52725.0	Pipistrellus pipistrellus	0.423	0.527	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-92	318.1315	318.1398	44375.0	52725.0	Pipistrellus pipistrellus	0.423	0.527	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-93	318.2605	318.2694	45234.0	51840.0	Pipistrellus pipistrellus	0.491	0.521	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-93	318.2605	318.2694	45234.0	51840.0	Pipistrellus pipistrellus	0.491	0.521	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-94	318.3185	318.3301	43515.0	53043.0	Pipistrellus pipistrellus	0.405	0.573	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-94	318.3185	318.3301	43515.0	53043.0	Pipistrellus pipistrellus	0.405	0.573	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-95	318.3805	318.3905	44375.0	59427.0	Pipistrellus pipistrellus	0.383	0.508	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-95	318.3805	318.3905	44375.0	59427.0	Pipistrellus pipistrellus	0.383	0.508	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-96	318.4875	318.4947	43515.0	60367.0	Pipistrellus pipistrellus	0.436	0.582	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-96	318.4875	318.4947	43515.0	60367.0	Pipistrellus pipistrellus	0.436	0.582	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-97	318.5585	318.5649	42656.0	61524.0	Pipistrellus pipistrellus	0.323	0.564	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-97	318.5585	318.5649	42656.0	61524.0	Pipistrellus pipistrellus	0.323	0.564	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-98	318.6455	318.6563	41796.0	59664.0	Pipistrellus pipistrellus	0.255	0.52	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-98	318.6455	318.6563	41796.0	59664.0	Pipistrellus pipistrellus	0.255	0.52	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-99	318.7365	318.7457	42656.0	59535.0	Pipistrellus pipistrellus	0.236	0.565	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-99	318.7365	318.7457	42656.0	59535.0	Pipistrellus pipistrellus	0.236	0.565	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-100	318.8255	318.8349	42656.0	60883.0	Pipistrellus pipistrellus	0.234	0.541	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-100	318.8255	318.8349	42656.0	60883.0	Pipistrellus pipistrellus	0.234	0.541	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-101	319.0505	319.0576	41796.0	62338.0	Pipistrellus pipistrellus	0.291	0.543	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-101	319.0505	319.0576	41796.0	62338.0	Pipistrellus pipistrellus	0.291	0.543	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-102	319.1625	319.1702	42656.0	60471.0	Pipistrellus pipistrellus	0.229	0.504	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-102	319.1625	319.1702	42656.0	60471.0	Pipistrellus pipistrellus	0.229	0.504	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-103	319.2625	319.2691	43515.0	53948.0	Pipistrellus pipistrellus	0.37	0.508	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-103	319.2625	319.2691	43515.0	53948.0	Pipistrellus pipistrellus	0.37	0.508	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-104	612.0065	612.0137	42656.0	49427.0	Pipistrellus nathusii	0.463	0.516	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-104	612.0065	612.0137	42656.0	49427.0	Pipistrellus nathusii	0.463	0.516	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-105	612.2925	612.3014	40937.0	51306.0	Pipistrellus nathusii	0.5	0.625	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-105	612.2925	612.3014	40937.0	51306.0	Pipistrellus nathusii	0.5	0.625	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-106	612.4805	612.4901	40937.0	51855.0	Pipistrellus nathusii	0.463	0.523	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-106	612.4805	612.4901	40937.0	51855.0	Pipistrellus nathusii	0.463	0.523	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-107	612.5805	612.5879	40937.0	50375.0	Pipistrellus nathusii	0.534	0.575	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-107	612.5805	612.5879	40937.0	50375.0	Pipistrellus nathusii	0.534	0.575	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-108	612.6775	612.6848	40937.0	48319.0	Pipistrellus nathusii	0.537	0.578	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-108	612.6775	612.6848	40937.0	48319.0	Pipistrellus nathusii	0.537	0.578	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-109	612.7775	612.786	40937.0	50912.0	Pipistrellus nathusii	0.479	0.572	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-109	612.7775	612.786	40937.0	50912.0	Pipistrellus nathusii	0.479	0.572	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-110	612.8675	612.8759	40937.0	51930.0	Pipistrellus nathusii	0.485	0.556	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-110	612.8675	612.8759	40937.0	51930.0	Pipistrellus nathusii	0.485	0.556	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-111	612.9675	612.9755	40937.0	50075.0	Pipistrellus nathusii	0.502	0.591	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-111	612.9675	612.9755	40937.0	50075.0	Pipistrellus nathusii	0.502	0.591	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-112	613.0645	613.0727	40078.0	49865.0	Pipistrellus nathusii	0.46	0.548	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-112	613.0645	613.0727	40078.0	49865.0	Pipistrellus nathusii	0.46	0.548	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-113	613.1585	613.1661	40937.0	50361.0	Pipistrellus nathusii	0.54	0.585	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-113	613.1585	613.1661	40937.0	50361.0	Pipistrellus nathusii	0.54	0.585	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-114	613.2545	613.2637	40078.0	50116.0	Pipistrellus nathusii	0.48	0.55	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-114	613.2545	613.2637	40078.0	50116.0	Pipistrellus nathusii	0.48	0.55	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-115	613.5415	613.5507	41796.0	53461.0	Pipistrellus nathusii	0.461	0.571	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-115	613.5415	613.5507	41796.0	53461.0	Pipistrellus nathusii	0.461	0.571	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-116	613.8355	613.8449	39218.0	47236.0	Pipistrellus nathusii	0.43	0.502	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-116	613.8355	613.8449	39218.0	47236.0	Pipistrellus nathusii	0.43	0.502	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-117	613.9335	613.9427	40078.0	51353.0	Pipistrellus nathusii	0.47	0.582	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-117	613.9335	613.9427	40078.0	51353.0	Pipistrellus nathusii	0.47	0.582	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-118	614.4265	614.4344	40078.0	46931.0	Pipistrellus nathusii	0.407	0.52	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-118	614.4265	614.4344	40078.0	46931.0	Pipistrellus nathusii	0.407	0.52	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-119	618.4085	618.4153	41796.0	50521.0	Pipistrellus nathusii	0.534	0.578	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-119	618.4085	618.4153	41796.0	50521.0	Pipistrellus nathusii	0.534	0.578	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-120	618.9445	618.951	42656.0	54119.0	Pipistrellus nathusii	0.435	0.518	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-120	618.9445	618.951	42656.0	54119.0	Pipistrellus nathusii	0.435	0.518	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-121	619.0465	619.0549	40937.0	48788.0	Pipistrellus nathusii	0.543	0.579	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-121	619.0465	619.0549	40937.0	48788.0	Pipistrellus nathusii	0.543	0.579	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-122	619.2245	619.2323	41796.0	53313.0	Pipistrellus nathusii	0.509	0.58	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-122	619.2245	619.2323	41796.0	53313.0	Pipistrellus nathusii	0.509	0.58	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-123	619.3245	619.3313	40078.0	47599.0	Pipistrellus nathusii	0.469	0.549	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-123	619.3245	619.3313	40078.0	47599.0	Pipistrellus nathusii	0.469	0.549	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-124	619.5785	619.5857	40937.0	51822.0	Pipistrellus nathusii	0.493	0.568	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-124	619.5785	619.5857	40937.0	51822.0	Pipistrellus nathusii	0.493	0.568	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-125	619.6915	619.7	40937.0	54728.0	Pipistrellus nathusii	0.494	0.575	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-125	619.6915	619.7	40937.0	54728.0	Pipistrellus nathusii	0.494	0.575	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-126	619.7825	619.7911	40937.0	51011.0	Pipistrellus nathusii	0.471	0.561	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-126	619.7825	619.7911	40937.0	51011.0	Pipistrellus nathusii	0.471	0.561	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-127	619.9665	619.9739	41796.0	52816.0	Pipistrellus nathusii	0.478	0.569	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-127	619.9665	619.9739	41796.0	52816.0	Pipistrellus nathusii	0.478	0.569	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-128	620.8355	620.8456	40078.0	49791.0	Pipistrellus nathusii	0.466	0.515	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-128	620.8355	620.8456	40078.0	49791.0	Pipistrellus nathusii	0.466	0.515	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-129	621.1265	621.1366	40937.0	55222.0	Pipistrellus nathusii	0.457	0.535	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-129	621.1265	621.1366	40937.0	55222.0	Pipistrellus nathusii	0.457	0.535	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-130	621.7265	621.7359	40078.0	48145.0	Pipistrellus nathusii	0.428	0.511	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-130	621.7265	621.7359	40078.0	48145.0	Pipistrellus nathusii	0.428	0.511	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-131	622.3235	622.3319	39218.0	46447.0	Pipistrellus nathusii	0.498	0.547	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-131	622.3235	622.3319	39218.0	46447.0	Pipistrellus nathusii	0.498	0.547	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-132	622.6175	622.6267	39218.0	47235.0	Pipistrellus nathusii	0.422	0.547	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-132	622.6175	622.6267	39218.0	47235.0	Pipistrellus nathusii	0.422	0.547	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-133	690.7435	690.7524	40937.0	47260.0	Pipistrellus nathusii	0.501	0.539	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-133	690.7435	690.7524	40937.0	47260.0	Pipistrellus nathusii	0.501	0.539	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-134	690.9545	690.9643	40937.0	47651.0	Pipistrellus nathusii	0.491	0.63	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-134	690.9545	690.9643	40937.0	47651.0	Pipistrellus nathusii	0.491	0.63	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-135	691.1605	691.1704	39218.0	45846.0	Pipistrellus nathusii	0.512	0.544	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-135	691.1605	691.1704	39218.0	45846.0	Pipistrellus nathusii	0.512	0.544	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-136	691.2635	691.2729	40078.0	46371.0	Pipistrellus nathusii	0.479	0.51	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-136	691.2635	691.2729	40078.0	46371.0	Pipistrellus nathusii	0.479	0.51	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-137	691.4625	691.4703	40937.0	51068.0	Pipistrellus nathusii	0.46	0.541	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-137	691.4625	691.4703	40937.0	51068.0	Pipistrellus nathusii	0.46	0.541	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-138	691.6735	691.6808	40937.0	48008.0	Pipistrellus nathusii	0.553	0.585	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-138	691.6735	691.6808	40937.0	48008.0	Pipistrellus nathusii	0.553	0.585	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-139	691.8835	691.8923	40078.0	48175.0	Pipistrellus nathusii	0.631	0.671	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-139	691.8835	691.8923	40078.0	48175.0	Pipistrellus nathusii	0.631	0.671	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-140	692.1075	692.1176	40078.0	48554.0	Pipistrellus nathusii	0.555	0.629	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-140	692.1075	692.1176	40078.0	48554.0	Pipistrellus nathusii	0.555	0.629	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-141	692.3215	692.3314	40078.0	48395.0	Pipistrellus nathusii	0.485	0.536	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-141	692.3215	692.3314	40078.0	48395.0	Pipistrellus nathusii	0.485	0.536	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-142	692.5285	692.5396	39218.0	45792.0	Pipistrellus nathusii	0.484	0.52	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-142	692.5285	692.5396	39218.0	45792.0	Pipistrellus nathusii	0.484	0.52	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-143	692.7355	692.7463	40078.0	46919.0	Pipistrellus nathusii	0.43	0.524	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-143	692.7355	692.7463	40078.0	46919.0	Pipistrellus nathusii	0.43	0.524	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-144	692.8415	692.8517	39218.0	47067.0	Pipistrellus nathusii	0.526	0.576	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-144	692.8415	692.8517	39218.0	47067.0	Pipistrellus nathusii	0.526	0.576	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-145	692.9465	692.9557	40078.0	47085.0	Pipistrellus nathusii	0.435	0.506	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-145	692.9465	692.9557	40078.0	47085.0	Pipistrellus nathusii	0.435	0.506	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-146	693.0505	693.0583	41796.0	50986.0	Pipistrellus nathusii	0.524	0.563	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-146	693.0505	693.0583	41796.0	50986.0	Pipistrellus nathusii	0.524	0.563	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-147	693.1605	693.1707	40937.0	50787.0	Pipistrellus nathusii	0.521	0.589	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-147	693.1605	693.1707	40937.0	50787.0	Pipistrellus nathusii	0.521	0.589	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-148	693.2685	693.2776	40078.0	50408.0	Pipistrellus nathusii	0.559	0.65	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-148	693.2685	693.2776	40078.0	50408.0	Pipistrellus nathusii	0.559	0.65	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-149	830.5795	830.5877	40937.0	52246.0	Pipistrellus nathusii	0.49	0.58	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-149	830.5795	830.5877	40937.0	52246.0	Pipistrellus nathusii	0.49	0.58	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-150	831.2415	831.2493	40937.0	55520.0	Pipistrellus nathusii	0.431	0.535	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-150	831.2415	831.2493	40937.0	55520.0	Pipistrellus nathusii	0.431	0.535	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-151	832.1985	832.2054	40937.0	59969.0	Pipistrellus nathusii	0.339	0.523	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-151	832.1985	832.2054	40937.0	59969.0	Pipistrellus nathusii	0.339	0.523	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-152	833.9095	833.9165	40937.0	51074.0	Pipistrellus nathusii	0.519	0.552	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-152	833.9095	833.9165	40937.0	51074.0	Pipistrellus nathusii	0.519	0.552	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-153	834.0165	834.0257	40078.0	54854.0	Pipistrellus nathusii	0.529	0.576	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-153	834.0165	834.0257	40078.0	54854.0	Pipistrellus nathusii	0.529	0.576	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-154	834.5865	834.5953	39218.0	54390.0	Pipistrellus nathusii	0.401	0.514	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-154	834.5865	834.5953	39218.0	54390.0	Pipistrellus nathusii	0.401	0.514	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-155	834.8235	834.8303	39218.0	54834.0	Pipistrellus nathusii	0.4	0.59	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-155	834.8235	834.8303	39218.0	54834.0	Pipistrellus nathusii	0.4	0.59	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-156	835.1645	835.1727	40078.0	50326.0	Pipistrellus nathusii	0.473	0.528	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-156	835.1645	835.1727	40078.0	50326.0	Pipistrellus nathusii	0.473	0.528	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-157	835.6095	835.618	38359.0	52158.0	Pipistrellus nathusii	0.443	0.54	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-157	835.6095	835.618	38359.0	52158.0	Pipistrellus nathusii	0.443	0.54	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-158	835.9415	835.9515	40078.0	52513.0	Pipistrellus nathusii	0.433	0.553	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-158	835.9415	835.9515	40078.0	52513.0	Pipistrellus nathusii	0.433	0.553	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-159	836.3875	836.3962	40078.0	47637.0	Pipistrellus nathusii	0.466	0.518	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-159	836.3875	836.3962	40078.0	47637.0	Pipistrellus nathusii	0.466	0.518	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-160	836.8175	836.8266	40078.0	51180.0	Pipistrellus nathusii	0.375	0.506	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-160	836.8175	836.8266	40078.0	51180.0	Pipistrellus nathusii	0.375	0.506	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-161	862.7215	862.7302	40078.0	47673.0	Pipistrellus nathusii	0.504	0.543	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-161	862.7215	862.7302	40078.0	47673.0	Pipistrellus nathusii	0.504	0.543	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-162	863.0415	863.0496	39218.0	49057.0	Pipistrellus nathusii	0.594	0.638	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-162	863.0415	863.0496	39218.0	49057.0	Pipistrellus nathusii	0.594	0.638	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-163	863.1465	863.1552	40078.0	51013.0	Pipistrellus nathusii	0.526	0.612	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-163	863.1465	863.1552	40078.0	51013.0	Pipistrellus nathusii	0.526	0.612	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-164	863.2525	863.2603	40937.0	49731.0	Pipistrellus nathusii	0.55	0.578	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-164	863.2525	863.2603	40937.0	49731.0	Pipistrellus nathusii	0.55	0.578	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-165	863.3565	863.3638	38359.0	50435.0	Pipistrellus nathusii	0.416	0.518	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-165	863.3565	863.3638	38359.0	50435.0	Pipistrellus nathusii	0.416	0.518	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-166	863.4555	863.4643	38359.0	49696.0	Pipistrellus nathusii	0.443	0.564	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-166	863.4555	863.4643	38359.0	49696.0	Pipistrellus nathusii	0.443	0.564	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-167	863.5565	863.5664	38359.0	48352.0	Pipistrellus nathusii	0.488	0.578	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-167	863.5565	863.5664	38359.0	48352.0	Pipistrellus nathusii	0.488	0.578	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-168	863.6575	863.6668	38359.0	48714.0	Pipistrellus nathusii	0.514	0.567	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-168	863.6575	863.6668	38359.0	48714.0	Pipistrellus nathusii	0.514	0.567	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-169	863.7595	863.7698	38359.0	52215.0	Pipistrellus nathusii	0.474	0.54	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-169	863.7595	863.7698	38359.0	52215.0	Pipistrellus nathusii	0.474	0.54	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-170	863.8595	863.8682	39218.0	48060.0	Pipistrellus nathusii	0.525	0.593	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-170	863.8595	863.8682	39218.0	48060.0	Pipistrellus nathusii	0.525	0.593	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-171	864.5965	864.6054	40078.0	46711.0	Pipistrellus nathusii	0.466	0.552	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-171	864.5965	864.6054	40078.0	46711.0	Pipistrellus nathusii	0.466	0.552	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-172	864.7735	864.784	38359.0	45426.0	Pipistrellus nathusii	0.507	0.548	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-172	864.7735	864.784	38359.0	45426.0	Pipistrellus nathusii	0.507	0.548	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-173	864.9575	864.9664	38359.0	47637.0	Pipistrellus nathusii	0.562	0.629	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-173	864.9575	864.9664	38359.0	47637.0	Pipistrellus nathusii	0.562	0.629	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-174	865.0505	865.0605	37500.0	50267.0	Pipistrellus nathusii	0.585	0.63	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-174	865.0505	865.0605	37500.0	50267.0	Pipistrellus nathusii	0.585	0.63	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-175	865.1465	865.1554	40078.0	49236.0	Pipistrellus nathusii	0.523	0.645	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-175	865.1465	865.1554	40078.0	49236.0	Pipistrellus nathusii	0.523	0.645	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-176	865.2445	865.2533	39218.0	48935.0	Pipistrellus nathusii	0.485	0.58	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-176	865.2445	865.2533	39218.0	48935.0	Pipistrellus nathusii	0.485	0.58	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-177	865.3425	865.3527	39218.0	46665.0	Pipistrellus nathusii	0.519	0.558	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-177	865.3425	865.3527	39218.0	46665.0	Pipistrellus nathusii	0.519	0.558	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-178	865.4435	865.4517	38359.0	49627.0	Pipistrellus nathusii	0.465	0.549	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-178	865.4435	865.4517	38359.0	49627.0	Pipistrellus nathusii	0.465	0.549	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-179	865.5445	865.5522	38359.0	48685.0	Pipistrellus nathusii	0.503	0.55	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-179	865.5445	865.5522	38359.0	48685.0	Pipistrellus nathusii	0.503	0.55	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-180	865.9555	865.9658	39218.0	47796.0	Pipistrellus nathusii	0.477	0.514	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-180	865.9555	865.9658	39218.0	47796.0	Pipistrellus nathusii	0.477	0.514	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-181	866.0575	866.0674	38359.0	49137.0	Pipistrellus nathusii	0.417	0.511	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-181	866.0575	866.0674	38359.0	49137.0	Pipistrellus nathusii	0.417	0.511	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-182	868.0205	868.0296	39218.0	47121.0	Pipistrellus nathusii	0.525	0.591	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-182	868.0205	868.0296	39218.0	47121.0	Pipistrellus nathusii	0.525	0.591	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-183	868.5885	868.5974	39218.0	48203.0	Pipistrellus nathusii	0.575	0.619	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-183	868.5885	868.5974	39218.0	48203.0	Pipistrellus nathusii	0.575	0.619	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-184	868.8815	868.8895	40078.0	47321.0	Pipistrellus nathusii	0.509	0.526	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-184	868.8815	868.8895	40078.0	47321.0	Pipistrellus nathusii	0.509	0.526	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-185	868.9695	868.9793999999999	39218.0	48861.0	Pipistrellus nathusii	0.522	0.564	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-185	868.9695	868.9793999999999	39218.0	48861.0	Pipistrellus nathusii	0.522	0.564	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-186	869.0595	869.0693	40078.0	49310.0	Pipistrellus nathusii	0.624	0.685	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-186	869.0595	869.0693	40078.0	49310.0	Pipistrellus nathusii	0.624	0.685	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-187	869.1475	869.1562	39218.0	45818.0	Pipistrellus nathusii	0.644	0.656	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-187	869.1475	869.1562	39218.0	45818.0	Pipistrellus nathusii	0.644	0.656	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-188	869.2365	869.2462	37500.0	47040.0	Pipistrellus nathusii	0.491	0.566	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-188	869.2365	869.2462	37500.0	47040.0	Pipistrellus nathusii	0.491	0.566	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-189	869.4125	869.4232	38359.0	46810.0	Pipistrellus nathusii	0.521	0.572	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-189	869.4125	869.4232	38359.0	46810.0	Pipistrellus nathusii	0.521	0.572	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-190	869.5045	869.5126	38359.0	45123.0	Pipistrellus nathusii	0.507	0.55	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-190	869.5045	869.5126	38359.0	45123.0	Pipistrellus nathusii	0.507	0.55	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-191	1013.7165	1013.7363	26328.0	28551.0	Nyctalus leisleri	0.502	0.548	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-191	1013.7165	1013.7363	26328.0	28551.0	Nyctalus leisleri	0.502	0.548	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-192	1052.7875	1052.7968	39218.0	49387.0	Pipistrellus nathusii	0.449	0.525	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-192	1052.7875	1052.7968	39218.0	49387.0	Pipistrellus nathusii	0.449	0.525	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-193	1053.1785	1053.187	40078.0	52821.0	Pipistrellus nathusii	0.486	0.581	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-193	1053.1785	1053.187	40078.0	52821.0	Pipistrellus nathusii	0.486	0.581	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-194	1053.2775	1053.2869	39218.0	50668.0	Pipistrellus nathusii	0.422	0.501	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-194	1053.2775	1053.2869	39218.0	50668.0	Pipistrellus nathusii	0.422	0.501	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-195	1053.3785	1053.3883	40937.0	51690.0	Pipistrellus nathusii	0.451	0.512	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-195	1053.3785	1053.3883	40937.0	51690.0	Pipistrellus nathusii	0.451	0.512	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-196	1053.5045	1053.515	40937.0	50574.0	Pipistrellus nathusii	0.392	0.529	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-196	1053.5045	1053.515	40937.0	50574.0	Pipistrellus nathusii	0.392	0.529	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-197	1053.5875	1053.5962	40078.0	52015.0	Pipistrellus nathusii	0.499	0.572	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-197	1053.5875	1053.5962	40078.0	52015.0	Pipistrellus nathusii	0.499	0.572	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-198	1053.7905	1053.7984	38359.0	47711.0	Pipistrellus nathusii	0.487	0.561	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-198	1053.7905	1053.7984	38359.0	47711.0	Pipistrellus nathusii	0.487	0.561	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-199	1053.8885	1053.8972	40937.0	55612.0	Pipistrellus nathusii	0.51	0.624	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-199	1053.8885	1053.8972	40937.0	55612.0	Pipistrellus nathusii	0.51	0.624	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-200	1053.9905	1053.9999	40078.0	47485.0	Pipistrellus nathusii	0.471	0.539	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-200	1053.9905	1053.9999	40078.0	47485.0	Pipistrellus nathusii	0.471	0.539	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-201	1054.0915	1054.0999	40937.0	51257.0	Pipistrellus nathusii	0.451	0.538	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-201	1054.0915	1054.0999	40937.0	51257.0	Pipistrellus nathusii	0.451	0.538	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-202	1054.1935	1054.2014	40937.0	48997.0	Pipistrellus nathusii	0.443	0.519	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-202	1054.1935	1054.2014	40937.0	48997.0	Pipistrellus nathusii	0.443	0.519	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-203	1054.2965	1054.3073	39218.0	55401.0	Pipistrellus nathusii	0.445	0.525	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-203	1054.2965	1054.3073	39218.0	55401.0	Pipistrellus nathusii	0.445	0.525	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-204	1054.6995	1054.7092	40937.0	55625.0	Pipistrellus nathusii	0.465	0.535	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-204	1054.6995	1054.7092	40937.0	55625.0	Pipistrellus nathusii	0.465	0.535	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-205	1054.7875	1054.7954	40078.0	57969.0	Pipistrellus nathusii	0.454	0.534	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-205	1054.7875	1054.7954	40078.0	57969.0	Pipistrellus nathusii	0.454	0.534	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-206	1054.8775	1054.8878	40937.0	51776.0	Pipistrellus nathusii	0.453	0.503	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-206	1054.8775	1054.8878	40937.0	51776.0	Pipistrellus nathusii	0.453	0.503	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-207	1055.1755	1055.1836	40078.0	50797.0	Pipistrellus nathusii	0.398	0.505	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-207	1055.1755	1055.1836	40078.0	50797.0	Pipistrellus nathusii	0.398	0.505	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-208	1056.8125	1056.8216	39218.0	46252.0	Pipistrellus nathusii	0.455	0.543	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-208	1056.8125	1056.8216	39218.0	46252.0	Pipistrellus nathusii	0.455	0.543	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-209	1084.2065	1084.2216	24609.0	30099.0	Nyctalus leisleri	0.362	0.504	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-209	1084.2065	1084.2216	24609.0	30099.0	Nyctalus leisleri	0.362	0.504	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-210	1085.9145	1085.9313	24609.0	28342.0	Nyctalus leisleri	0.434	0.556	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-210	1085.9145	1085.9313	24609.0	28342.0	Nyctalus leisleri	0.434	0.556	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-211	1087.8815	1087.8956	27187.0	37774.0	Eptesicus serotinus	0.275	0.51	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-211	1087.8815	1087.8956	27187.0	37774.0	Eptesicus serotinus	0.275	0.51	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-212	1087.9765	1087.9901	27187.0	36778.0	Eptesicus serotinus	0.352	0.509	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-212	1087.9765	1087.9901	27187.0	36778.0	Eptesicus serotinus	0.352	0.509	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-213	1088.1245	1088.1368	27187.0	37459.0	Nyctalus leisleri	0.337	0.569	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-213	1088.1245	1088.1368	27187.0	37459.0	Nyctalus leisleri	0.337	0.569	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-214	1088.6275	1088.6446	24609.0	29927.0	Nyctalus leisleri	0.345	0.531	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-214	1088.6275	1088.6446	24609.0	29927.0	Nyctalus leisleri	0.345	0.531	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-215	1089.0285	1089.0468	23750.0	28578.0	Nyctalus leisleri	0.416	0.518	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-215	1089.0285	1089.0468	23750.0	28578.0	Nyctalus leisleri	0.416	0.518	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-216	1089.3005	1089.3167	24609.0	28243.0	Nyctalus leisleri	0.578	0.625	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-216	1089.3005	1089.3167	24609.0	28243.0	Nyctalus leisleri	0.578	0.625	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-217	1089.7085	1089.727	24609.0	27682.0	Nyctalus leisleri	0.427	0.511	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-217	1089.7085	1089.727	24609.0	27682.0	Nyctalus leisleri	0.427	0.511	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-218	1089.9845	1090.0	25468.0	28858.0	Nyctalus leisleri	0.478	0.553	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-218	1089.9845	1090.0	25468.0	28858.0	Nyctalus leisleri	0.478	0.553	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-219	1090.2555	1090.2743	24609.0	27898.0	Nyctalus leisleri	0.444	0.513	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-219	1090.2555	1090.2743	24609.0	27898.0	Nyctalus leisleri	0.444	0.513	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-220	1090.9365	1090.9533	23750.0	28020.0	Nyctalus leisleri	0.546	0.614	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-220	1090.9365	1090.9533	23750.0	28020.0	Nyctalus leisleri	0.546	0.614	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-221	1091.0535	1091.0649	26328.0	38276.0	Nyctalus leisleri	0.346	0.663	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-221	1091.0535	1091.0649	26328.0	38276.0	Nyctalus leisleri	0.346	0.663	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-222	1091.1945	1091.2102	25468.0	34190.0	Eptesicus serotinus	0.328	0.603	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-222	1091.1945	1091.2102	25468.0	34190.0	Eptesicus serotinus	0.328	0.603	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-223	1091.3555	1091.3708	24609.0	31930.0	Eptesicus serotinus	0.273	0.553	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-223	1091.3555	1091.3708	24609.0	31930.0	Eptesicus serotinus	0.273	0.553	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-224	1092.3135	1092.3354	23750.0	27330.0	Nyctalus leisleri	0.521	0.585	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-224	1092.3135	1092.3354	23750.0	27330.0	Nyctalus leisleri	0.521	0.585	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-225	1092.8535	1092.8735	24609.0	27117.0	Nyctalus leisleri	0.45	0.506	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-225	1092.8535	1092.8735	24609.0	27117.0	Nyctalus leisleri	0.45	0.506	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-226	1094.2475	1094.2687	23750.0	27424.0	Nyctalus leisleri	0.48	0.546	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-226	1094.2475	1094.2687	23750.0	27424.0	Nyctalus leisleri	0.48	0.546	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-227	1094.6535	1094.6705	23750.0	27669.0	Nyctalus leisleri	0.546	0.635	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-227	1094.6535	1094.6705	23750.0	27669.0	Nyctalus leisleri	0.546	0.635	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-228	1095.0575	1095.075	23750.0	26781.0	Nyctalus leisleri	0.474	0.561	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-228	1095.0575	1095.075	23750.0	26781.0	Nyctalus leisleri	0.474	0.561	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-229	1095.4655	1095.4818	23750.0	26538.0	Nyctalus leisleri	0.578	0.639	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-229	1095.4655	1095.4818	23750.0	26538.0	Nyctalus leisleri	0.578	0.639	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-230	1095.8745	1095.8933	23750.0	27213.0	Nyctalus leisleri	0.477	0.567	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-230	1095.8745	1095.8933	23750.0	27213.0	Nyctalus leisleri	0.477	0.567	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-231	1096.2835	1096.3014	23750.0	26784.0	Nyctalus leisleri	0.556	0.603	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-231	1096.2835	1096.3014	23750.0	26784.0	Nyctalus leisleri	0.556	0.603	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-232	1096.5865	1096.606	23750.0	27293.0	Nyctalus leisleri	0.505	0.579	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-232	1096.5865	1096.606	23750.0	27293.0	Nyctalus leisleri	0.505	0.579	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-233	1096.9835	1097.0034	23750.0	26947.0	Nyctalus leisleri	0.457	0.507	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-233	1096.9835	1097.0034	23750.0	26947.0	Nyctalus leisleri	0.457	0.507	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-234	1097.3945	1097.4126	23750.0	27121.0	Nyctalus leisleri	0.519	0.594	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-234	1097.3945	1097.4126	23750.0	27121.0	Nyctalus leisleri	0.519	0.594	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-235	1098.2115	1098.2279	23750.0	27380.0	Nyctalus leisleri	0.545	0.617	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-235	1098.2115	1098.2279	23750.0	27380.0	Nyctalus leisleri	0.545	0.617	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-236	1261.5725	1261.5886	25468.0	28825.0	Nyctalus leisleri	0.495	0.586	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-236	1261.5725	1261.5886	25468.0	28825.0	Nyctalus leisleri	0.495	0.586	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-237	1263.0075	1263.0205	24609.0	29738.0	Nyctalus leisleri	0.394	0.584	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-237	1263.0075	1263.0205	24609.0	29738.0	Nyctalus leisleri	0.394	0.584	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-238	1271.8815	1271.891	39218.0	47226.0	Pipistrellus nathusii	0.455	0.571	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-238	1271.8815	1271.891	39218.0	47226.0	Pipistrellus nathusii	0.455	0.571	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-239	1272.0795	1272.0891	39218.0	45989.0	Pipistrellus nathusii	0.459	0.508	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-239	1272.0795	1272.0891	39218.0	45989.0	Pipistrellus nathusii	0.459	0.508	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-240	1273.0595	1273.0686	39218.0	45963.0	Pipistrellus nathusii	0.481	0.535	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-240	1273.0595	1273.0686	39218.0	45963.0	Pipistrellus nathusii	0.481	0.535	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-241	1273.5665	1273.5765	38359.0	46668.0	Pipistrellus nathusii	0.462	0.532	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-241	1273.5665	1273.5765	38359.0	46668.0	Pipistrellus nathusii	0.462	0.532	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-242	1273.9565	1273.9655	39218.0	47322.0	Pipistrellus nathusii	0.487	0.621	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-242	1273.9565	1273.9655	39218.0	47322.0	Pipistrellus nathusii	0.487	0.621	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-243	1274.1565	1274.1652	38359.0	46019.0	Pipistrellus nathusii	0.517	0.559	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-243	1274.1565	1274.1652	38359.0	46019.0	Pipistrellus nathusii	0.517	0.559	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-244	1274.5595	1274.5682	37500.0	48265.0	Pipistrellus nathusii	0.625	0.682	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-244	1274.5595	1274.5682	37500.0	48265.0	Pipistrellus nathusii	0.625	0.682	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-245	1274.6575	1274.6672	38359.0	49057.0	Pipistrellus nathusii	0.554	0.632	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-245	1274.6575	1274.6672	38359.0	49057.0	Pipistrellus nathusii	0.554	0.632	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-246	1274.7615	1274.7705	39218.0	49716.0	Pipistrellus nathusii	0.507	0.558	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-246	1274.7615	1274.7705	39218.0	49716.0	Pipistrellus nathusii	0.507	0.558	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-247	1275.2715	1275.2795	38359.0	48686.0	Pipistrellus nathusii	0.537	0.573	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-247	1275.2715	1275.2795	38359.0	48686.0	Pipistrellus nathusii	0.537	0.573	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-248	1275.5935	1275.6036	37500.0	44850.0	Pipistrellus nathusii	0.532	0.576	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-248	1275.5935	1275.6036	37500.0	44850.0	Pipistrellus nathusii	0.532	0.576	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-249	1275.6975	1275.708	37500.0	44150.0	Pipistrellus nathusii	0.496	0.534	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-249	1275.6975	1275.708	37500.0	44150.0	Pipistrellus nathusii	0.496	0.534	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-250	1275.9885	1275.9983	39218.0	45991.0	Pipistrellus nathusii	0.48	0.52	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-250	1275.9885	1275.9983	39218.0	45991.0	Pipistrellus nathusii	0.48	0.52	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-251	1276.3215	1276.3292	39218.0	46414.0	Pipistrellus nathusii	0.454	0.508	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-251	1276.3215	1276.3292	39218.0	46414.0	Pipistrellus nathusii	0.454	0.508	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-252	1276.8485	1276.8567	39218.0	44899.0	Pipistrellus nathusii	0.454	0.52	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-252	1276.8485	1276.8567	39218.0	44899.0	Pipistrellus nathusii	0.454	0.52	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-253	1277.1265	1277.1368	39218.0	46146.0	Pipistrellus nathusii	0.537	0.58	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-253	1277.1265	1277.1368	39218.0	46146.0	Pipistrellus nathusii	0.537	0.58	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-254	1277.2285	1277.2387	39218.0	46162.0	Pipistrellus nathusii	0.495	0.505	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-254	1277.2285	1277.2387	39218.0	46162.0	Pipistrellus nathusii	0.495	0.505	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-255	1277.2655	1277.2741	38359.0	46621.0	Pipistrellus nathusii	0.458	0.556	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-255	1277.2655	1277.2741	38359.0	46621.0	Pipistrellus nathusii	0.458	0.556	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-256	1277.4485	1277.4593	39218.0	47610.0	Pipistrellus nathusii	0.487	0.571	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-256	1277.4485	1277.4593	39218.0	47610.0	Pipistrellus nathusii	0.487	0.571	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-257	1277.5995	1277.6085	38359.0	47459.0	Pipistrellus nathusii	0.581	0.618	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-257	1277.5995	1277.6085	38359.0	47459.0	Pipistrellus nathusii	0.581	0.618	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-258	1277.6465	1277.6559	39218.0	46652.0	Pipistrellus nathusii	0.488	0.512	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-258	1277.6465	1277.6559	39218.0	46652.0	Pipistrellus nathusii	0.488	0.512	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-259	1277.8515	1277.8612	40078.0	46162.0	Pipistrellus nathusii	0.483	0.515	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-259	1277.8515	1277.8612	40078.0	46162.0	Pipistrellus nathusii	0.483	0.515	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-260	1277.9545	1277.9654	39218.0	46810.0	Pipistrellus nathusii	0.491	0.539	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-260	1277.9545	1277.9654	39218.0	46810.0	Pipistrellus nathusii	0.491	0.539	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-261	1278.1355	1278.1426	38359.0	46390.0	Pipistrellus nathusii	0.546	0.586	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-261	1278.1355	1278.1426	38359.0	46390.0	Pipistrellus nathusii	0.546	0.586	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-262	1278.1545	1278.1644	40078.0	47574.0	Pipistrellus nathusii	0.497	0.522	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-262	1278.1545	1278.1644	40078.0	47574.0	Pipistrellus nathusii	0.497	0.522	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-263	1278.2625	1278.272	39218.0	46897.0	Pipistrellus nathusii	0.559	0.615	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-263	1278.2625	1278.272	39218.0	46897.0	Pipistrellus nathusii	0.559	0.615	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-264	1278.4545	1278.4636	40078.0	48406.0	Pipistrellus nathusii	0.578	0.61	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-264	1278.4545	1278.4636	40078.0	48406.0	Pipistrellus nathusii	0.578	0.61	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-265	1278.6565	1278.6674	40078.0	51601.0	Pipistrellus nathusii	0.485	0.575	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-265	1278.6565	1278.6674	40078.0	51601.0	Pipistrellus nathusii	0.485	0.575	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-266	1278.7505	1278.7611	39218.0	50520.0	Pipistrellus nathusii	0.511	0.561	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-266	1278.7505	1278.7611	39218.0	50520.0	Pipistrellus nathusii	0.511	0.561	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-267	1278.8475	1278.8574	40078.0	50505.0	Pipistrellus nathusii	0.526	0.557	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-267	1278.8475	1278.8574	40078.0	50505.0	Pipistrellus nathusii	0.526	0.557	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-268	1278.9425	1278.9538	39218.0	50273.0	Pipistrellus nathusii	0.474	0.512	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-268	1278.9425	1278.9538	39218.0	50273.0	Pipistrellus nathusii	0.474	0.512	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-269	1279.0295	1279.0407	38359.0	48725.0	Pipistrellus nathusii	0.484	0.545	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-269	1279.0295	1279.0407	38359.0	48725.0	Pipistrellus nathusii	0.484	0.545	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-270	1279.1225	1279.1337	37500.0	47972.0	Pipistrellus nathusii	0.489	0.558	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-270	1279.1225	1279.1337	37500.0	47972.0	Pipistrellus nathusii	0.489	0.558	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-271	1279.2095	1279.22	40078.0	51776.0	Pipistrellus nathusii	0.499	0.555	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-271	1279.2095	1279.22	40078.0	51776.0	Pipistrellus nathusii	0.499	0.555	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-272	1279.3145	1279.3252	38359.0	46881.0	Pipistrellus nathusii	0.487	0.505	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-272	1279.3145	1279.3252	38359.0	46881.0	Pipistrellus nathusii	0.487	0.505	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-273	1279.5025	1279.5135	40078.0	55178.0	Pipistrellus nathusii	0.482	0.564	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-273	1279.5025	1279.5135	40078.0	55178.0	Pipistrellus nathusii	0.482	0.564	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-274	1279.7105	1279.7201	38359.0	47055.0	Pipistrellus nathusii	0.597	0.645	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-274	1279.7105	1279.7201	38359.0	47055.0	Pipistrellus nathusii	0.597	0.645	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-275	1279.8055	1279.816	40078.0	53465.0	Pipistrellus nathusii	0.554	0.616	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-275	1279.8055	1279.816	40078.0	53465.0	Pipistrellus nathusii	0.554	0.616	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-276	1279.9105	1279.9188	40078.0	47198.0	Pipistrellus nathusii	0.635	0.655	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-276	1279.9105	1279.9188	40078.0	47198.0	Pipistrellus nathusii	0.635	0.655	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-277	1280.0145	1280.0249	40078.0	52218.0	Pipistrellus nathusii	0.526	0.616	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-277	1280.0145	1280.0249	40078.0	52218.0	Pipistrellus nathusii	0.526	0.616	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-278	1280.1185	1280.1287	40078.0	45856.0	Pipistrellus nathusii	0.518	0.542	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-278	1280.1185	1280.1287	40078.0	45856.0	Pipistrellus nathusii	0.518	0.542	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-279	1280.2235	1280.2333	40078.0	55153.0	Pipistrellus nathusii	0.593	0.635	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-279	1280.2235	1280.2333	40078.0	55153.0	Pipistrellus nathusii	0.593	0.635	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-280	1280.3215	1280.3318	40078.0	55112.0	Pipistrellus nathusii	0.563	0.649	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-280	1280.3215	1280.3318	40078.0	55112.0	Pipistrellus nathusii	0.563	0.649	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-281	1280.4145	1280.4249	39218.0	56843.0	Pipistrellus nathusii	0.449	0.542	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-281	1280.4145	1280.4249	39218.0	56843.0	Pipistrellus nathusii	0.449	0.542	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-282	1280.6245	1280.6351	40078.0	50961.0	Pipistrellus nathusii	0.516	0.541	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-282	1280.6245	1280.6351	40078.0	50961.0	Pipistrellus nathusii	0.516	0.541	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-283	1280.8335	1280.8444	39218.0	52352.0	Pipistrellus nathusii	0.537	0.59	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-283	1280.8335	1280.8444	39218.0	52352.0	Pipistrellus nathusii	0.537	0.59	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-284	1280.9425	1280.9541	40078.0	45461.0	Pipistrellus nathusii	0.538	0.547	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-284	1280.9425	1280.9541	40078.0	45461.0	Pipistrellus nathusii	0.538	0.547	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-285	1281.0435	1281.0538	40078.0	52826.0	Pipistrellus nathusii	0.619	0.647	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-285	1281.0435	1281.0538	40078.0	52826.0	Pipistrellus nathusii	0.619	0.647	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-286	1281.1295	1281.1379	40937.0	52077.0	Pipistrellus nathusii	0.547	0.568	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-286	1281.1295	1281.1379	40937.0	52077.0	Pipistrellus nathusii	0.547	0.568	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-287	1281.2325	1281.2412	39218.0	46701.0	Pipistrellus nathusii	0.491	0.516	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-287	1281.2325	1281.2412	39218.0	46701.0	Pipistrellus nathusii	0.491	0.516	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-288	1281.3255	1281.3354	40078.0	52242.0	Pipistrellus nathusii	0.552	0.642	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-288	1281.3255	1281.3354	40078.0	52242.0	Pipistrellus nathusii	0.552	0.642	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-289	1281.4215	1281.4339	38359.0	46849.0	Pipistrellus nathusii	0.465	0.517	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-289	1281.4215	1281.4339	38359.0	46849.0	Pipistrellus nathusii	0.465	0.517	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-290	1281.5195	1281.5299	39218.0	55021.0	Pipistrellus nathusii	0.556	0.623	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-290	1281.5195	1281.5299	39218.0	55021.0	Pipistrellus nathusii	0.556	0.623	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-291	1281.6195	1281.629	39218.0	52612.0	Pipistrellus nathusii	0.62	0.663	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-291	1281.6195	1281.629	39218.0	52612.0	Pipistrellus nathusii	0.62	0.663	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-292	1281.7295	1281.7399	39218.0	49952.0	Pipistrellus nathusii	0.539	0.595	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-292	1281.7295	1281.7399	39218.0	49952.0	Pipistrellus nathusii	0.539	0.595	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-293	1281.8315	1281.8418	39218.0	52814.0	Pipistrellus nathusii	0.603	0.649	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-293	1281.8315	1281.8418	39218.0	52814.0	Pipistrellus nathusii	0.603	0.649	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-294	1281.9345	1281.9424	38359.0	48587.0	Pipistrellus nathusii	0.52	0.559	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-294	1281.9345	1281.9424	38359.0	48587.0	Pipistrellus nathusii	0.52	0.559	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-295	1282.0305	1282.0395	39218.0	51296.0	Pipistrellus nathusii	0.584	0.62	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-295	1282.0305	1282.0395	39218.0	51296.0	Pipistrellus nathusii	0.584	0.62	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-296	1282.2315	1282.241	39218.0	52602.0	Pipistrellus nathusii	0.508	0.62	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-296	1282.2315	1282.241	39218.0	52602.0	Pipistrellus nathusii	0.508	0.62	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-297	1282.3335	1282.3433	40078.0	51529.0	Pipistrellus nathusii	0.553	0.616	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-297	1282.3335	1282.3433	40078.0	51529.0	Pipistrellus nathusii	0.553	0.616	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-298	1282.5395	1282.5495	40078.0	49730.0	Pipistrellus nathusii	0.496	0.572	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-298	1282.5395	1282.5495	40078.0	49730.0	Pipistrellus nathusii	0.496	0.572	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-299	1282.8485	1282.8579	40078.0	50401.0	Pipistrellus nathusii	0.591	0.629	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-299	1282.8485	1282.8579	40078.0	50401.0	Pipistrellus nathusii	0.591	0.629	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-300	1283.0625	1283.0733	40078.0	47466.0	Pipistrellus nathusii	0.507	0.535	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-300	1283.0625	1283.0733	40078.0	47466.0	Pipistrellus nathusii	0.507	0.535	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-301	1283.1665	1283.1766	40078.0	49724.0	Pipistrellus nathusii	0.493	0.549	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-301	1283.1665	1283.1766	40078.0	49724.0	Pipistrellus nathusii	0.493	0.549	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-302	1283.6905	1283.7	40937.0	47088.0	Pipistrellus nathusii	0.507	0.518	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-302	1283.6905	1283.7	40937.0	47088.0	Pipistrellus nathusii	0.507	0.518	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-303	1283.8605	1283.8702	40078.0	50011.0	Pipistrellus nathusii	0.483	0.58	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-303	1283.8605	1283.8702	40078.0	50011.0	Pipistrellus nathusii	0.483	0.58	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-304	1283.8925	1283.9019	40937.0	50937.0	Pipistrellus nathusii	0.603	0.663	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-304	1283.8925	1283.9019	40937.0	50937.0	Pipistrellus nathusii	0.603	0.663	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-305	1284.0055	1284.0139	41796.0	50095.0	Pipistrellus nathusii	0.526	0.593	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-305	1284.0055	1284.0139	41796.0	50095.0	Pipistrellus nathusii	0.526	0.593	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-306	1284.2125	1284.2228	40937.0	48388.0	Pipistrellus nathusii	0.557	0.636	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-306	1284.2125	1284.2228	40937.0	48388.0	Pipistrellus nathusii	0.557	0.636	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-307	1284.5105	1284.5206	40937.0	51614.0	Pipistrellus nathusii	0.575	0.618	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-307	1284.5105	1284.5206	40937.0	51614.0	Pipistrellus nathusii	0.575	0.618	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-308	1284.7255	1284.7334	40937.0	50306.0	Pipistrellus nathusii	0.662	0.685	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-308	1284.7255	1284.7334	40937.0	50306.0	Pipistrellus nathusii	0.662	0.685	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-309	1284.9405	1284.9537	40937.0	50355.0	Pipistrellus nathusii	0.448	0.534	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-309	1284.9405	1284.9537	40937.0	50355.0	Pipistrellus nathusii	0.448	0.534	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-310	1285.4635	1285.4726	40078.0	47882.0	Pipistrellus nathusii	0.631	0.675	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-310	1285.4635	1285.4726	40078.0	47882.0	Pipistrellus nathusii	0.631	0.675	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-311	1285.6665	1285.6764	40078.0	47980.0	Pipistrellus nathusii	0.546	0.624	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-311	1285.6665	1285.6764	40078.0	47980.0	Pipistrellus nathusii	0.546	0.624	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-312	1285.9775	1285.9867	40078.0	48009.0	Pipistrellus nathusii	0.547	0.567	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-312	1285.9775	1285.9867	40078.0	48009.0	Pipistrellus nathusii	0.547	0.567	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-313	1286.0915	1286.1004	40078.0	45798.0	Pipistrellus nathusii	0.472	0.526	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-313	1286.0915	1286.1004	40078.0	45798.0	Pipistrellus nathusii	0.472	0.526	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-314	1499.8285	1499.8374	41796.0	48505.0	Pipistrellus nathusii	0.443	0.527	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-314	1499.8285	1499.8374	41796.0	48505.0	Pipistrellus nathusii	0.443	0.527	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-315	1499.9235	1499.9313	40078.0	49655.0	Pipistrellus nathusii	0.486	0.526	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-315	1499.9235	1499.9313	40078.0	49655.0	Pipistrellus nathusii	0.486	0.526	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-316	1500.0465	1500.0529	39218.0	57531.0	Pipistrellus nathusii	0.354	0.533	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-316	1500.0465	1500.0529	39218.0	57531.0	Pipistrellus nathusii	0.354	0.533	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-317	1501.4945	1501.5014	40078.0	60132.0	Pipistrellus nathusii	0.427	0.501	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-317	1501.4945	1501.5014	40078.0	60132.0	Pipistrellus nathusii	0.427	0.501	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-318	1501.6835	1501.693	40078.0	60449.0	Pipistrellus nathusii	0.368	0.522	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-318	1501.6835	1501.693	40078.0	60449.0	Pipistrellus nathusii	0.368	0.522	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-319	1501.7755	1501.7838	40937.0	57352.0	Pipistrellus nathusii	0.361	0.51	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-319	1501.7755	1501.7838	40937.0	57352.0	Pipistrellus nathusii	0.361	0.51	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-320	1501.9685	1501.9771	37500.0	58948.0	Pipistrellus nathusii	0.431	0.556	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-320	1501.9685	1501.9771	37500.0	58948.0	Pipistrellus nathusii	0.431	0.556	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-321	1502.0545	1502.0629	37500.0	52034.0	Pipistrellus nathusii	0.435	0.524	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-321	1502.0545	1502.0629	37500.0	52034.0	Pipistrellus nathusii	0.435	0.524	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-322	1502.1535	1502.1604	39218.0	55628.0	Pipistrellus nathusii	0.572	0.612	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-322	1502.1535	1502.1604	39218.0	55628.0	Pipistrellus nathusii	0.572	0.612	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-323	1502.2475	1502.2562	40078.0	49526.0	Pipistrellus nathusii	0.558	0.606	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-323	1502.2475	1502.2562	40078.0	49526.0	Pipistrellus nathusii	0.558	0.606	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-324	1502.3455	1502.3528	39218.0	55401.0	Pipistrellus nathusii	0.549	0.587	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-324	1502.3455	1502.3528	39218.0	55401.0	Pipistrellus nathusii	0.549	0.587	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-325	1502.5385	1502.5469	38359.0	57948.0	Pipistrellus nathusii	0.558	0.659	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-325	1502.5385	1502.5469	38359.0	57948.0	Pipistrellus nathusii	0.558	0.659	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-326	1502.6325	1502.6408	40078.0	48828.0	Pipistrellus nathusii	0.516	0.584	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-326	1502.6325	1502.6408	40078.0	48828.0	Pipistrellus nathusii	0.516	0.584	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-327	1502.7305	1502.7389	38359.0	53505.0	Pipistrellus nathusii	0.595	0.649	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-327	1502.7305	1502.7389	38359.0	53505.0	Pipistrellus nathusii	0.595	0.649	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-328	1502.8245	1502.8323	40078.0	47895.0	Pipistrellus nathusii	0.442	0.513	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-328	1502.8245	1502.8323	40078.0	47895.0	Pipistrellus nathusii	0.442	0.513	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-329	1502.9235	1502.932	39218.0	54177.0	Pipistrellus nathusii	0.565	0.615	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-329	1502.9235	1502.932	39218.0	54177.0	Pipistrellus nathusii	0.565	0.615	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-330	1503.1215	1503.13	38359.0	54403.0	Pipistrellus nathusii	0.428	0.557	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-330	1503.1215	1503.13	38359.0	54403.0	Pipistrellus nathusii	0.428	0.557	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-331	1503.3125	1503.3212	38359.0	47831.0	Pipistrellus nathusii	0.53	0.618	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-331	1503.3125	1503.3212	38359.0	47831.0	Pipistrellus nathusii	0.53	0.618	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-332	1503.7005	1503.7085	39218.0	50286.0	Pipistrellus nathusii	0.419	0.519	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-332	1503.7005	1503.7085	39218.0	50286.0	Pipistrellus nathusii	0.419	0.519	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-333	1503.8945	1503.9047	39218.0	48577.0	Pipistrellus nathusii	0.501	0.55	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-333	1503.8945	1503.9047	39218.0	48577.0	Pipistrellus nathusii	0.501	0.55	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-334	1504.0915	1504.1012	38359.0	45767.0	Pipistrellus nathusii	0.54	0.565	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-334	1504.0915	1504.1012	38359.0	45767.0	Pipistrellus nathusii	0.54	0.565	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-335	1535.8145	1535.838	16875.0	20329.0	Nyctalus leisleri	0.274	0.552	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-335	1535.8145	1535.838	16875.0	20329.0	Nyctalus leisleri	0.274	0.552	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-336	1536.2085	1536.2213	19453.0	25976.0	Nyctalus noctula	0.459	0.631	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-336	1536.2085	1536.2213	19453.0	25976.0	Nyctalus noctula	0.459	0.631	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-337	1536.6325	1536.6429	22031.0	29387.0	Nyctalus noctula	0.352	0.564	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-337	1536.6325	1536.6429	22031.0	29387.0	Nyctalus noctula	0.352	0.564	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-338	1537.0555	1537.0655	21171.0	29259.0	Nyctalus noctula	0.365	0.571	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-338	1537.0555	1537.0655	21171.0	29259.0	Nyctalus noctula	0.365	0.571	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-339	1537.3465	1537.3563	20312.0	28303.0	Nyctalus noctula	0.38	0.589	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-339	1537.3465	1537.3563	20312.0	28303.0	Nyctalus noctula	0.38	0.589	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-340	1537.6905	1537.7014	19453.0	26289.0	Nyctalus noctula	0.438	0.61	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-340	1537.6905	1537.7014	19453.0	26289.0	Nyctalus noctula	0.438	0.61	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-341	1630.8985	1630.9081	43515.0	49360.0	Pipistrellus pipistrellus	0.317	0.51	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-341	1630.8985	1630.9081	43515.0	49360.0	Pipistrellus pipistrellus	0.317	0.51	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-342	1636.5625	1636.5707	44375.0	57442.0	Pipistrellus pipistrellus	0.538	0.639	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-342	1636.5625	1636.5707	44375.0	57442.0	Pipistrellus pipistrellus	0.538	0.639	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-343	1637.6085	1637.6158	44375.0	51902.0	Pipistrellus pipistrellus	0.476	0.513	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
-343	1637.6085	1637.6158	44375.0	51902.0	Pipistrellus pipistrellus	0.476	0.513	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	class	class_prob	det_prob	individual	event	input_file	Site name	Recover Folder	SD Card
+231.2775	231.2891	25468.0	30247.0	Nyctalus leisleri	0.359	0.592	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+231.6515	231.6635	24609.0	29885.0	Nyctalus leisleri	0.297	0.598	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+231.9315	231.9459	24609.0	29998.0	Nyctalus leisleri	0.34	0.545	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+232.4015	232.4206	24609.0	29436.0	Nyctalus leisleri	0.309	0.53	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+232.7135	232.7302	23750.0	28253.0	Nyctalus leisleri	0.411	0.555	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+233.1445	233.1609	23750.0	29353.0	Nyctalus leisleri	0.381	0.618	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+233.3015	233.3123	26328.0	34940.0	Eptesicus serotinus	0.346	0.641	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+233.4735	233.4853	25468.0	33041.0	Eptesicus serotinus	0.294	0.56	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+233.7245	233.741	23750.0	27728.0	Nyctalus leisleri	0.487	0.624	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+234.4245	234.4387	24609.0	28987.0	Nyctalus leisleri	0.392	0.529	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+234.7155	234.7302	23750.0	27984.0	Nyctalus leisleri	0.583	0.678	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+235.0115	235.0279	23750.0	28596.0	Nyctalus leisleri	0.467	0.599	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+235.4245	235.4414	23750.0	28145.0	Nyctalus leisleri	0.389	0.532	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+235.6915	235.7084	23750.0	27737.0	Nyctalus leisleri	0.53	0.6	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+236.2545	236.2691	23750.0	29636.0	Nyctalus leisleri	0.408	0.601	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+236.5535	236.5684	24609.0	27776.0	Nyctalus leisleri	0.498	0.59	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+236.8535	236.8701	24609.0	28802.0	Nyctalus leisleri	0.467	0.551	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+237.1345	237.1536	23750.0	28013.0	Nyctalus leisleri	0.394	0.51	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+237.5485	237.5674	23750.0	29181.0	Nyctalus leisleri	0.353	0.532	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+237.8635	237.8786	24609.0	30245.0	Nyctalus leisleri	0.441	0.644	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+240.2375	240.2501	25468.0	30763.0	Nyctalus leisleri	0.498	0.617	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+240.3815	240.3963	24609.0	30835.0	Nyctalus leisleri	0.318	0.552	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+240.6305	240.6457	24609.0	31416.0	Nyctalus leisleri	0.322	0.627	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+240.8985	240.9153	24609.0	28495.0	Nyctalus leisleri	0.398	0.503	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+241.0885	241.1025	24609.0	31132.0	Nyctalus leisleri	0.36	0.657	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+241.3805	241.3955	24609.0	30131.0	Nyctalus leisleri	0.429	0.606	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+241.6725	241.6901	23750.0	26757.0	Nyctalus leisleri	0.512	0.569	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+242.3845	242.4017	23750.0	26712.0	Nyctalus leisleri	0.543	0.594	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+242.6685	242.6848	24609.0	27844.0	Nyctalus leisleri	0.544	0.656	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+252.5555	252.5632	40937.0	50016.0	Pipistrellus nathusii	0.555	0.595	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+252.6585	252.6656	40078.0	48433.0	Pipistrellus nathusii	0.532	0.557	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+252.7555	252.7647	40078.0	51122.0	Pipistrellus nathusii	0.548	0.596	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+252.8465	252.8571	40937.0	53130.0	Pipistrellus nathusii	0.47	0.56	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+252.9505	252.9587	39218.0	47468.0	Pipistrellus nathusii	0.523	0.581	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+253.0455	253.0538	40937.0	51895.0	Pipistrellus nathusii	0.572	0.62	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+253.1455	253.1546	40078.0	48459.0	Pipistrellus nathusii	0.489	0.567	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+253.2405	253.249	40937.0	51251.0	Pipistrellus nathusii	0.521	0.627	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+253.3215	253.3297	41796.0	53083.0	Pipistrellus nathusii	0.517	0.643	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+253.4645	253.4719	41796.0	54389.0	Pipistrellus nathusii	0.525	0.643	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+253.5595	253.5675	40937.0	51004.0	Pipistrellus nathusii	0.531	0.629	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+253.6475	253.6573	40078.0	54085.0	Pipistrellus nathusii	0.519	0.61	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+253.7435	253.7528	40078.0	54142.0	Pipistrellus nathusii	0.504	0.534	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+253.9255	253.9337	40937.0	52096.0	Pipistrellus nathusii	0.485	0.583	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+254.0265	254.0338	39218.0	47371.0	Pipistrellus nathusii	0.523	0.566	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+254.1995	254.2084	40937.0	54457.0	Pipistrellus nathusii	0.667	0.702	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+254.3925	254.4006	40937.0	55139.0	Pipistrellus nathusii	0.589	0.644	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+254.5765	254.5867	40078.0	48861.0	Pipistrellus nathusii	0.51	0.581	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+254.6605	254.6704	40078.0	51685.0	Pipistrellus nathusii	0.518	0.569	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+254.7545	254.7628	39218.0	49206.0	Pipistrellus nathusii	0.536	0.598	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+254.8375	254.845	40078.0	54538.0	Pipistrellus nathusii	0.531	0.596	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+254.9395	254.9472	38359.0	48039.0	Pipistrellus nathusii	0.455	0.507	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+255.0355	255.0433	39218.0	53627.0	Pipistrellus nathusii	0.592	0.64	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+255.1305	255.139	40078.0	51845.0	Pipistrellus nathusii	0.545	0.613	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+255.2235	255.2338	40078.0	53638.0	Pipistrellus nathusii	0.567	0.646	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+255.4025	255.4116	40937.0	51002.0	Pipistrellus nathusii	0.457	0.537	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+255.7815	255.791	41796.0	48534.0	Pipistrellus nathusii	0.515	0.541	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+255.8695	255.8781	40937.0	50125.0	Pipistrellus nathusii	0.474	0.517	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+256.0515	256.0603	40078.0	49398.0	Pipistrellus nathusii	0.513	0.576	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+256.4345	256.4435	40078.0	50093.0	Pipistrellus nathusii	0.546	0.644	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+257.6975	257.7047	39218.0	45825.0	Pipistrellus nathusii	0.41	0.523	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+258.3745	258.3821	40937.0	53887.0	Pipistrellus nathusii	0.473	0.532	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+258.8605	258.8695	40937.0	49710.0	Pipistrellus nathusii	0.515	0.571	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+259.0525	259.0619	40937.0	49845.0	Pipistrellus nathusii	0.585	0.653	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+259.1385	259.1473	41796.0	51198.0	Pipistrellus nathusii	0.531	0.595	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+259.2305	259.2425	41796.0	51715.0	Pipistrellus nathusii	0.46	0.516	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+259.5385	259.5499	41796.0	51842.0	Pipistrellus nathusii	0.485	0.534	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+259.6255	259.6374	41796.0	58209.0	Pipistrellus nathusii	0.475	0.556	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+260.6285	260.6379	44375.0	56423.0	Pipistrellus pipistrellus	0.289	0.518	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+260.7085	260.717	42656.0	53097.0	Pipistrellus nathusii	0.221	0.545	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+260.9495	260.9583	42656.0	61119.0	Pipistrellus nathusii	0.181	0.505	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+261.3185	261.3292	40937.0	61482.0	Pipistrellus pipistrellus	0.185	0.511	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+261.4095	261.4184	43515.0	51622.0	Pipistrellus pipistrellus	0.273	0.544	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+261.5425	261.5512	41796.0	59162.0	Pipistrellus nathusii	0.323	0.535	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+261.7325	261.7425	40078.0	58058.0	Pipistrellus nathusii	0.345	0.523	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+262.2555	262.2651	38359.0	51251.0	Pipistrellus nathusii	0.485	0.518	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+262.3565	262.3667	39218.0	56400.0	Pipistrellus nathusii	0.527	0.582	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+262.4635	262.4724	38359.0	50532.0	Pipistrellus nathusii	0.481	0.529	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+262.5625	262.572	39218.0	53992.0	Pipistrellus nathusii	0.563	0.606	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+262.6515	262.6598	39218.0	55912.0	Pipistrellus nathusii	0.618	0.689	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+262.7605	262.7699	38359.0	51594.0	Pipistrellus nathusii	0.528	0.627	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+262.8615	262.8706	39218.0	56707.0	Pipistrellus nathusii	0.628	0.69	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+262.9635	262.9729	38359.0	52759.0	Pipistrellus nathusii	0.566	0.619	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+263.0665	263.0764	38359.0	49928.0	Pipistrellus nathusii	0.499	0.547	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+263.2775	263.2865	38359.0	53222.0	Pipistrellus nathusii	0.55	0.598	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+263.3805	263.389	36640.0	50774.0	Pipistrellus nathusii	0.487	0.557	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+263.5835	263.5943	39218.0	51736.0	Pipistrellus nathusii	0.484	0.556	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+263.8885	263.8989	39218.0	51813.0	Pipistrellus nathusii	0.511	0.599	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+264.1925	264.2009	39218.0	45945.0	Pipistrellus nathusii	0.558	0.621	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+316.3505	316.3601	41796.0	49194.0	Pipistrellus nathusii	0.448	0.544	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+316.7215	316.7296	41796.0	51372.0	Pipistrellus nathusii	0.431	0.511	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+316.9055	316.9127	41796.0	51121.0	Pipistrellus nathusii	0.444	0.537	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+317.1205	317.1285	41796.0	48861.0	Pipistrellus nathusii	0.56	0.582	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+318.1315	318.1398	44375.0	52725.0	Pipistrellus pipistrellus	0.423	0.527	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+318.2605	318.2694	45234.0	51840.0	Pipistrellus pipistrellus	0.491	0.521	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+318.3185	318.3301	43515.0	53043.0	Pipistrellus pipistrellus	0.405	0.573	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+318.3805	318.3905	44375.0	59427.0	Pipistrellus pipistrellus	0.383	0.508	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+318.4875	318.4947	43515.0	60367.0	Pipistrellus pipistrellus	0.436	0.582	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+318.5585	318.5649	42656.0	61524.0	Pipistrellus pipistrellus	0.323	0.564	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+318.6455	318.6563	41796.0	59664.0	Pipistrellus pipistrellus	0.255	0.52	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+318.7365	318.7457	42656.0	59535.0	Pipistrellus pipistrellus	0.236	0.565	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+318.8255	318.8349	42656.0	60883.0	Pipistrellus pipistrellus	0.234	0.541	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+319.0505	319.0576	41796.0	62338.0	Pipistrellus pipistrellus	0.291	0.543	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+319.1625	319.1702	42656.0	60471.0	Pipistrellus pipistrellus	0.229	0.504	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+319.2625	319.2691	43515.0	53948.0	Pipistrellus pipistrellus	0.37	0.508	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+612.0065	612.0137	42656.0	49427.0	Pipistrellus nathusii	0.463	0.516	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+612.2925	612.3014	40937.0	51306.0	Pipistrellus nathusii	0.5	0.625	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+612.4805	612.4901	40937.0	51855.0	Pipistrellus nathusii	0.463	0.523	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+612.5805	612.5879	40937.0	50375.0	Pipistrellus nathusii	0.534	0.575	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+612.6775	612.6848	40937.0	48319.0	Pipistrellus nathusii	0.537	0.578	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+612.7775	612.786	40937.0	50912.0	Pipistrellus nathusii	0.479	0.572	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+612.8675	612.8759	40937.0	51930.0	Pipistrellus nathusii	0.485	0.556	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+612.9675	612.9755	40937.0	50075.0	Pipistrellus nathusii	0.502	0.591	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+613.0645	613.0727	40078.0	49865.0	Pipistrellus nathusii	0.46	0.548	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+613.1585	613.1661	40937.0	50361.0	Pipistrellus nathusii	0.54	0.585	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+613.2545	613.2637	40078.0	50116.0	Pipistrellus nathusii	0.48	0.55	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+613.5415	613.5507	41796.0	53461.0	Pipistrellus nathusii	0.461	0.571	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+613.8355	613.8449	39218.0	47236.0	Pipistrellus nathusii	0.43	0.502	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+613.9335	613.9427	40078.0	51353.0	Pipistrellus nathusii	0.47	0.582	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+614.4265	614.4344	40078.0	46931.0	Pipistrellus nathusii	0.407	0.52	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+618.4085	618.4153	41796.0	50521.0	Pipistrellus nathusii	0.534	0.578	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+618.9445	618.951	42656.0	54119.0	Pipistrellus nathusii	0.435	0.518	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+619.0465	619.0549	40937.0	48788.0	Pipistrellus nathusii	0.543	0.579	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+619.2245	619.2323	41796.0	53313.0	Pipistrellus nathusii	0.509	0.58	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+619.3245	619.3313	40078.0	47599.0	Pipistrellus nathusii	0.469	0.549	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+619.5785	619.5857	40937.0	51822.0	Pipistrellus nathusii	0.493	0.568	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+619.6915	619.7	40937.0	54728.0	Pipistrellus nathusii	0.494	0.575	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+619.7825	619.7911	40937.0	51011.0	Pipistrellus nathusii	0.471	0.561	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+619.9665	619.9739	41796.0	52816.0	Pipistrellus nathusii	0.478	0.569	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+620.8355	620.8456	40078.0	49791.0	Pipistrellus nathusii	0.466	0.515	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+621.1265	621.1366	40937.0	55222.0	Pipistrellus nathusii	0.457	0.535	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+621.7265	621.7359	40078.0	48145.0	Pipistrellus nathusii	0.428	0.511	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+622.3235	622.3319	39218.0	46447.0	Pipistrellus nathusii	0.498	0.547	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+622.6175	622.6267	39218.0	47235.0	Pipistrellus nathusii	0.422	0.547	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+690.7435	690.7524	40937.0	47260.0	Pipistrellus nathusii	0.501	0.539	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+690.9545	690.9643	40937.0	47651.0	Pipistrellus nathusii	0.491	0.63	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+691.1605	691.1704	39218.0	45846.0	Pipistrellus nathusii	0.512	0.544	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+691.2635	691.2729	40078.0	46371.0	Pipistrellus nathusii	0.479	0.51	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+691.4625	691.4703	40937.0	51068.0	Pipistrellus nathusii	0.46	0.541	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+691.6735	691.6808	40937.0	48008.0	Pipistrellus nathusii	0.553	0.585	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+691.8835	691.8923	40078.0	48175.0	Pipistrellus nathusii	0.631	0.671	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+692.1075	692.1176	40078.0	48554.0	Pipistrellus nathusii	0.555	0.629	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+692.3215	692.3314	40078.0	48395.0	Pipistrellus nathusii	0.485	0.536	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+692.5285	692.5396	39218.0	45792.0	Pipistrellus nathusii	0.484	0.52	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+692.7355	692.7463	40078.0	46919.0	Pipistrellus nathusii	0.43	0.524	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+692.8415	692.8517	39218.0	47067.0	Pipistrellus nathusii	0.526	0.576	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+692.9465	692.9557	40078.0	47085.0	Pipistrellus nathusii	0.435	0.506	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+693.0505	693.0583	41796.0	50986.0	Pipistrellus nathusii	0.524	0.563	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+693.1605	693.1707	40937.0	50787.0	Pipistrellus nathusii	0.521	0.589	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+693.2685	693.2776	40078.0	50408.0	Pipistrellus nathusii	0.559	0.65	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+830.5795	830.5877	40937.0	52246.0	Pipistrellus nathusii	0.49	0.58	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+831.2415	831.2493	40937.0	55520.0	Pipistrellus nathusii	0.431	0.535	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+832.1985	832.2054	40937.0	59969.0	Pipistrellus nathusii	0.339	0.523	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+833.9095	833.9165	40937.0	51074.0	Pipistrellus nathusii	0.519	0.552	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+834.0165	834.0257	40078.0	54854.0	Pipistrellus nathusii	0.529	0.576	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+834.5865	834.5953	39218.0	54390.0	Pipistrellus nathusii	0.401	0.514	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+834.8235	834.8303	39218.0	54834.0	Pipistrellus nathusii	0.4	0.59	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+835.1645	835.1727	40078.0	50326.0	Pipistrellus nathusii	0.473	0.528	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+835.6095	835.618	38359.0	52158.0	Pipistrellus nathusii	0.443	0.54	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+835.9415	835.9515	40078.0	52513.0	Pipistrellus nathusii	0.433	0.553	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+836.3875	836.3962	40078.0	47637.0	Pipistrellus nathusii	0.466	0.518	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+836.8175	836.8266	40078.0	51180.0	Pipistrellus nathusii	0.375	0.506	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+862.7215	862.7302	40078.0	47673.0	Pipistrellus nathusii	0.504	0.543	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+863.0415	863.0496	39218.0	49057.0	Pipistrellus nathusii	0.594	0.638	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+863.1465	863.1552	40078.0	51013.0	Pipistrellus nathusii	0.526	0.612	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+863.2525	863.2603	40937.0	49731.0	Pipistrellus nathusii	0.55	0.578	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+863.3565	863.3638	38359.0	50435.0	Pipistrellus nathusii	0.416	0.518	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+863.4555	863.4643	38359.0	49696.0	Pipistrellus nathusii	0.443	0.564	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+863.5565	863.5664	38359.0	48352.0	Pipistrellus nathusii	0.488	0.578	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+863.6575	863.6668	38359.0	48714.0	Pipistrellus nathusii	0.514	0.567	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+863.7595	863.7698	38359.0	52215.0	Pipistrellus nathusii	0.474	0.54	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+863.8595	863.8682	39218.0	48060.0	Pipistrellus nathusii	0.525	0.593	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+864.5965	864.6054	40078.0	46711.0	Pipistrellus nathusii	0.466	0.552	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+864.7735	864.784	38359.0	45426.0	Pipistrellus nathusii	0.507	0.548	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+864.9575	864.9664	38359.0	47637.0	Pipistrellus nathusii	0.562	0.629	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+865.0505	865.0605	37500.0	50267.0	Pipistrellus nathusii	0.585	0.63	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+865.1465	865.1554	40078.0	49236.0	Pipistrellus nathusii	0.523	0.645	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+865.2445	865.2533	39218.0	48935.0	Pipistrellus nathusii	0.485	0.58	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+865.3425	865.3527	39218.0	46665.0	Pipistrellus nathusii	0.519	0.558	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+865.4435	865.4517	38359.0	49627.0	Pipistrellus nathusii	0.465	0.549	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+865.5445	865.5522	38359.0	48685.0	Pipistrellus nathusii	0.503	0.55	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+865.9555	865.9658	39218.0	47796.0	Pipistrellus nathusii	0.477	0.514	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+866.0575	866.0674	38359.0	49137.0	Pipistrellus nathusii	0.417	0.511	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+868.0205	868.0296	39218.0	47121.0	Pipistrellus nathusii	0.525	0.591	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+868.5885	868.5974	39218.0	48203.0	Pipistrellus nathusii	0.575	0.619	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+868.8815	868.8895	40078.0	47321.0	Pipistrellus nathusii	0.509	0.526	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+868.9695	868.9793999999999	39218.0	48861.0	Pipistrellus nathusii	0.522	0.564	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+869.0595	869.0693	40078.0	49310.0	Pipistrellus nathusii	0.624	0.685	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+869.1475	869.1562	39218.0	45818.0	Pipistrellus nathusii	0.644	0.656	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+869.2365	869.2462	37500.0	47040.0	Pipistrellus nathusii	0.491	0.566	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+869.4125	869.4232	38359.0	46810.0	Pipistrellus nathusii	0.521	0.572	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+869.5045	869.5126	38359.0	45123.0	Pipistrellus nathusii	0.507	0.55	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+1013.7165	1013.7363	26328.0	28551.0	Nyctalus leisleri	0.502	0.548	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+1052.7875	1052.7968	39218.0	49387.0	Pipistrellus nathusii	0.449	0.525	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+1053.1785	1053.187	40078.0	52821.0	Pipistrellus nathusii	0.486	0.581	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+1053.2775	1053.2869	39218.0	50668.0	Pipistrellus nathusii	0.422	0.501	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+1053.3785	1053.3883	40937.0	51690.0	Pipistrellus nathusii	0.451	0.512	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+1053.5045	1053.515	40937.0	50574.0	Pipistrellus nathusii	0.392	0.529	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+1053.5875	1053.5962	40078.0	52015.0	Pipistrellus nathusii	0.499	0.572	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+1053.7905	1053.7984	38359.0	47711.0	Pipistrellus nathusii	0.487	0.561	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+1053.8885	1053.8972	40937.0	55612.0	Pipistrellus nathusii	0.51	0.624	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+1053.9905	1053.9999	40078.0	47485.0	Pipistrellus nathusii	0.471	0.539	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+1054.0915	1054.0999	40937.0	51257.0	Pipistrellus nathusii	0.451	0.538	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+1054.1935	1054.2014	40937.0	48997.0	Pipistrellus nathusii	0.443	0.519	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+1054.2965	1054.3073	39218.0	55401.0	Pipistrellus nathusii	0.445	0.525	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+1054.6995	1054.7092	40937.0	55625.0	Pipistrellus nathusii	0.465	0.535	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+1054.7875	1054.7954	40078.0	57969.0	Pipistrellus nathusii	0.454	0.534	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+1054.8775	1054.8878	40937.0	51776.0	Pipistrellus nathusii	0.453	0.503	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+1055.1755	1055.1836	40078.0	50797.0	Pipistrellus nathusii	0.398	0.505	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+1056.8125	1056.8216	39218.0	46252.0	Pipistrellus nathusii	0.455	0.543	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+1084.2065	1084.2216	24609.0	30099.0	Nyctalus leisleri	0.362	0.504	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+1085.9145	1085.9313	24609.0	28342.0	Nyctalus leisleri	0.434	0.556	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+1087.8815	1087.8956	27187.0	37774.0	Eptesicus serotinus	0.275	0.51	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+1087.9765	1087.9901	27187.0	36778.0	Eptesicus serotinus	0.352	0.509	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+1088.1245	1088.1368	27187.0	37459.0	Nyctalus leisleri	0.337	0.569	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+1088.6275	1088.6446	24609.0	29927.0	Nyctalus leisleri	0.345	0.531	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+1089.0285	1089.0468	23750.0	28578.0	Nyctalus leisleri	0.416	0.518	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+1089.3005	1089.3167	24609.0	28243.0	Nyctalus leisleri	0.578	0.625	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+1089.7085	1089.727	24609.0	27682.0	Nyctalus leisleri	0.427	0.511	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+1089.9845	1090.0	25468.0	28858.0	Nyctalus leisleri	0.478	0.553	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+1090.2555	1090.2743	24609.0	27898.0	Nyctalus leisleri	0.444	0.513	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+1090.9365	1090.9533	23750.0	28020.0	Nyctalus leisleri	0.546	0.614	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+1091.0535	1091.0649	26328.0	38276.0	Nyctalus leisleri	0.346	0.663	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+1091.1945	1091.2102	25468.0	34190.0	Eptesicus serotinus	0.328	0.603	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+1091.3555	1091.3708	24609.0	31930.0	Eptesicus serotinus	0.273	0.553	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+1092.3135	1092.3354	23750.0	27330.0	Nyctalus leisleri	0.521	0.585	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+1092.8535	1092.8735	24609.0	27117.0	Nyctalus leisleri	0.45	0.506	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+1094.2475	1094.2687	23750.0	27424.0	Nyctalus leisleri	0.48	0.546	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+1094.6535	1094.6705	23750.0	27669.0	Nyctalus leisleri	0.546	0.635	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+1095.0575	1095.075	23750.0	26781.0	Nyctalus leisleri	0.474	0.561	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+1095.4655	1095.4818	23750.0	26538.0	Nyctalus leisleri	0.578	0.639	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+1095.8745	1095.8933	23750.0	27213.0	Nyctalus leisleri	0.477	0.567	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+1096.2835	1096.3014	23750.0	26784.0	Nyctalus leisleri	0.556	0.603	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+1096.5865	1096.606	23750.0	27293.0	Nyctalus leisleri	0.505	0.579	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+1096.9835	1097.0034	23750.0	26947.0	Nyctalus leisleri	0.457	0.507	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+1097.3945	1097.4126	23750.0	27121.0	Nyctalus leisleri	0.519	0.594	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+1098.2115	1098.2279	23750.0	27380.0	Nyctalus leisleri	0.545	0.617	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+1261.5725	1261.5886	25468.0	28825.0	Nyctalus leisleri	0.495	0.586	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+1263.0075	1263.0205	24609.0	29738.0	Nyctalus leisleri	0.394	0.584	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+1271.8815	1271.891	39218.0	47226.0	Pipistrellus nathusii	0.455	0.571	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+1272.0795	1272.0891	39218.0	45989.0	Pipistrellus nathusii	0.459	0.508	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+1273.0595	1273.0686	39218.0	45963.0	Pipistrellus nathusii	0.481	0.535	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+1273.5665	1273.5765	38359.0	46668.0	Pipistrellus nathusii	0.462	0.532	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+1273.9565	1273.9655	39218.0	47322.0	Pipistrellus nathusii	0.487	0.621	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+1274.1565	1274.1652	38359.0	46019.0	Pipistrellus nathusii	0.517	0.559	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+1274.5595	1274.5682	37500.0	48265.0	Pipistrellus nathusii	0.625	0.682	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+1274.6575	1274.6672	38359.0	49057.0	Pipistrellus nathusii	0.554	0.632	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+1274.7615	1274.7705	39218.0	49716.0	Pipistrellus nathusii	0.507	0.558	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+1275.2715	1275.2795	38359.0	48686.0	Pipistrellus nathusii	0.537	0.573	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+1275.5935	1275.6036	37500.0	44850.0	Pipistrellus nathusii	0.532	0.576	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+1275.6975	1275.708	37500.0	44150.0	Pipistrellus nathusii	0.496	0.534	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+1275.9885	1275.9983	39218.0	45991.0	Pipistrellus nathusii	0.48	0.52	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+1276.3215	1276.3292	39218.0	46414.0	Pipistrellus nathusii	0.454	0.508	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+1276.8485	1276.8567	39218.0	44899.0	Pipistrellus nathusii	0.454	0.52	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+1277.1265	1277.1368	39218.0	46146.0	Pipistrellus nathusii	0.537	0.58	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+1277.2285	1277.2387	39218.0	46162.0	Pipistrellus nathusii	0.495	0.505	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+1277.2655	1277.2741	38359.0	46621.0	Pipistrellus nathusii	0.458	0.556	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+1277.4485	1277.4593	39218.0	47610.0	Pipistrellus nathusii	0.487	0.571	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+1277.5995	1277.6085	38359.0	47459.0	Pipistrellus nathusii	0.581	0.618	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+1277.6465	1277.6559	39218.0	46652.0	Pipistrellus nathusii	0.488	0.512	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+1277.8515	1277.8612	40078.0	46162.0	Pipistrellus nathusii	0.483	0.515	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+1277.9545	1277.9654	39218.0	46810.0	Pipistrellus nathusii	0.491	0.539	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+1278.1355	1278.1426	38359.0	46390.0	Pipistrellus nathusii	0.546	0.586	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+1278.1545	1278.1644	40078.0	47574.0	Pipistrellus nathusii	0.497	0.522	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+1278.2625	1278.272	39218.0	46897.0	Pipistrellus nathusii	0.559	0.615	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+1278.4545	1278.4636	40078.0	48406.0	Pipistrellus nathusii	0.578	0.61	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+1278.6565	1278.6674	40078.0	51601.0	Pipistrellus nathusii	0.485	0.575	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+1278.7505	1278.7611	39218.0	50520.0	Pipistrellus nathusii	0.511	0.561	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+1278.8475	1278.8574	40078.0	50505.0	Pipistrellus nathusii	0.526	0.557	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+1278.9425	1278.9538	39218.0	50273.0	Pipistrellus nathusii	0.474	0.512	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+1279.0295	1279.0407	38359.0	48725.0	Pipistrellus nathusii	0.484	0.545	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+1279.1225	1279.1337	37500.0	47972.0	Pipistrellus nathusii	0.489	0.558	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+1279.2095	1279.22	40078.0	51776.0	Pipistrellus nathusii	0.499	0.555	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+1279.3145	1279.3252	38359.0	46881.0	Pipistrellus nathusii	0.487	0.505	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+1279.5025	1279.5135	40078.0	55178.0	Pipistrellus nathusii	0.482	0.564	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+1279.7105	1279.7201	38359.0	47055.0	Pipistrellus nathusii	0.597	0.645	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+1279.8055	1279.816	40078.0	53465.0	Pipistrellus nathusii	0.554	0.616	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+1279.9105	1279.9188	40078.0	47198.0	Pipistrellus nathusii	0.635	0.655	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+1280.0145	1280.0249	40078.0	52218.0	Pipistrellus nathusii	0.526	0.616	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+1280.1185	1280.1287	40078.0	45856.0	Pipistrellus nathusii	0.518	0.542	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+1280.2235	1280.2333	40078.0	55153.0	Pipistrellus nathusii	0.593	0.635	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+1280.3215	1280.3318	40078.0	55112.0	Pipistrellus nathusii	0.563	0.649	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+1280.4145	1280.4249	39218.0	56843.0	Pipistrellus nathusii	0.449	0.542	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+1280.6245	1280.6351	40078.0	50961.0	Pipistrellus nathusii	0.516	0.541	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+1280.8335	1280.8444	39218.0	52352.0	Pipistrellus nathusii	0.537	0.59	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+1280.9425	1280.9541	40078.0	45461.0	Pipistrellus nathusii	0.538	0.547	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+1281.0435	1281.0538	40078.0	52826.0	Pipistrellus nathusii	0.619	0.647	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+1281.1295	1281.1379	40937.0	52077.0	Pipistrellus nathusii	0.547	0.568	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+1281.2325	1281.2412	39218.0	46701.0	Pipistrellus nathusii	0.491	0.516	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+1281.3255	1281.3354	40078.0	52242.0	Pipistrellus nathusii	0.552	0.642	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+1281.4215	1281.4339	38359.0	46849.0	Pipistrellus nathusii	0.465	0.517	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+1281.5195	1281.5299	39218.0	55021.0	Pipistrellus nathusii	0.556	0.623	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+1281.6195	1281.629	39218.0	52612.0	Pipistrellus nathusii	0.62	0.663	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+1281.7295	1281.7399	39218.0	49952.0	Pipistrellus nathusii	0.539	0.595	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+1281.8315	1281.8418	39218.0	52814.0	Pipistrellus nathusii	0.603	0.649	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+1281.9345	1281.9424	38359.0	48587.0	Pipistrellus nathusii	0.52	0.559	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+1282.0305	1282.0395	39218.0	51296.0	Pipistrellus nathusii	0.584	0.62	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+1282.2315	1282.241	39218.0	52602.0	Pipistrellus nathusii	0.508	0.62	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+1282.3335	1282.3433	40078.0	51529.0	Pipistrellus nathusii	0.553	0.616	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+1282.5395	1282.5495	40078.0	49730.0	Pipistrellus nathusii	0.496	0.572	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+1282.8485	1282.8579	40078.0	50401.0	Pipistrellus nathusii	0.591	0.629	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+1283.0625	1283.0733	40078.0	47466.0	Pipistrellus nathusii	0.507	0.535	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+1283.1665	1283.1766	40078.0	49724.0	Pipistrellus nathusii	0.493	0.549	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+1283.6905	1283.7	40937.0	47088.0	Pipistrellus nathusii	0.507	0.518	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+1283.8605	1283.8702	40078.0	50011.0	Pipistrellus nathusii	0.483	0.58	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+1283.8925	1283.9019	40937.0	50937.0	Pipistrellus nathusii	0.603	0.663	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+1284.0055	1284.0139	41796.0	50095.0	Pipistrellus nathusii	0.526	0.593	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+1284.2125	1284.2228	40937.0	48388.0	Pipistrellus nathusii	0.557	0.636	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+1284.5105	1284.5206	40937.0	51614.0	Pipistrellus nathusii	0.575	0.618	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+1284.7255	1284.7334	40937.0	50306.0	Pipistrellus nathusii	0.662	0.685	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+1284.9405	1284.9537	40937.0	50355.0	Pipistrellus nathusii	0.448	0.534	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+1285.4635	1285.4726	40078.0	47882.0	Pipistrellus nathusii	0.631	0.675	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+1285.6665	1285.6764	40078.0	47980.0	Pipistrellus nathusii	0.546	0.624	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+1285.9775	1285.9867	40078.0	48009.0	Pipistrellus nathusii	0.547	0.567	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+1286.0915	1286.1004	40078.0	45798.0	Pipistrellus nathusii	0.472	0.526	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+1499.8285	1499.8374	41796.0	48505.0	Pipistrellus nathusii	0.443	0.527	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+1499.9235	1499.9313	40078.0	49655.0	Pipistrellus nathusii	0.486	0.526	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+1500.0465	1500.0529	39218.0	57531.0	Pipistrellus nathusii	0.354	0.533	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+1501.4945	1501.5014	40078.0	60132.0	Pipistrellus nathusii	0.427	0.501	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+1501.6835	1501.693	40078.0	60449.0	Pipistrellus nathusii	0.368	0.522	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+1501.7755	1501.7838	40937.0	57352.0	Pipistrellus nathusii	0.361	0.51	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+1501.9685	1501.9771	37500.0	58948.0	Pipistrellus nathusii	0.431	0.556	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+1502.0545	1502.0629	37500.0	52034.0	Pipistrellus nathusii	0.435	0.524	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+1502.1535	1502.1604	39218.0	55628.0	Pipistrellus nathusii	0.572	0.612	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+1502.2475	1502.2562	40078.0	49526.0	Pipistrellus nathusii	0.558	0.606	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+1502.3455	1502.3528	39218.0	55401.0	Pipistrellus nathusii	0.549	0.587	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+1502.5385	1502.5469	38359.0	57948.0	Pipistrellus nathusii	0.558	0.659	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+1502.6325	1502.6408	40078.0	48828.0	Pipistrellus nathusii	0.516	0.584	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+1502.7305	1502.7389	38359.0	53505.0	Pipistrellus nathusii	0.595	0.649	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+1502.8245	1502.8323	40078.0	47895.0	Pipistrellus nathusii	0.442	0.513	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+1502.9235	1502.932	39218.0	54177.0	Pipistrellus nathusii	0.565	0.615	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+1503.1215	1503.13	38359.0	54403.0	Pipistrellus nathusii	0.428	0.557	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+1503.3125	1503.3212	38359.0	47831.0	Pipistrellus nathusii	0.53	0.618	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+1503.7005	1503.7085	39218.0	50286.0	Pipistrellus nathusii	0.419	0.519	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+1503.8945	1503.9047	39218.0	48577.0	Pipistrellus nathusii	0.501	0.55	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+1504.0915	1504.1012	38359.0	45767.0	Pipistrellus nathusii	0.54	0.565	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+1535.8145	1535.838	16875.0	20329.0	Nyctalus leisleri	0.274	0.552	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+1536.2085	1536.2213	19453.0	25976.0	Nyctalus noctula	0.459	0.631	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+1536.6325	1536.6429	22031.0	29387.0	Nyctalus noctula	0.352	0.564	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+1537.0555	1537.0655	21171.0	29259.0	Nyctalus noctula	0.365	0.571	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+1537.3465	1537.3563	20312.0	28303.0	Nyctalus noctula	0.38	0.589	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+1537.6905	1537.7014	19453.0	26289.0	Nyctalus noctula	0.438	0.61	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+1630.8985	1630.9081	43515.0	49360.0	Pipistrellus pipistrellus	0.317	0.51	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+1636.5625	1636.5707	44375.0	57442.0	Pipistrellus pipistrellus	0.538	0.639	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
+1637.6085	1637.6158	44375.0	51902.0	Pipistrellus pipistrellus	0.476	0.513	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond		
