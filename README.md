@@ -18,3 +18,6 @@ Folders:
 - analysis
     - notebooks
     - scripts
+
+
+<img width="891" alt="image" src="https://github.com/uw-echospace/bat-detector-validation/assets/102640018/d036fb64-b626-42fa-9007-36b63f03f9b1">
