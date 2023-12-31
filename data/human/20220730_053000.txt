@@ -1,0 +1,1345 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	class	class_prob	det_prob	individual	event	input_file	Site name	Recover Folder	SD Card	confidency
+1	Waveform 1	1	231.277500000	231.289100000	25468.000	30247.000	Nyctalus leisleri	0.359	0.592	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+1	Spectrogram 1	1	231.277500000	231.289100000	25468.000	30247.000	Nyctalus leisleri	0.359	0.592	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+2	Waveform 1	1	231.651500000	231.663500000	24609.000	29885.000	Nyctalus leisleri	0.297	0.598	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+2	Spectrogram 1	1	231.651500000	231.663500000	24609.000	29885.000	Nyctalus leisleri	0.297	0.598	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+3	Waveform 1	1	231.931500000	231.945900000	24609.000	29998.000	Nyctalus leisleri	0.34	0.545	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+3	Spectrogram 1	1	231.931500000	231.945900000	24609.000	29998.000	Nyctalus leisleri	0.34	0.545	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+4	Waveform 1	1	232.401500000	232.420600000	24609.000	29436.000	Nyctalus leisleri	0.309	0.53	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+4	Spectrogram 1	1	232.401500000	232.420600000	24609.000	29436.000	Nyctalus leisleri	0.309	0.53	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+5	Waveform 1	1	232.713500000	232.730200000	23750.000	28253.000	Nyctalus leisleri	0.411	0.555	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+5	Spectrogram 1	1	232.713500000	232.730200000	23750.000	28253.000	Nyctalus leisleri	0.411	0.555	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+6	Waveform 1	1	233.144500000	233.160900000	23750.000	29353.000	Nyctalus leisleri	0.381	0.618	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+6	Spectrogram 1	1	233.144500000	233.160900000	23750.000	29353.000	Nyctalus leisleri	0.381	0.618	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+7	Waveform 1	1	233.301500000	233.312300000	26328.000	34940.000	Eptesicus serotinus	0.346	0.641	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+7	Spectrogram 1	1	233.301500000	233.312300000	26328.000	34940.000	Eptesicus serotinus	0.346	0.641	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+8	Waveform 1	1	233.473500000	233.485300000	25468.000	33041.000	Eptesicus serotinus	0.294	0.56	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+8	Spectrogram 1	1	233.473500000	233.485300000	25468.000	33041.000	Eptesicus serotinus	0.294	0.56	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+9	Waveform 1	1	233.724500000	233.741000000	23750.000	27728.000	Nyctalus leisleri	0.487	0.624	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+9	Spectrogram 1	1	233.724500000	233.741000000	23750.000	27728.000	Nyctalus leisleri	0.487	0.624	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+10	Waveform 1	1	234.424500000	234.438700000	24609.000	28987.000	Nyctalus leisleri	0.392	0.529	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+10	Spectrogram 1	1	234.424500000	234.438700000	24609.000	28987.000	Nyctalus leisleri	0.392	0.529	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+11	Waveform 1	1	234.715500000	234.730200000	23750.000	27984.000	Nyctalus leisleri	0.583	0.678	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+11	Spectrogram 1	1	234.715500000	234.730200000	23750.000	27984.000	Nyctalus leisleri	0.583	0.678	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+12	Waveform 1	1	235.011500000	235.027900000	23750.000	28596.000	Nyctalus leisleri	0.467	0.599	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+12	Spectrogram 1	1	235.011500000	235.027900000	23750.000	28596.000	Nyctalus leisleri	0.467	0.599	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+13	Waveform 1	1	235.424500000	235.441400000	23750.000	28145.000	Nyctalus leisleri	0.389	0.532	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+13	Spectrogram 1	1	235.424500000	235.441400000	23750.000	28145.000	Nyctalus leisleri	0.389	0.532	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+14	Waveform 1	1	235.691500000	235.708400000	23750.000	27737.000	Nyctalus leisleri	0.53	0.6	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+14	Spectrogram 1	1	235.691500000	235.708400000	23750.000	27737.000	Nyctalus leisleri	0.53	0.6	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+15	Waveform 1	1	236.254500000	236.269100000	23750.000	29636.000	Nyctalus leisleri	0.408	0.601	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+15	Spectrogram 1	1	236.254500000	236.269100000	23750.000	29636.000	Nyctalus leisleri	0.408	0.601	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+16	Waveform 1	1	236.553500000	236.568400000	24609.000	27776.000	Nyctalus leisleri	0.498	0.59	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+16	Spectrogram 1	1	236.553500000	236.568400000	24609.000	27776.000	Nyctalus leisleri	0.498	0.59	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+17	Waveform 1	1	236.853500000	236.870100000	24609.000	28802.000	Nyctalus leisleri	0.467	0.551	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+17	Spectrogram 1	1	236.853500000	236.870100000	24609.000	28802.000	Nyctalus leisleri	0.467	0.551	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+18	Waveform 1	1	237.134500000	237.153600000	23750.000	28013.000	Nyctalus leisleri	0.394	0.51	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+18	Spectrogram 1	1	237.134500000	237.153600000	23750.000	28013.000	Nyctalus leisleri	0.394	0.51	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+19	Waveform 1	1	237.548500000	237.567400000	23750.000	29181.000	Nyctalus leisleri	0.353	0.532	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+19	Spectrogram 1	1	237.548500000	237.567400000	23750.000	29181.000	Nyctalus leisleri	0.353	0.532	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+20	Waveform 1	1	237.863500000	237.878600000	24609.000	30245.000	Nyctalus leisleri	0.441	0.644	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+20	Spectrogram 1	1	237.863500000	237.878600000	24609.000	30245.000	Nyctalus leisleri	0.441	0.644	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+21	Waveform 1	1	240.237500000	240.250100000	25468.000	30763.000	Nyctalus leisleri	0.498	0.617	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+21	Spectrogram 1	1	240.237500000	240.250100000	25468.000	30763.000	Nyctalus leisleri	0.498	0.617	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+22	Waveform 1	1	240.381500000	240.396300000	24609.000	30835.000	Nyctalus leisleri	0.318	0.552	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+22	Spectrogram 1	1	240.381500000	240.396300000	24609.000	30835.000	Nyctalus leisleri	0.318	0.552	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+23	Waveform 1	1	240.630500000	240.645700000	24609.000	31416.000	Nyctalus leisleri	0.322	0.627	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+23	Spectrogram 1	1	240.630500000	240.645700000	24609.000	31416.000	Nyctalus leisleri	0.322	0.627	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+24	Waveform 1	1	240.898500000	240.915300000	24609.000	28495.000	Nyctalus leisleri	0.398	0.503	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+24	Spectrogram 1	1	240.898500000	240.915300000	24609.000	28495.000	Nyctalus leisleri	0.398	0.503	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+25	Waveform 1	1	241.088500000	241.102500000	24609.000	31132.000	Nyctalus leisleri	0.36	0.657	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+25	Spectrogram 1	1	241.088500000	241.102500000	24609.000	31132.000	Nyctalus leisleri	0.36	0.657	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+26	Waveform 1	1	241.380500000	241.395500000	24609.000	30131.000	Nyctalus leisleri	0.429	0.606	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+26	Spectrogram 1	1	241.380500000	241.395500000	24609.000	30131.000	Nyctalus leisleri	0.429	0.606	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+27	Waveform 1	1	241.672500000	241.690100000	23750.000	26757.000	Nyctalus leisleri	0.512	0.569	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+27	Spectrogram 1	1	241.672500000	241.690100000	23750.000	26757.000	Nyctalus leisleri	0.512	0.569	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+28	Waveform 1	1	242.384500000	242.401700000	23750.000	26712.000	Nyctalus leisleri	0.543	0.594	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+28	Spectrogram 1	1	242.384500000	242.401700000	23750.000	26712.000	Nyctalus leisleri	0.543	0.594	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+29	Waveform 1	1	242.668500000	242.684800000	24609.000	27844.000	Nyctalus leisleri	0.544	0.656	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+29	Spectrogram 1	1	242.668500000	242.684800000	24609.000	27844.000	Nyctalus leisleri	0.544	0.656	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+30	Waveform 1	1	252.555500000	252.563200000	40937.000	50016.000	Pipistrellus nathusii	0.555	0.595	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+30	Spectrogram 1	1	252.555500000	252.563200000	40937.000	50016.000	Pipistrellus nathusii	0.555	0.595	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+31	Waveform 1	1	252.658500000	252.665600000	40078.000	48433.000	Pipistrellus nathusii	0.532	0.557	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+31	Spectrogram 1	1	252.658500000	252.665600000	40078.000	48433.000	Pipistrellus nathusii	0.532	0.557	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+32	Waveform 1	1	252.755500000	252.764700000	40078.000	51122.000	Pipistrellus nathusii	0.548	0.596	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+32	Spectrogram 1	1	252.755500000	252.764700000	40078.000	51122.000	Pipistrellus nathusii	0.548	0.596	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+33	Waveform 1	1	252.846500000	252.857100000	40937.000	53130.000	Pipistrellus nathusii	0.47	0.56	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+33	Spectrogram 1	1	252.846500000	252.857100000	40937.000	53130.000	Pipistrellus nathusii	0.47	0.56	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+34	Waveform 1	1	252.950500000	252.958700000	39218.000	47468.000	Pipistrellus nathusii	0.523	0.581	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+34	Spectrogram 1	1	252.950500000	252.958700000	39218.000	47468.000	Pipistrellus nathusii	0.523	0.581	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+35	Waveform 1	1	253.045500000	253.053800000	40937.000	51895.000	Pipistrellus nathusii	0.572	0.62	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+35	Spectrogram 1	1	253.045500000	253.053800000	40937.000	51895.000	Pipistrellus nathusii	0.572	0.62	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+36	Waveform 1	1	253.145500000	253.154600000	40078.000	48459.000	Pipistrellus nathusii	0.489	0.567	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+36	Spectrogram 1	1	253.145500000	253.154600000	40078.000	48459.000	Pipistrellus nathusii	0.489	0.567	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+37	Waveform 1	1	253.240500000	253.249000000	40937.000	51251.000	Pipistrellus nathusii	0.521	0.627	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+37	Spectrogram 1	1	253.240500000	253.249000000	40937.000	51251.000	Pipistrellus nathusii	0.521	0.627	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+38	Waveform 1	1	253.321500000	253.329700000	41796.000	53083.000	Pipistrellus nathusii	0.517	0.643	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+38	Spectrogram 1	1	253.321500000	253.329700000	41796.000	53083.000	Pipistrellus nathusii	0.517	0.643	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+39	Waveform 1	1	253.464500000	253.471900000	41796.000	54389.000	Pipistrellus nathusii	0.525	0.643	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+39	Spectrogram 1	1	253.464500000	253.471900000	41796.000	54389.000	Pipistrellus nathusii	0.525	0.643	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+40	Waveform 1	1	253.559500000	253.567500000	40937.000	51004.000	Pipistrellus nathusii	0.531	0.629	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+40	Spectrogram 1	1	253.559500000	253.567500000	40937.000	51004.000	Pipistrellus nathusii	0.531	0.629	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+41	Waveform 1	1	253.647500000	253.657300000	40078.000	54085.000	Pipistrellus nathusii	0.519	0.61	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+41	Spectrogram 1	1	253.647500000	253.657300000	40078.000	54085.000	Pipistrellus nathusii	0.519	0.61	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+42	Waveform 1	1	253.743500000	253.752800000	40078.000	54142.000	Pipistrellus nathusii	0.504	0.534	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+42	Spectrogram 1	1	253.743500000	253.752800000	40078.000	54142.000	Pipistrellus nathusii	0.504	0.534	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+43	Waveform 1	1	253.925500000	253.933700000	40937.000	52096.000	Pipistrellus nathusii	0.485	0.583	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+43	Spectrogram 1	1	253.925500000	253.933700000	40937.000	52096.000	Pipistrellus nathusii	0.485	0.583	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+44	Waveform 1	1	254.026500000	254.033800000	39218.000	47371.000	Pipistrellus nathusii	0.523	0.566	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+44	Spectrogram 1	1	254.026500000	254.033800000	39218.000	47371.000	Pipistrellus nathusii	0.523	0.566	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+45	Waveform 1	1	254.199500000	254.208400000	40937.000	54457.000	Pipistrellus nathusii	0.667	0.702	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+45	Spectrogram 1	1	254.199500000	254.208400000	40937.000	54457.000	Pipistrellus nathusii	0.667	0.702	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+46	Waveform 1	1	254.392500000	254.400600000	40937.000	55139.000	Pipistrellus nathusii	0.589	0.644	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+46	Spectrogram 1	1	254.392500000	254.400600000	40937.000	55139.000	Pipistrellus nathusii	0.589	0.644	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+47	Waveform 1	1	254.576500000	254.586700000	40078.000	48861.000	Pipistrellus nathusii	0.51	0.581	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+47	Spectrogram 1	1	254.576500000	254.586700000	40078.000	48861.000	Pipistrellus nathusii	0.51	0.581	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+48	Waveform 1	1	254.660500000	254.670400000	40078.000	51685.000	Pipistrellus nathusii	0.518	0.569	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+48	Spectrogram 1	1	254.660500000	254.670400000	40078.000	51685.000	Pipistrellus nathusii	0.518	0.569	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+49	Waveform 1	1	254.754500000	254.762800000	39218.000	49206.000	Pipistrellus nathusii	0.536	0.598	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+49	Spectrogram 1	1	254.754500000	254.762800000	39218.000	49206.000	Pipistrellus nathusii	0.536	0.598	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+50	Waveform 1	1	254.837500000	254.845000000	40078.000	54538.000	Pipistrellus nathusii	0.531	0.596	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+50	Spectrogram 1	1	254.837500000	254.845000000	40078.000	54538.000	Pipistrellus nathusii	0.531	0.596	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+51	Waveform 1	1	254.939500000	254.947200000	38359.000	48039.000	Pipistrellus nathusii	0.455	0.507	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+51	Spectrogram 1	1	254.939500000	254.947200000	38359.000	48039.000	Pipistrellus nathusii	0.455	0.507	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+52	Waveform 1	1	255.035500000	255.043300000	39218.000	53627.000	Pipistrellus nathusii	0.592	0.64	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+52	Spectrogram 1	1	255.035500000	255.043300000	39218.000	53627.000	Pipistrellus nathusii	0.592	0.64	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+53	Waveform 1	1	255.130500000	255.139000000	40078.000	51845.000	Pipistrellus nathusii	0.545	0.613	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+53	Spectrogram 1	1	255.130500000	255.139000000	40078.000	51845.000	Pipistrellus nathusii	0.545	0.613	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+54	Waveform 1	1	255.223500000	255.233800000	40078.000	53638.000	Pipistrellus nathusii	0.567	0.646	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+54	Spectrogram 1	1	255.223500000	255.233800000	40078.000	53638.000	Pipistrellus nathusii	0.567	0.646	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+55	Waveform 1	1	255.402500000	255.411600000	40937.000	51002.000	Pipistrellus nathusii	0.457	0.537	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+55	Spectrogram 1	1	255.402500000	255.411600000	40937.000	51002.000	Pipistrellus nathusii	0.457	0.537	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+56	Waveform 1	1	255.781500000	255.791000000	41796.000	48534.000	Pipistrellus nathusii	0.515	0.541	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+56	Spectrogram 1	1	255.781500000	255.791000000	41796.000	48534.000	Pipistrellus nathusii	0.515	0.541	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+57	Waveform 1	1	255.869500000	255.878100000	40937.000	50125.000	Pipistrellus nathusii	0.474	0.517	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+57	Spectrogram 1	1	255.869500000	255.878100000	40937.000	50125.000	Pipistrellus nathusii	0.474	0.517	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+58	Waveform 1	1	256.051500000	256.060300000	40078.000	49398.000	Pipistrellus nathusii	0.513	0.576	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+58	Spectrogram 1	1	256.051500000	256.060300000	40078.000	49398.000	Pipistrellus nathusii	0.513	0.576	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+59	Waveform 1	1	256.434500000	256.443500000	40078.000	50093.000	Pipistrellus nathusii	0.546	0.644	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+59	Spectrogram 1	1	256.434500000	256.443500000	40078.000	50093.000	Pipistrellus nathusii	0.546	0.644	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+60	Waveform 1	1	257.697500000	257.704700000	39218.000	45825.000	Pipistrellus nathusii	0.41	0.523	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+60	Spectrogram 1	1	257.697500000	257.704700000	39218.000	45825.000	Pipistrellus nathusii	0.41	0.523	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+61	Waveform 1	1	258.374500000	258.382100000	40937.000	53887.000	Pipistrellus nathusii	0.473	0.532	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+61	Spectrogram 1	1	258.374500000	258.382100000	40937.000	53887.000	Pipistrellus nathusii	0.473	0.532	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+62	Waveform 1	1	258.860500000	258.869500000	40937.000	49710.000	Pipistrellus nathusii	0.515	0.571	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+62	Spectrogram 1	1	258.860500000	258.869500000	40937.000	49710.000	Pipistrellus nathusii	0.515	0.571	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+63	Waveform 1	1	259.052500000	259.061900000	40937.000	49845.000	Pipistrellus nathusii	0.585	0.653	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+63	Spectrogram 1	1	259.052500000	259.061900000	40937.000	49845.000	Pipistrellus nathusii	0.585	0.653	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+64	Waveform 1	1	259.138500000	259.147300000	41796.000	51198.000	Pipistrellus nathusii	0.531	0.595	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+64	Spectrogram 1	1	259.138500000	259.147300000	41796.000	51198.000	Pipistrellus nathusii	0.531	0.595	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+65	Waveform 1	1	259.230500000	259.242500000	41796.000	51715.000	Pipistrellus nathusii	0.46	0.516	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+65	Spectrogram 1	1	259.230500000	259.242500000	41796.000	51715.000	Pipistrellus nathusii	0.46	0.516	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+66	Waveform 1	1	259.538500000	259.549900000	41796.000	51842.000	Pipistrellus nathusii	0.485	0.534	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+66	Spectrogram 1	1	259.538500000	259.549900000	41796.000	51842.000	Pipistrellus nathusii	0.485	0.534	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+67	Waveform 1	1	259.625500000	259.637400000	41796.000	58209.000	Pipistrellus nathusii	0.475	0.556	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+67	Spectrogram 1	1	259.625500000	259.637400000	41796.000	58209.000	Pipistrellus nathusii	0.475	0.556	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+68	Waveform 1	1	260.628500000	260.637900000	44375.000	56423.000	Pipistrellus pipistrellus	0.289	0.518	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+68	Spectrogram 1	1	260.628500000	260.637900000	44375.000	56423.000	Pipistrellus pipistrellus	0.289	0.518	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+69	Waveform 1	1	260.708500000	260.717000000	42656.000	53097.000	Pipistrellus nathusii	0.221	0.545	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+69	Spectrogram 1	1	260.708500000	260.717000000	42656.000	53097.000	Pipistrellus nathusii	0.221	0.545	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+70	Waveform 1	1	260.949500000	260.958300000	42656.000	61119.000	Pipistrellus nathusii	0.181	0.505	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+70	Spectrogram 1	1	260.949500000	260.958300000	42656.000	61119.000	Pipistrellus nathusii	0.181	0.505	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+71	Waveform 1	1	261.318500000	261.329200000	40937.000	61482.000	Pipistrellus pipistrellus	0.185	0.511	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+71	Spectrogram 1	1	261.318500000	261.329200000	40937.000	61482.000	Pipistrellus pipistrellus	0.185	0.511	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+72	Waveform 1	1	261.409500000	261.418400000	43515.000	51622.000	Pipistrellus pipistrellus	0.273	0.544	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+72	Spectrogram 1	1	261.409500000	261.418400000	43515.000	51622.000	Pipistrellus pipistrellus	0.273	0.544	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+73	Waveform 1	1	261.542500000	261.551200000	41796.000	59162.000	Pipistrellus nathusii	0.323	0.535	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+73	Spectrogram 1	1	261.542500000	261.551200000	41796.000	59162.000	Pipistrellus nathusii	0.323	0.535	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+74	Waveform 1	1	261.732500000	261.742500000	40078.000	58058.000	Pipistrellus nathusii	0.345	0.523	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+74	Spectrogram 1	1	261.732500000	261.742500000	40078.000	58058.000	Pipistrellus nathusii	0.345	0.523	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+75	Waveform 1	1	262.255500000	262.265100000	38359.000	51251.000	Pipistrellus nathusii	0.485	0.518	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+75	Spectrogram 1	1	262.255500000	262.265100000	38359.000	51251.000	Pipistrellus nathusii	0.485	0.518	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+76	Waveform 1	1	262.356500000	262.366700000	39218.000	56400.000	Pipistrellus nathusii	0.527	0.582	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+76	Spectrogram 1	1	262.356500000	262.366700000	39218.000	56400.000	Pipistrellus nathusii	0.527	0.582	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+77	Waveform 1	1	262.463500000	262.472400000	38359.000	50532.000	Pipistrellus nathusii	0.481	0.529	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+77	Spectrogram 1	1	262.463500000	262.472400000	38359.000	50532.000	Pipistrellus nathusii	0.481	0.529	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+78	Waveform 1	1	262.562500000	262.572000000	39218.000	53992.000	Pipistrellus nathusii	0.563	0.606	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+78	Spectrogram 1	1	262.562500000	262.572000000	39218.000	53992.000	Pipistrellus nathusii	0.563	0.606	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+79	Waveform 1	1	262.651500000	262.659800000	39218.000	55912.000	Pipistrellus nathusii	0.618	0.689	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+79	Spectrogram 1	1	262.651500000	262.659800000	39218.000	55912.000	Pipistrellus nathusii	0.618	0.689	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+80	Waveform 1	1	262.760500000	262.769900000	38359.000	51594.000	Pipistrellus nathusii	0.528	0.627	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+80	Spectrogram 1	1	262.760500000	262.769900000	38359.000	51594.000	Pipistrellus nathusii	0.528	0.627	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+81	Waveform 1	1	262.861500000	262.870600000	39218.000	56707.000	Pipistrellus nathusii	0.628	0.69	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+81	Spectrogram 1	1	262.861500000	262.870600000	39218.000	56707.000	Pipistrellus nathusii	0.628	0.69	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+82	Waveform 1	1	262.963500000	262.972900000	38359.000	52759.000	Pipistrellus nathusii	0.566	0.619	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+82	Spectrogram 1	1	262.963500000	262.972900000	38359.000	52759.000	Pipistrellus nathusii	0.566	0.619	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+83	Waveform 1	1	263.066500000	263.076400000	38359.000	49928.000	Pipistrellus nathusii	0.499	0.547	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+83	Spectrogram 1	1	263.066500000	263.076400000	38359.000	49928.000	Pipistrellus nathusii	0.499	0.547	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+84	Waveform 1	1	263.277500000	263.286500000	38359.000	53222.000	Pipistrellus nathusii	0.55	0.598	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+84	Spectrogram 1	1	263.277500000	263.286500000	38359.000	53222.000	Pipistrellus nathusii	0.55	0.598	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+85	Waveform 1	1	263.380500000	263.389000000	36640.000	50774.000	Pipistrellus nathusii	0.487	0.557	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+85	Spectrogram 1	1	263.380500000	263.389000000	36640.000	50774.000	Pipistrellus nathusii	0.487	0.557	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+86	Waveform 1	1	263.583500000	263.594300000	39218.000	51736.000	Pipistrellus nathusii	0.484	0.556	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+86	Spectrogram 1	1	263.583500000	263.594300000	39218.000	51736.000	Pipistrellus nathusii	0.484	0.556	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+87	Waveform 1	1	263.888500000	263.898900000	39218.000	51813.000	Pipistrellus nathusii	0.511	0.599	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+87	Spectrogram 1	1	263.888500000	263.898900000	39218.000	51813.000	Pipistrellus nathusii	0.511	0.599	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+88	Waveform 1	1	264.192500000	264.200900000	39218.000	45945.000	Pipistrellus nathusii	0.558	0.621	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+88	Spectrogram 1	1	264.192500000	264.200900000	39218.000	45945.000	Pipistrellus nathusii	0.558	0.621	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+89	Waveform 1	1	316.350500000	316.360100000	41796.000	49194.000	Pipistrellus nathusii	0.448	0.544	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+89	Spectrogram 1	1	316.350500000	316.360100000	41796.000	49194.000	Pipistrellus nathusii	0.448	0.544	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+90	Waveform 1	1	316.721500000	316.729600000	41796.000	51372.000	Pipistrellus nathusii	0.431	0.511	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+90	Spectrogram 1	1	316.721500000	316.729600000	41796.000	51372.000	Pipistrellus nathusii	0.431	0.511	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+91	Waveform 1	1	316.905500000	316.912700000	41796.000	51121.000	Pipistrellus nathusii	0.444	0.537	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+91	Spectrogram 1	1	316.905500000	316.912700000	41796.000	51121.000	Pipistrellus nathusii	0.444	0.537	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+92	Waveform 1	1	317.120500000	317.128500000	41796.000	48861.000	Pipistrellus nathusii	0.56	0.582	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+92	Spectrogram 1	1	317.120500000	317.128500000	41796.000	48861.000	Pipistrellus nathusii	0.56	0.582	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+93	Waveform 1	1	318.131500000	318.139800000	44375.000	52725.000	Pipistrellus pipistrellus	0.423	0.527	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+93	Spectrogram 1	1	318.131500000	318.139800000	44375.000	52725.000	Pipistrellus pipistrellus	0.423	0.527	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+94	Waveform 1	1	318.260500000	318.269400000	45234.000	51840.000	Pipistrellus pipistrellus	0.491	0.521	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+94	Spectrogram 1	1	318.260500000	318.269400000	45234.000	51840.000	Pipistrellus pipistrellus	0.491	0.521	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+95	Waveform 1	1	318.318500000	318.330100000	43515.000	53043.000	Pipistrellus pipistrellus	0.405	0.573	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+95	Spectrogram 1	1	318.318500000	318.330100000	43515.000	53043.000	Pipistrellus pipistrellus	0.405	0.573	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+96	Waveform 1	1	318.380500000	318.390500000	44375.000	59427.000	Pipistrellus pipistrellus	0.383	0.508	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+96	Spectrogram 1	1	318.380500000	318.390500000	44375.000	59427.000	Pipistrellus pipistrellus	0.383	0.508	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+97	Waveform 1	1	318.487500000	318.494700000	43515.000	60367.000	Pipistrellus pipistrellus	0.436	0.582	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+97	Spectrogram 1	1	318.487500000	318.494700000	43515.000	60367.000	Pipistrellus pipistrellus	0.436	0.582	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+98	Waveform 1	1	318.558500000	318.564900000	42656.000	61524.000	Pipistrellus pipistrellus	0.323	0.564	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+98	Spectrogram 1	1	318.558500000	318.564900000	42656.000	61524.000	Pipistrellus pipistrellus	0.323	0.564	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+99	Waveform 1	1	318.645500000	318.656300000	41796.000	59664.000	Pipistrellus pipistrellus	0.255	0.52	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+99	Spectrogram 1	1	318.645500000	318.656300000	41796.000	59664.000	Pipistrellus pipistrellus	0.255	0.52	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+100	Waveform 1	1	318.736500000	318.745700000	42656.000	59535.000	Pipistrellus pipistrellus	0.236	0.565	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+100	Spectrogram 1	1	318.736500000	318.745700000	42656.000	59535.000	Pipistrellus pipistrellus	0.236	0.565	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+101	Waveform 1	1	318.825500000	318.834900000	42656.000	60883.000	Pipistrellus pipistrellus	0.234	0.541	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+101	Spectrogram 1	1	318.825500000	318.834900000	42656.000	60883.000	Pipistrellus pipistrellus	0.234	0.541	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+102	Waveform 1	1	319.050500000	319.057600000	41796.000	62338.000	Pipistrellus pipistrellus	0.291	0.543	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+102	Spectrogram 1	1	319.050500000	319.057600000	41796.000	62338.000	Pipistrellus pipistrellus	0.291	0.543	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+103	Waveform 1	1	319.162500000	319.170200000	42656.000	60471.000	Pipistrellus pipistrellus	0.229	0.504	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+103	Spectrogram 1	1	319.162500000	319.170200000	42656.000	60471.000	Pipistrellus pipistrellus	0.229	0.504	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+104	Waveform 1	1	319.262500000	319.269100000	43515.000	53948.000	Pipistrellus pipistrellus	0.37	0.508	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+104	Spectrogram 1	1	319.262500000	319.269100000	43515.000	53948.000	Pipistrellus pipistrellus	0.37	0.508	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+105	Waveform 1	1	612.006500000	612.013700000	42656.000	49427.000	Pipistrellus nathusii	0.463	0.516	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+105	Spectrogram 1	1	612.006500000	612.013700000	42656.000	49427.000	Pipistrellus nathusii	0.463	0.516	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+106	Waveform 1	1	612.292500000	612.301400000	40937.000	51306.000	Pipistrellus nathusii	0.5	0.625	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+106	Spectrogram 1	1	612.292500000	612.301400000	40937.000	51306.000	Pipistrellus nathusii	0.5	0.625	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+107	Waveform 1	1	612.480500000	612.490100000	40937.000	51855.000	Pipistrellus nathusii	0.463	0.523	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+107	Spectrogram 1	1	612.480500000	612.490100000	40937.000	51855.000	Pipistrellus nathusii	0.463	0.523	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+108	Waveform 1	1	612.580500000	612.587900000	40937.000	50375.000	Pipistrellus nathusii	0.534	0.575	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+108	Spectrogram 1	1	612.580500000	612.587900000	40937.000	50375.000	Pipistrellus nathusii	0.534	0.575	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+109	Waveform 1	1	612.677500000	612.684800000	40937.000	48319.000	Pipistrellus nathusii	0.537	0.578	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+109	Spectrogram 1	1	612.677500000	612.684800000	40937.000	48319.000	Pipistrellus nathusii	0.537	0.578	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+110	Waveform 1	1	612.777500000	612.786000000	40937.000	50912.000	Pipistrellus nathusii	0.479	0.572	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+110	Spectrogram 1	1	612.777500000	612.786000000	40937.000	50912.000	Pipistrellus nathusii	0.479	0.572	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+111	Waveform 1	1	612.867500000	612.875900000	40937.000	51930.000	Pipistrellus nathusii	0.485	0.556	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+111	Spectrogram 1	1	612.867500000	612.875900000	40937.000	51930.000	Pipistrellus nathusii	0.485	0.556	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+112	Waveform 1	1	612.967500000	612.975500000	40937.000	50075.000	Pipistrellus nathusii	0.502	0.591	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+112	Spectrogram 1	1	612.967500000	612.975500000	40937.000	50075.000	Pipistrellus nathusii	0.502	0.591	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+113	Waveform 1	1	613.064500000	613.072700000	40078.000	49865.000	Pipistrellus nathusii	0.46	0.548	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+113	Spectrogram 1	1	613.064500000	613.072700000	40078.000	49865.000	Pipistrellus nathusii	0.46	0.548	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+114	Waveform 1	1	613.158500000	613.166100000	40937.000	50361.000	Pipistrellus nathusii	0.54	0.585	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+114	Spectrogram 1	1	613.158500000	613.166100000	40937.000	50361.000	Pipistrellus nathusii	0.54	0.585	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+115	Waveform 1	1	613.254500000	613.263700000	40078.000	50116.000	Pipistrellus nathusii	0.48	0.55	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+115	Spectrogram 1	1	613.254500000	613.263700000	40078.000	50116.000	Pipistrellus nathusii	0.48	0.55	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+116	Waveform 1	1	613.541500000	613.550700000	41796.000	53461.000	Pipistrellus nathusii	0.461	0.571	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+116	Spectrogram 1	1	613.541500000	613.550700000	41796.000	53461.000	Pipistrellus nathusii	0.461	0.571	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+117	Waveform 1	1	613.835500000	613.844900000	39218.000	47236.000	Pipistrellus nathusii	0.43	0.502	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+117	Spectrogram 1	1	613.835500000	613.844900000	39218.000	47236.000	Pipistrellus nathusii	0.43	0.502	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+118	Waveform 1	1	613.933500000	613.942700000	40078.000	51353.000	Pipistrellus nathusii	0.47	0.582	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+118	Spectrogram 1	1	613.933500000	613.942700000	40078.000	51353.000	Pipistrellus nathusii	0.47	0.582	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+119	Waveform 1	1	614.426500000	614.434400000	40078.000	46931.000	Pipistrellus nathusii	0.407	0.52	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+119	Spectrogram 1	1	614.426500000	614.434400000	40078.000	46931.000	Pipistrellus nathusii	0.407	0.52	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+120	Waveform 1	1	618.408500000	618.415300000	41796.000	50521.000	Pipistrellus nathusii	0.534	0.578	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+120	Spectrogram 1	1	618.408500000	618.415300000	41796.000	50521.000	Pipistrellus nathusii	0.534	0.578	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+121	Waveform 1	1	618.944500000	618.951000000	42656.000	54119.000	Pipistrellus nathusii	0.435	0.518	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+121	Spectrogram 1	1	618.944500000	618.951000000	42656.000	54119.000	Pipistrellus nathusii	0.435	0.518	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+122	Waveform 1	1	619.046500000	619.054900000	40937.000	48788.000	Pipistrellus nathusii	0.543	0.579	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+122	Spectrogram 1	1	619.046500000	619.054900000	40937.000	48788.000	Pipistrellus nathusii	0.543	0.579	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+123	Waveform 1	1	619.224500000	619.232300000	41796.000	53313.000	Pipistrellus nathusii	0.509	0.58	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+123	Spectrogram 1	1	619.224500000	619.232300000	41796.000	53313.000	Pipistrellus nathusii	0.509	0.58	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+124	Waveform 1	1	619.324500000	619.331300000	40078.000	47599.000	Pipistrellus nathusii	0.469	0.549	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+124	Spectrogram 1	1	619.324500000	619.331300000	40078.000	47599.000	Pipistrellus nathusii	0.469	0.549	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+125	Waveform 1	1	619.578500000	619.585700000	40937.000	51822.000	Pipistrellus nathusii	0.493	0.568	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+125	Spectrogram 1	1	619.578500000	619.585700000	40937.000	51822.000	Pipistrellus nathusii	0.493	0.568	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+126	Waveform 1	1	619.691500000	619.700000000	40937.000	54728.000	Pipistrellus nathusii	0.494	0.575	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+126	Spectrogram 1	1	619.691500000	619.700000000	40937.000	54728.000	Pipistrellus nathusii	0.494	0.575	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+127	Waveform 1	1	619.782500000	619.791100000	40937.000	51011.000	Pipistrellus nathusii	0.471	0.561	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+127	Spectrogram 1	1	619.782500000	619.791100000	40937.000	51011.000	Pipistrellus nathusii	0.471	0.561	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+128	Waveform 1	1	619.966500000	619.973900000	41796.000	52816.000	Pipistrellus nathusii	0.478	0.569	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+128	Spectrogram 1	1	619.966500000	619.973900000	41796.000	52816.000	Pipistrellus nathusii	0.478	0.569	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+129	Waveform 1	1	620.835500000	620.845600000	40078.000	49791.000	Pipistrellus nathusii	0.466	0.515	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+129	Spectrogram 1	1	620.835500000	620.845600000	40078.000	49791.000	Pipistrellus nathusii	0.466	0.515	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+130	Waveform 1	1	621.126500000	621.136600000	40937.000	55222.000	Pipistrellus nathusii	0.457	0.535	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+130	Spectrogram 1	1	621.126500000	621.136600000	40937.000	55222.000	Pipistrellus nathusii	0.457	0.535	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+131	Waveform 1	1	621.726500000	621.735900000	40078.000	48145.000	Pipistrellus nathusii	0.428	0.511	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+131	Spectrogram 1	1	621.726500000	621.735900000	40078.000	48145.000	Pipistrellus nathusii	0.428	0.511	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+132	Waveform 1	1	622.323500000	622.331900000	39218.000	46447.000	Pipistrellus nathusii	0.498	0.547	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+132	Spectrogram 1	1	622.323500000	622.331900000	39218.000	46447.000	Pipistrellus nathusii	0.498	0.547	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+133	Waveform 1	1	622.617500000	622.626700000	39218.000	47235.000	Pipistrellus nathusii	0.422	0.547	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+133	Spectrogram 1	1	622.617500000	622.626700000	39218.000	47235.000	Pipistrellus nathusii	0.422	0.547	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+134	Waveform 1	1	690.743500000	690.752400000	40937.000	47260.000	Pipistrellus nathusii	0.501	0.539	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+134	Spectrogram 1	1	690.743500000	690.752400000	40937.000	47260.000	Pipistrellus nathusii	0.501	0.539	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+135	Waveform 1	1	690.954500000	690.964300000	40937.000	47651.000	Pipistrellus nathusii	0.491	0.63	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+135	Spectrogram 1	1	690.954500000	690.964300000	40937.000	47651.000	Pipistrellus nathusii	0.491	0.63	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+136	Waveform 1	1	691.160500000	691.170400000	39218.000	45846.000	Pipistrellus nathusii	0.512	0.544	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+136	Spectrogram 1	1	691.160500000	691.170400000	39218.000	45846.000	Pipistrellus nathusii	0.512	0.544	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+137	Waveform 1	1	691.263500000	691.272900000	40078.000	46371.000	Pipistrellus nathusii	0.479	0.51	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+137	Spectrogram 1	1	691.263500000	691.272900000	40078.000	46371.000	Pipistrellus nathusii	0.479	0.51	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+138	Waveform 1	1	691.462500000	691.470300000	40937.000	51068.000	Pipistrellus nathusii	0.46	0.541	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+138	Spectrogram 1	1	691.462500000	691.470300000	40937.000	51068.000	Pipistrellus nathusii	0.46	0.541	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+139	Waveform 1	1	691.673500000	691.680800000	40937.000	48008.000	Pipistrellus nathusii	0.553	0.585	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+139	Spectrogram 1	1	691.673500000	691.680800000	40937.000	48008.000	Pipistrellus nathusii	0.553	0.585	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+140	Waveform 1	1	691.883500000	691.892300000	40078.000	48175.000	Pipistrellus nathusii	0.631	0.671	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+140	Spectrogram 1	1	691.883500000	691.892300000	40078.000	48175.000	Pipistrellus nathusii	0.631	0.671	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+141	Waveform 1	1	692.107500000	692.117600000	40078.000	48554.000	Pipistrellus nathusii	0.555	0.629	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+141	Spectrogram 1	1	692.107500000	692.117600000	40078.000	48554.000	Pipistrellus nathusii	0.555	0.629	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+142	Waveform 1	1	692.321500000	692.331400000	40078.000	48395.000	Pipistrellus nathusii	0.485	0.536	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+142	Spectrogram 1	1	692.321500000	692.331400000	40078.000	48395.000	Pipistrellus nathusii	0.485	0.536	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+143	Waveform 1	1	692.528500000	692.539600000	39218.000	45792.000	Pipistrellus nathusii	0.484	0.52	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+143	Spectrogram 1	1	692.528500000	692.539600000	39218.000	45792.000	Pipistrellus nathusii	0.484	0.52	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+144	Waveform 1	1	692.735500000	692.746300000	40078.000	46919.000	Pipistrellus nathusii	0.43	0.524	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+144	Spectrogram 1	1	692.735500000	692.746300000	40078.000	46919.000	Pipistrellus nathusii	0.43	0.524	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+145	Waveform 1	1	692.841500000	692.851700000	39218.000	47067.000	Pipistrellus nathusii	0.526	0.576	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+145	Spectrogram 1	1	692.841500000	692.851700000	39218.000	47067.000	Pipistrellus nathusii	0.526	0.576	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+146	Waveform 1	1	692.946500000	692.955700000	40078.000	47085.000	Pipistrellus nathusii	0.435	0.506	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+146	Spectrogram 1	1	692.946500000	692.955700000	40078.000	47085.000	Pipistrellus nathusii	0.435	0.506	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+147	Waveform 1	1	693.050500000	693.058300000	41796.000	50986.000	Pipistrellus nathusii	0.524	0.563	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+147	Spectrogram 1	1	693.050500000	693.058300000	41796.000	50986.000	Pipistrellus nathusii	0.524	0.563	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+148	Waveform 1	1	693.160500000	693.170700000	40937.000	50787.000	Pipistrellus nathusii	0.521	0.589	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+148	Spectrogram 1	1	693.160500000	693.170700000	40937.000	50787.000	Pipistrellus nathusii	0.521	0.589	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+149	Waveform 1	1	693.268500000	693.277600000	40078.000	50408.000	Pipistrellus nathusii	0.559	0.65	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+149	Spectrogram 1	1	693.268500000	693.277600000	40078.000	50408.000	Pipistrellus nathusii	0.559	0.65	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+150	Waveform 1	1	830.579500000	830.587700000	40937.000	52246.000	Pipistrellus nathusii	0.49	0.58	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+150	Spectrogram 1	1	830.579500000	830.587700000	40937.000	52246.000	Pipistrellus nathusii	0.49	0.58	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+151	Waveform 1	1	831.241500000	831.249300000	40937.000	55520.000	Pipistrellus nathusii	0.431	0.535	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+151	Spectrogram 1	1	831.241500000	831.249300000	40937.000	55520.000	Pipistrellus nathusii	0.431	0.535	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+152	Waveform 1	1	832.198500000	832.205400000	40937.000	59969.000	Pipistrellus nathusii	0.339	0.523	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+152	Spectrogram 1	1	832.198500000	832.205400000	40937.000	59969.000	Pipistrellus nathusii	0.339	0.523	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+153	Waveform 1	1	833.909500000	833.916500000	40937.000	51074.000	Pipistrellus nathusii	0.519	0.552	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+153	Spectrogram 1	1	833.909500000	833.916500000	40937.000	51074.000	Pipistrellus nathusii	0.519	0.552	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+154	Waveform 1	1	834.016500000	834.025700000	40078.000	54854.000	Pipistrellus nathusii	0.529	0.576	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+154	Spectrogram 1	1	834.016500000	834.025700000	40078.000	54854.000	Pipistrellus nathusii	0.529	0.576	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+155	Waveform 1	1	834.586500000	834.595300000	39218.000	54390.000	Pipistrellus nathusii	0.401	0.514	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+155	Spectrogram 1	1	834.586500000	834.595300000	39218.000	54390.000	Pipistrellus nathusii	0.401	0.514	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+156	Waveform 1	1	834.823500000	834.830300000	39218.000	54834.000	Pipistrellus nathusii	0.4	0.59	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+156	Spectrogram 1	1	834.823500000	834.830300000	39218.000	54834.000	Pipistrellus nathusii	0.4	0.59	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+157	Waveform 1	1	835.164500000	835.172700000	40078.000	50326.000	Pipistrellus nathusii	0.473	0.528	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+157	Spectrogram 1	1	835.164500000	835.172700000	40078.000	50326.000	Pipistrellus nathusii	0.473	0.528	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+158	Waveform 1	1	835.609500000	835.618000000	38359.000	52158.000	Pipistrellus nathusii	0.443	0.54	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+158	Spectrogram 1	1	835.609500000	835.618000000	38359.000	52158.000	Pipistrellus nathusii	0.443	0.54	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+159	Waveform 1	1	835.941500000	835.951500000	40078.000	52513.000	Pipistrellus nathusii	0.433	0.553	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+159	Spectrogram 1	1	835.941500000	835.951500000	40078.000	52513.000	Pipistrellus nathusii	0.433	0.553	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+160	Waveform 1	1	836.387500000	836.396200000	40078.000	47637.000	Pipistrellus nathusii	0.466	0.518	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+160	Spectrogram 1	1	836.387500000	836.396200000	40078.000	47637.000	Pipistrellus nathusii	0.466	0.518	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+161	Waveform 1	1	836.817500000	836.826600000	40078.000	51180.000	Pipistrellus nathusii	0.375	0.506	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+161	Spectrogram 1	1	836.817500000	836.826600000	40078.000	51180.000	Pipistrellus nathusii	0.375	0.506	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+162	Waveform 1	1	862.721500000	862.730200000	40078.000	47673.000	Pipistrellus nathusii	0.504	0.543	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+162	Spectrogram 1	1	862.721500000	862.730200000	40078.000	47673.000	Pipistrellus nathusii	0.504	0.543	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+163	Waveform 1	1	863.041500000	863.049600000	39218.000	49057.000	Pipistrellus nathusii	0.594	0.638	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+163	Spectrogram 1	1	863.041500000	863.049600000	39218.000	49057.000	Pipistrellus nathusii	0.594	0.638	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+164	Waveform 1	1	863.146500000	863.155200000	40078.000	51013.000	Pipistrellus nathusii	0.526	0.612	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+164	Spectrogram 1	1	863.146500000	863.155200000	40078.000	51013.000	Pipistrellus nathusii	0.526	0.612	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+165	Waveform 1	1	863.252500000	863.260300000	40937.000	49731.000	Pipistrellus nathusii	0.55	0.578	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+165	Spectrogram 1	1	863.252500000	863.260300000	40937.000	49731.000	Pipistrellus nathusii	0.55	0.578	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+166	Waveform 1	1	863.356500000	863.363800000	38359.000	50435.000	Pipistrellus nathusii	0.416	0.518	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+166	Spectrogram 1	1	863.356500000	863.363800000	38359.000	50435.000	Pipistrellus nathusii	0.416	0.518	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+167	Waveform 1	1	863.455500000	863.464300000	38359.000	49696.000	Pipistrellus nathusii	0.443	0.564	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+167	Spectrogram 1	1	863.455500000	863.464300000	38359.000	49696.000	Pipistrellus nathusii	0.443	0.564	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+168	Waveform 1	1	863.556500000	863.566400000	38359.000	48352.000	Pipistrellus nathusii	0.488	0.578	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+168	Spectrogram 1	1	863.556500000	863.566400000	38359.000	48352.000	Pipistrellus nathusii	0.488	0.578	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+169	Waveform 1	1	863.657500000	863.666800000	38359.000	48714.000	Pipistrellus nathusii	0.514	0.567	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+169	Spectrogram 1	1	863.657500000	863.666800000	38359.000	48714.000	Pipistrellus nathusii	0.514	0.567	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+170	Waveform 1	1	863.759500000	863.769800000	38359.000	52215.000	Pipistrellus nathusii	0.474	0.54	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+170	Spectrogram 1	1	863.759500000	863.769800000	38359.000	52215.000	Pipistrellus nathusii	0.474	0.54	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+171	Waveform 1	1	863.859500000	863.868200000	39218.000	48060.000	Pipistrellus nathusii	0.525	0.593	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+171	Spectrogram 1	1	863.859500000	863.868200000	39218.000	48060.000	Pipistrellus nathusii	0.525	0.593	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+172	Waveform 1	1	864.596500000	864.605400000	40078.000	46711.000	Pipistrellus nathusii	0.466	0.552	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+172	Spectrogram 1	1	864.596500000	864.605400000	40078.000	46711.000	Pipistrellus nathusii	0.466	0.552	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+173	Waveform 1	1	864.773500000	864.784000000	38359.000	45426.000	Pipistrellus nathusii	0.507	0.548	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+173	Spectrogram 1	1	864.773500000	864.784000000	38359.000	45426.000	Pipistrellus nathusii	0.507	0.548	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+174	Waveform 1	1	864.957500000	864.966400000	38359.000	47637.000	Pipistrellus nathusii	0.562	0.629	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+174	Spectrogram 1	1	864.957500000	864.966400000	38359.000	47637.000	Pipistrellus nathusii	0.562	0.629	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+175	Waveform 1	1	865.050500000	865.060500000	37500.000	50267.000	Pipistrellus nathusii	0.585	0.63	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+175	Spectrogram 1	1	865.050500000	865.060500000	37500.000	50267.000	Pipistrellus nathusii	0.585	0.63	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+176	Waveform 1	1	865.146500000	865.155400000	40078.000	49236.000	Pipistrellus nathusii	0.523	0.645	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+176	Spectrogram 1	1	865.146500000	865.155400000	40078.000	49236.000	Pipistrellus nathusii	0.523	0.645	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+177	Waveform 1	1	865.244500000	865.253300000	39218.000	48935.000	Pipistrellus nathusii	0.485	0.58	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+177	Spectrogram 1	1	865.244500000	865.253300000	39218.000	48935.000	Pipistrellus nathusii	0.485	0.58	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+178	Waveform 1	1	865.342500000	865.352700000	39218.000	46665.000	Pipistrellus nathusii	0.519	0.558	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+178	Spectrogram 1	1	865.342500000	865.352700000	39218.000	46665.000	Pipistrellus nathusii	0.519	0.558	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+179	Waveform 1	1	865.443500000	865.451700000	38359.000	49627.000	Pipistrellus nathusii	0.465	0.549	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+179	Spectrogram 1	1	865.443500000	865.451700000	38359.000	49627.000	Pipistrellus nathusii	0.465	0.549	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+180	Waveform 1	1	865.544500000	865.552200000	38359.000	48685.000	Pipistrellus nathusii	0.503	0.55	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+180	Spectrogram 1	1	865.544500000	865.552200000	38359.000	48685.000	Pipistrellus nathusii	0.503	0.55	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+181	Waveform 1	1	865.955500000	865.965800000	39218.000	47796.000	Pipistrellus nathusii	0.477	0.514	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+181	Spectrogram 1	1	865.955500000	865.965800000	39218.000	47796.000	Pipistrellus nathusii	0.477	0.514	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+182	Waveform 1	1	866.057500000	866.067400000	38359.000	49137.000	Pipistrellus nathusii	0.417	0.511	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+182	Spectrogram 1	1	866.057500000	866.067400000	38359.000	49137.000	Pipistrellus nathusii	0.417	0.511	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+183	Waveform 1	1	868.020500000	868.029600000	39218.000	47121.000	Pipistrellus nathusii	0.525	0.591	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+183	Spectrogram 1	1	868.020500000	868.029600000	39218.000	47121.000	Pipistrellus nathusii	0.525	0.591	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+184	Waveform 1	1	868.588500000	868.597400000	39218.000	48203.000	Pipistrellus nathusii	0.575	0.619	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+184	Spectrogram 1	1	868.588500000	868.597400000	39218.000	48203.000	Pipistrellus nathusii	0.575	0.619	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+185	Waveform 1	1	868.881500000	868.889500000	40078.000	47321.000	Pipistrellus nathusii	0.509	0.526	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+185	Spectrogram 1	1	868.881500000	868.889500000	40078.000	47321.000	Pipistrellus nathusii	0.509	0.526	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+186	Waveform 1	1	868.969500000	868.979400000	39218.000	48861.000	Pipistrellus nathusii	0.522	0.564	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+186	Spectrogram 1	1	868.969500000	868.979400000	39218.000	48861.000	Pipistrellus nathusii	0.522	0.564	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+187	Waveform 1	1	869.059500000	869.069300000	40078.000	49310.000	Pipistrellus nathusii	0.624	0.685	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+187	Spectrogram 1	1	869.059500000	869.069300000	40078.000	49310.000	Pipistrellus nathusii	0.624	0.685	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+188	Waveform 1	1	869.147500000	869.156200000	39218.000	45818.000	Pipistrellus nathusii	0.644	0.656	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+188	Spectrogram 1	1	869.147500000	869.156200000	39218.000	45818.000	Pipistrellus nathusii	0.644	0.656	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+189	Waveform 1	1	869.236500000	869.246200000	37500.000	47040.000	Pipistrellus nathusii	0.491	0.566	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+189	Spectrogram 1	1	869.236500000	869.246200000	37500.000	47040.000	Pipistrellus nathusii	0.491	0.566	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+190	Waveform 1	1	869.412500000	869.423200000	38359.000	46810.000	Pipistrellus nathusii	0.521	0.572	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+190	Spectrogram 1	1	869.412500000	869.423200000	38359.000	46810.000	Pipistrellus nathusii	0.521	0.572	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+191	Waveform 1	1	869.504500000	869.512600000	38359.000	45123.000	Pipistrellus nathusii	0.507	0.55	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+191	Spectrogram 1	1	869.504500000	869.512600000	38359.000	45123.000	Pipistrellus nathusii	0.507	0.55	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+192	Waveform 1	1	1013.716500000	1013.736300000	26328.000	28551.000	Nyctalus leisleri	0.502	0.548	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+192	Spectrogram 1	1	1013.716500000	1013.736300000	26328.000	28551.000	Nyctalus leisleri	0.502	0.548	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+193	Waveform 1	1	1052.787500000	1052.796800000	39218.000	49387.000	Pipistrellus nathusii	0.449	0.525	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+193	Spectrogram 1	1	1052.787500000	1052.796800000	39218.000	49387.000	Pipistrellus nathusii	0.449	0.525	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+194	Waveform 1	1	1053.178500000	1053.187000000	40078.000	52821.000	Pipistrellus nathusii	0.486	0.581	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+194	Spectrogram 1	1	1053.178500000	1053.187000000	40078.000	52821.000	Pipistrellus nathusii	0.486	0.581	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+195	Waveform 1	1	1053.277500000	1053.286900000	39218.000	50668.000	Pipistrellus nathusii	0.422	0.501	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+195	Spectrogram 1	1	1053.277500000	1053.286900000	39218.000	50668.000	Pipistrellus nathusii	0.422	0.501	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+196	Waveform 1	1	1053.378500000	1053.388300000	40937.000	51690.000	Pipistrellus nathusii	0.451	0.512	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+196	Spectrogram 1	1	1053.378500000	1053.388300000	40937.000	51690.000	Pipistrellus nathusii	0.451	0.512	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+197	Waveform 1	1	1053.504500000	1053.515000000	40937.000	50574.000	Pipistrellus nathusii	0.392	0.529	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+197	Spectrogram 1	1	1053.504500000	1053.515000000	40937.000	50574.000	Pipistrellus nathusii	0.392	0.529	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+198	Waveform 1	1	1053.587500000	1053.596200000	40078.000	52015.000	Pipistrellus nathusii	0.499	0.572	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+198	Spectrogram 1	1	1053.587500000	1053.596200000	40078.000	52015.000	Pipistrellus nathusii	0.499	0.572	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+199	Waveform 1	1	1053.790500000	1053.798400000	38359.000	47711.000	Pipistrellus nathusii	0.487	0.561	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+199	Spectrogram 1	1	1053.790500000	1053.798400000	38359.000	47711.000	Pipistrellus nathusii	0.487	0.561	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+200	Waveform 1	1	1053.888500000	1053.897200000	40937.000	55612.000	Pipistrellus nathusii	0.51	0.624	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+200	Spectrogram 1	1	1053.888500000	1053.897200000	40937.000	55612.000	Pipistrellus nathusii	0.51	0.624	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+201	Waveform 1	1	1053.990500000	1053.999900000	40078.000	47485.000	Pipistrellus nathusii	0.471	0.539	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+201	Spectrogram 1	1	1053.990500000	1053.999900000	40078.000	47485.000	Pipistrellus nathusii	0.471	0.539	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+202	Waveform 1	1	1054.091500000	1054.099900000	40937.000	51257.000	Pipistrellus nathusii	0.451	0.538	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+202	Spectrogram 1	1	1054.091500000	1054.099900000	40937.000	51257.000	Pipistrellus nathusii	0.451	0.538	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+203	Waveform 1	1	1054.193500000	1054.201400000	40937.000	48997.000	Pipistrellus nathusii	0.443	0.519	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+203	Spectrogram 1	1	1054.193500000	1054.201400000	40937.000	48997.000	Pipistrellus nathusii	0.443	0.519	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+204	Waveform 1	1	1054.296500000	1054.307300000	39218.000	55401.000	Pipistrellus nathusii	0.445	0.525	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+204	Spectrogram 1	1	1054.296500000	1054.307300000	39218.000	55401.000	Pipistrellus nathusii	0.445	0.525	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+205	Waveform 1	1	1054.699500000	1054.709200000	40937.000	55625.000	Pipistrellus nathusii	0.465	0.535	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+205	Spectrogram 1	1	1054.699500000	1054.709200000	40937.000	55625.000	Pipistrellus nathusii	0.465	0.535	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+206	Waveform 1	1	1054.787500000	1054.795400000	40078.000	57969.000	Pipistrellus nathusii	0.454	0.534	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+206	Spectrogram 1	1	1054.787500000	1054.795400000	40078.000	57969.000	Pipistrellus nathusii	0.454	0.534	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+207	Waveform 1	1	1054.877500000	1054.887800000	40937.000	51776.000	Pipistrellus nathusii	0.453	0.503	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+207	Spectrogram 1	1	1054.877500000	1054.887800000	40937.000	51776.000	Pipistrellus nathusii	0.453	0.503	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+208	Waveform 1	1	1055.175500000	1055.183600000	40078.000	50797.000	Pipistrellus nathusii	0.398	0.505	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+208	Spectrogram 1	1	1055.175500000	1055.183600000	40078.000	50797.000	Pipistrellus nathusii	0.398	0.505	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+209	Waveform 1	1	1056.812500000	1056.821600000	39218.000	46252.000	Pipistrellus nathusii	0.455	0.543	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+209	Spectrogram 1	1	1056.812500000	1056.821600000	39218.000	46252.000	Pipistrellus nathusii	0.455	0.543	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+210	Waveform 1	1	1084.206500000	1084.221600000	24609.000	30099.000	Nyctalus leisleri	0.362	0.504	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+210	Spectrogram 1	1	1084.206500000	1084.221600000	24609.000	30099.000	Nyctalus leisleri	0.362	0.504	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+211	Waveform 1	1	1085.914500000	1085.931300000	24609.000	28342.000	Nyctalus leisleri	0.434	0.556	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+211	Spectrogram 1	1	1085.914500000	1085.931300000	24609.000	28342.000	Nyctalus leisleri	0.434	0.556	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+212	Waveform 1	1	1087.881500000	1087.895600000	27187.000	37774.000	Eptesicus serotinus	0.275	0.51	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+212	Spectrogram 1	1	1087.881500000	1087.895600000	27187.000	37774.000	Eptesicus serotinus	0.275	0.51	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+213	Waveform 1	1	1087.976500000	1087.990100000	27187.000	36778.000	Eptesicus serotinus	0.352	0.509	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+213	Spectrogram 1	1	1087.976500000	1087.990100000	27187.000	36778.000	Eptesicus serotinus	0.352	0.509	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+214	Waveform 1	1	1088.124500000	1088.136800000	27187.000	37459.000	Nyctalus leisleri	0.337	0.569	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+214	Spectrogram 1	1	1088.124500000	1088.136800000	27187.000	37459.000	Nyctalus leisleri	0.337	0.569	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+215	Waveform 1	1	1088.627500000	1088.644600000	24609.000	29927.000	Nyctalus leisleri	0.345	0.531	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+215	Spectrogram 1	1	1088.627500000	1088.644600000	24609.000	29927.000	Nyctalus leisleri	0.345	0.531	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+216	Waveform 1	1	1089.028500000	1089.046800000	23750.000	28578.000	Nyctalus leisleri	0.416	0.518	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+216	Spectrogram 1	1	1089.028500000	1089.046800000	23750.000	28578.000	Nyctalus leisleri	0.416	0.518	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+217	Waveform 1	1	1089.300500000	1089.316700000	24609.000	28243.000	Nyctalus leisleri	0.578	0.625	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+217	Spectrogram 1	1	1089.300500000	1089.316700000	24609.000	28243.000	Nyctalus leisleri	0.578	0.625	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+218	Waveform 1	1	1089.708500000	1089.727000000	24609.000	27682.000	Nyctalus leisleri	0.427	0.511	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+218	Spectrogram 1	1	1089.708500000	1089.727000000	24609.000	27682.000	Nyctalus leisleri	0.427	0.511	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+219	Waveform 1	1	1089.984500000	1090.000000000	25468.000	28858.000	Nyctalus leisleri	0.478	0.553	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+219	Spectrogram 1	1	1089.984500000	1090.000000000	25468.000	28858.000	Nyctalus leisleri	0.478	0.553	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+220	Waveform 1	1	1090.255500000	1090.274300000	24609.000	27898.000	Nyctalus leisleri	0.444	0.513	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+220	Spectrogram 1	1	1090.255500000	1090.274300000	24609.000	27898.000	Nyctalus leisleri	0.444	0.513	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+221	Waveform 1	1	1090.936500000	1090.953300000	23750.000	28020.000	Nyctalus leisleri	0.546	0.614	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+221	Spectrogram 1	1	1090.936500000	1090.953300000	23750.000	28020.000	Nyctalus leisleri	0.546	0.614	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+222	Waveform 1	1	1091.053500000	1091.064900000	26328.000	38276.000	Nyctalus leisleri	0.346	0.663	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+222	Spectrogram 1	1	1091.053500000	1091.064900000	26328.000	38276.000	Nyctalus leisleri	0.346	0.663	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+223	Waveform 1	1	1091.194500000	1091.210200000	25468.000	34190.000	Eptesicus serotinus	0.328	0.603	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+223	Spectrogram 1	1	1091.194500000	1091.210200000	25468.000	34190.000	Eptesicus serotinus	0.328	0.603	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+224	Waveform 1	1	1091.355500000	1091.370800000	24609.000	31930.000	Eptesicus serotinus	0.273	0.553	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+224	Spectrogram 1	1	1091.355500000	1091.370800000	24609.000	31930.000	Eptesicus serotinus	0.273	0.553	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+225	Waveform 1	1	1092.313500000	1092.335400000	23750.000	27330.000	Nyctalus leisleri	0.521	0.585	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+225	Spectrogram 1	1	1092.313500000	1092.335400000	23750.000	27330.000	Nyctalus leisleri	0.521	0.585	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+226	Waveform 1	1	1092.853500000	1092.873500000	24609.000	27117.000	Nyctalus leisleri	0.45	0.506	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+226	Spectrogram 1	1	1092.853500000	1092.873500000	24609.000	27117.000	Nyctalus leisleri	0.45	0.506	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+227	Waveform 1	1	1094.247500000	1094.268700000	23750.000	27424.000	Nyctalus leisleri	0.48	0.546	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+227	Spectrogram 1	1	1094.247500000	1094.268700000	23750.000	27424.000	Nyctalus leisleri	0.48	0.546	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+228	Waveform 1	1	1094.653500000	1094.670500000	23750.000	27669.000	Nyctalus leisleri	0.546	0.635	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+228	Spectrogram 1	1	1094.653500000	1094.670500000	23750.000	27669.000	Nyctalus leisleri	0.546	0.635	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+229	Waveform 1	1	1095.057500000	1095.075000000	23750.000	26781.000	Nyctalus leisleri	0.474	0.561	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+229	Spectrogram 1	1	1095.057500000	1095.075000000	23750.000	26781.000	Nyctalus leisleri	0.474	0.561	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+230	Waveform 1	1	1095.465500000	1095.481800000	23750.000	26538.000	Nyctalus leisleri	0.578	0.639	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+230	Spectrogram 1	1	1095.465500000	1095.481800000	23750.000	26538.000	Nyctalus leisleri	0.578	0.639	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+231	Waveform 1	1	1095.874500000	1095.893300000	23750.000	27213.000	Nyctalus leisleri	0.477	0.567	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+231	Spectrogram 1	1	1095.874500000	1095.893300000	23750.000	27213.000	Nyctalus leisleri	0.477	0.567	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+232	Waveform 1	1	1096.283500000	1096.301400000	23750.000	26784.000	Nyctalus leisleri	0.556	0.603	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+232	Spectrogram 1	1	1096.283500000	1096.301400000	23750.000	26784.000	Nyctalus leisleri	0.556	0.603	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+233	Waveform 1	1	1096.586500000	1096.606000000	23750.000	27293.000	Nyctalus leisleri	0.505	0.579	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+233	Spectrogram 1	1	1096.586500000	1096.606000000	23750.000	27293.000	Nyctalus leisleri	0.505	0.579	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+234	Waveform 1	1	1096.983500000	1097.003400000	23750.000	26947.000	Nyctalus leisleri	0.457	0.507	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+234	Spectrogram 1	1	1096.983500000	1097.003400000	23750.000	26947.000	Nyctalus leisleri	0.457	0.507	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+235	Waveform 1	1	1097.394500000	1097.412600000	23750.000	27121.000	Nyctalus leisleri	0.519	0.594	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+235	Spectrogram 1	1	1097.394500000	1097.412600000	23750.000	27121.000	Nyctalus leisleri	0.519	0.594	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+236	Waveform 1	1	1098.211500000	1098.227900000	23750.000	27380.000	Nyctalus leisleri	0.545	0.617	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+236	Spectrogram 1	1	1098.211500000	1098.227900000	23750.000	27380.000	Nyctalus leisleri	0.545	0.617	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+237	Waveform 1	1	1261.572500000	1261.588600000	25468.000	28825.000	Nyctalus leisleri	0.495	0.586	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+237	Spectrogram 1	1	1261.572500000	1261.588600000	25468.000	28825.000	Nyctalus leisleri	0.495	0.586	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+238	Waveform 1	1	1263.007500000	1263.020500000	24609.000	29738.000	Nyctalus leisleri	0.394	0.584	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+238	Spectrogram 1	1	1263.007500000	1263.020500000	24609.000	29738.000	Nyctalus leisleri	0.394	0.584	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+239	Waveform 1	1	1271.881500000	1271.891000000	39218.000	47226.000	Pipistrellus nathusii	0.455	0.571	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+239	Spectrogram 1	1	1271.881500000	1271.891000000	39218.000	47226.000	Pipistrellus nathusii	0.455	0.571	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+240	Waveform 1	1	1272.079500000	1272.089100000	39218.000	45989.000	Pipistrellus nathusii	0.459	0.508	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+240	Spectrogram 1	1	1272.079500000	1272.089100000	39218.000	45989.000	Pipistrellus nathusii	0.459	0.508	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+241	Waveform 1	1	1273.059500000	1273.068600000	39218.000	45963.000	Pipistrellus nathusii	0.481	0.535	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+241	Spectrogram 1	1	1273.059500000	1273.068600000	39218.000	45963.000	Pipistrellus nathusii	0.481	0.535	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+242	Waveform 1	1	1273.566500000	1273.576500000	38359.000	46668.000	Pipistrellus nathusii	0.462	0.532	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+242	Spectrogram 1	1	1273.566500000	1273.576500000	38359.000	46668.000	Pipistrellus nathusii	0.462	0.532	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+243	Waveform 1	1	1273.956500000	1273.965500000	39218.000	47322.000	Pipistrellus nathusii	0.487	0.621	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+243	Spectrogram 1	1	1273.956500000	1273.965500000	39218.000	47322.000	Pipistrellus nathusii	0.487	0.621	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+244	Waveform 1	1	1274.156500000	1274.165200000	38359.000	46019.000	Pipistrellus nathusii	0.517	0.559	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+244	Spectrogram 1	1	1274.156500000	1274.165200000	38359.000	46019.000	Pipistrellus nathusii	0.517	0.559	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+245	Waveform 1	1	1274.559500000	1274.568200000	37500.000	48265.000	Pipistrellus nathusii	0.625	0.682	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+245	Spectrogram 1	1	1274.559500000	1274.568200000	37500.000	48265.000	Pipistrellus nathusii	0.625	0.682	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+246	Waveform 1	1	1274.657500000	1274.667200000	38359.000	49057.000	Pipistrellus nathusii	0.554	0.632	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+246	Spectrogram 1	1	1274.657500000	1274.667200000	38359.000	49057.000	Pipistrellus nathusii	0.554	0.632	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+247	Waveform 1	1	1274.761500000	1274.770500000	39218.000	49716.000	Pipistrellus nathusii	0.507	0.558	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+247	Spectrogram 1	1	1274.761500000	1274.770500000	39218.000	49716.000	Pipistrellus nathusii	0.507	0.558	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+248	Waveform 1	1	1275.271500000	1275.279500000	38359.000	48686.000	Pipistrellus nathusii	0.537	0.573	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+248	Spectrogram 1	1	1275.271500000	1275.279500000	38359.000	48686.000	Pipistrellus nathusii	0.537	0.573	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+249	Waveform 1	1	1275.593500000	1275.603600000	37500.000	44850.000	Pipistrellus nathusii	0.532	0.576	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+249	Spectrogram 1	1	1275.593500000	1275.603600000	37500.000	44850.000	Pipistrellus nathusii	0.532	0.576	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+250	Waveform 1	1	1275.697500000	1275.708000000	37500.000	44150.000	Pipistrellus nathusii	0.496	0.534	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+250	Spectrogram 1	1	1275.697500000	1275.708000000	37500.000	44150.000	Pipistrellus nathusii	0.496	0.534	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+251	Waveform 1	1	1275.988500000	1275.998300000	39218.000	45991.000	Pipistrellus nathusii	0.48	0.52	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+251	Spectrogram 1	1	1275.988500000	1275.998300000	39218.000	45991.000	Pipistrellus nathusii	0.48	0.52	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+252	Waveform 1	1	1276.321500000	1276.329200000	39218.000	46414.000	Pipistrellus nathusii	0.454	0.508	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+252	Spectrogram 1	1	1276.321500000	1276.329200000	39218.000	46414.000	Pipistrellus nathusii	0.454	0.508	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+253	Waveform 1	1	1276.848500000	1276.856700000	39218.000	44899.000	Pipistrellus nathusii	0.454	0.52	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+253	Spectrogram 1	1	1276.848500000	1276.856700000	39218.000	44899.000	Pipistrellus nathusii	0.454	0.52	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+254	Waveform 1	1	1277.126500000	1277.136800000	39218.000	46146.000	Pipistrellus nathusii	0.537	0.58	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+254	Spectrogram 1	1	1277.126500000	1277.136800000	39218.000	46146.000	Pipistrellus nathusii	0.537	0.58	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+255	Waveform 1	1	1277.228500000	1277.238700000	39218.000	46162.000	Pipistrellus nathusii	0.495	0.505	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+255	Spectrogram 1	1	1277.228500000	1277.238700000	39218.000	46162.000	Pipistrellus nathusii	0.495	0.505	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+256	Waveform 1	1	1277.265500000	1277.274100000	38359.000	46621.000	Pipistrellus nathusii	0.458	0.556	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+256	Spectrogram 1	1	1277.265500000	1277.274100000	38359.000	46621.000	Pipistrellus nathusii	0.458	0.556	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+257	Waveform 1	1	1277.448500000	1277.459300000	39218.000	47610.000	Pipistrellus nathusii	0.487	0.571	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+257	Spectrogram 1	1	1277.448500000	1277.459300000	39218.000	47610.000	Pipistrellus nathusii	0.487	0.571	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+258	Waveform 1	1	1277.599500000	1277.608500000	38359.000	47459.000	Pipistrellus nathusii	0.581	0.618	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+258	Spectrogram 1	1	1277.599500000	1277.608500000	38359.000	47459.000	Pipistrellus nathusii	0.581	0.618	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+259	Waveform 1	1	1277.646500000	1277.655900000	39218.000	46652.000	Pipistrellus nathusii	0.488	0.512	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+259	Spectrogram 1	1	1277.646500000	1277.655900000	39218.000	46652.000	Pipistrellus nathusii	0.488	0.512	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+260	Waveform 1	1	1277.851500000	1277.861200000	40078.000	46162.000	Pipistrellus nathusii	0.483	0.515	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+260	Spectrogram 1	1	1277.851500000	1277.861200000	40078.000	46162.000	Pipistrellus nathusii	0.483	0.515	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+261	Waveform 1	1	1277.954500000	1277.965400000	39218.000	46810.000	Pipistrellus nathusii	0.491	0.539	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+261	Spectrogram 1	1	1277.954500000	1277.965400000	39218.000	46810.000	Pipistrellus nathusii	0.491	0.539	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+262	Waveform 1	1	1278.135500000	1278.142600000	38359.000	46390.000	Pipistrellus nathusii	0.546	0.586	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+262	Spectrogram 1	1	1278.135500000	1278.142600000	38359.000	46390.000	Pipistrellus nathusii	0.546	0.586	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+263	Waveform 1	1	1278.154500000	1278.164400000	40078.000	47574.000	Pipistrellus nathusii	0.497	0.522	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+263	Spectrogram 1	1	1278.154500000	1278.164400000	40078.000	47574.000	Pipistrellus nathusii	0.497	0.522	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+264	Waveform 1	1	1278.262500000	1278.272000000	39218.000	46897.000	Pipistrellus nathusii	0.559	0.615	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+264	Spectrogram 1	1	1278.262500000	1278.272000000	39218.000	46897.000	Pipistrellus nathusii	0.559	0.615	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+265	Waveform 1	1	1278.454500000	1278.463600000	40078.000	48406.000	Pipistrellus nathusii	0.578	0.61	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+265	Spectrogram 1	1	1278.454500000	1278.463600000	40078.000	48406.000	Pipistrellus nathusii	0.578	0.61	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+266	Waveform 1	1	1278.656500000	1278.667400000	40078.000	51601.000	Pipistrellus nathusii	0.485	0.575	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+266	Spectrogram 1	1	1278.656500000	1278.667400000	40078.000	51601.000	Pipistrellus nathusii	0.485	0.575	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+267	Waveform 1	1	1278.750500000	1278.761100000	39218.000	50520.000	Pipistrellus nathusii	0.511	0.561	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+267	Spectrogram 1	1	1278.750500000	1278.761100000	39218.000	50520.000	Pipistrellus nathusii	0.511	0.561	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+268	Waveform 1	1	1278.847500000	1278.857400000	40078.000	50505.000	Pipistrellus nathusii	0.526	0.557	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+268	Spectrogram 1	1	1278.847500000	1278.857400000	40078.000	50505.000	Pipistrellus nathusii	0.526	0.557	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+269	Waveform 1	1	1278.942500000	1278.953800000	39218.000	50273.000	Pipistrellus nathusii	0.474	0.512	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+269	Spectrogram 1	1	1278.942500000	1278.953800000	39218.000	50273.000	Pipistrellus nathusii	0.474	0.512	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+270	Waveform 1	1	1279.029500000	1279.040700000	38359.000	48725.000	Pipistrellus nathusii	0.484	0.545	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+270	Spectrogram 1	1	1279.029500000	1279.040700000	38359.000	48725.000	Pipistrellus nathusii	0.484	0.545	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+271	Waveform 1	1	1279.122500000	1279.133700000	37500.000	47972.000	Pipistrellus nathusii	0.489	0.558	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+271	Spectrogram 1	1	1279.122500000	1279.133700000	37500.000	47972.000	Pipistrellus nathusii	0.489	0.558	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+272	Waveform 1	1	1279.209500000	1279.220000000	40078.000	51776.000	Pipistrellus nathusii	0.499	0.555	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+272	Spectrogram 1	1	1279.209500000	1279.220000000	40078.000	51776.000	Pipistrellus nathusii	0.499	0.555	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+273	Waveform 1	1	1279.314500000	1279.325200000	38359.000	46881.000	Pipistrellus nathusii	0.487	0.505	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+273	Spectrogram 1	1	1279.314500000	1279.325200000	38359.000	46881.000	Pipistrellus nathusii	0.487	0.505	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+274	Waveform 1	1	1279.502500000	1279.513500000	40078.000	55178.000	Pipistrellus nathusii	0.482	0.564	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+274	Spectrogram 1	1	1279.502500000	1279.513500000	40078.000	55178.000	Pipistrellus nathusii	0.482	0.564	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+275	Waveform 1	1	1279.710500000	1279.720100000	38359.000	47055.000	Pipistrellus nathusii	0.597	0.645	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+275	Spectrogram 1	1	1279.710500000	1279.720100000	38359.000	47055.000	Pipistrellus nathusii	0.597	0.645	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+276	Waveform 1	1	1279.805500000	1279.816000000	40078.000	53465.000	Pipistrellus nathusii	0.554	0.616	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+276	Spectrogram 1	1	1279.805500000	1279.816000000	40078.000	53465.000	Pipistrellus nathusii	0.554	0.616	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+277	Waveform 1	1	1279.910500000	1279.918800000	40078.000	47198.000	Pipistrellus nathusii	0.635	0.655	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+277	Spectrogram 1	1	1279.910500000	1279.918800000	40078.000	47198.000	Pipistrellus nathusii	0.635	0.655	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+278	Waveform 1	1	1280.014500000	1280.024900000	40078.000	52218.000	Pipistrellus nathusii	0.526	0.616	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+278	Spectrogram 1	1	1280.014500000	1280.024900000	40078.000	52218.000	Pipistrellus nathusii	0.526	0.616	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+279	Waveform 1	1	1280.118500000	1280.128700000	40078.000	45856.000	Pipistrellus nathusii	0.518	0.542	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+279	Spectrogram 1	1	1280.118500000	1280.128700000	40078.000	45856.000	Pipistrellus nathusii	0.518	0.542	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+280	Waveform 1	1	1280.223500000	1280.233300000	40078.000	55153.000	Pipistrellus nathusii	0.593	0.635	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+280	Spectrogram 1	1	1280.223500000	1280.233300000	40078.000	55153.000	Pipistrellus nathusii	0.593	0.635	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+281	Waveform 1	1	1280.321500000	1280.331800000	40078.000	55112.000	Pipistrellus nathusii	0.563	0.649	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+281	Spectrogram 1	1	1280.321500000	1280.331800000	40078.000	55112.000	Pipistrellus nathusii	0.563	0.649	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+282	Waveform 1	1	1280.414500000	1280.424900000	39218.000	56843.000	Pipistrellus nathusii	0.449	0.542	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+282	Spectrogram 1	1	1280.414500000	1280.424900000	39218.000	56843.000	Pipistrellus nathusii	0.449	0.542	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+283	Waveform 1	1	1280.624500000	1280.635100000	40078.000	50961.000	Pipistrellus nathusii	0.516	0.541	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+283	Spectrogram 1	1	1280.624500000	1280.635100000	40078.000	50961.000	Pipistrellus nathusii	0.516	0.541	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+284	Waveform 1	1	1280.833500000	1280.844400000	39218.000	52352.000	Pipistrellus nathusii	0.537	0.59	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+284	Spectrogram 1	1	1280.833500000	1280.844400000	39218.000	52352.000	Pipistrellus nathusii	0.537	0.59	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+285	Waveform 1	1	1280.942500000	1280.954100000	40078.000	45461.000	Pipistrellus nathusii	0.538	0.547	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+285	Spectrogram 1	1	1280.942500000	1280.954100000	40078.000	45461.000	Pipistrellus nathusii	0.538	0.547	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+286	Waveform 1	1	1281.043500000	1281.053800000	40078.000	52826.000	Pipistrellus nathusii	0.619	0.647	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+286	Spectrogram 1	1	1281.043500000	1281.053800000	40078.000	52826.000	Pipistrellus nathusii	0.619	0.647	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+287	Waveform 1	1	1281.129500000	1281.137900000	40937.000	52077.000	Pipistrellus nathusii	0.547	0.568	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+287	Spectrogram 1	1	1281.129500000	1281.137900000	40937.000	52077.000	Pipistrellus nathusii	0.547	0.568	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+288	Waveform 1	1	1281.232500000	1281.241200000	39218.000	46701.000	Pipistrellus nathusii	0.491	0.516	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+288	Spectrogram 1	1	1281.232500000	1281.241200000	39218.000	46701.000	Pipistrellus nathusii	0.491	0.516	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+289	Waveform 1	1	1281.325500000	1281.335400000	40078.000	52242.000	Pipistrellus nathusii	0.552	0.642	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+289	Spectrogram 1	1	1281.325500000	1281.335400000	40078.000	52242.000	Pipistrellus nathusii	0.552	0.642	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+290	Waveform 1	1	1281.421500000	1281.433900000	38359.000	46849.000	Pipistrellus nathusii	0.465	0.517	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+290	Spectrogram 1	1	1281.421500000	1281.433900000	38359.000	46849.000	Pipistrellus nathusii	0.465	0.517	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+291	Waveform 1	1	1281.519500000	1281.529900000	39218.000	55021.000	Pipistrellus nathusii	0.556	0.623	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+291	Spectrogram 1	1	1281.519500000	1281.529900000	39218.000	55021.000	Pipistrellus nathusii	0.556	0.623	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+292	Waveform 1	1	1281.619500000	1281.629000000	39218.000	52612.000	Pipistrellus nathusii	0.62	0.663	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+292	Spectrogram 1	1	1281.619500000	1281.629000000	39218.000	52612.000	Pipistrellus nathusii	0.62	0.663	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+293	Waveform 1	1	1281.729500000	1281.739900000	39218.000	49952.000	Pipistrellus nathusii	0.539	0.595	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+293	Spectrogram 1	1	1281.729500000	1281.739900000	39218.000	49952.000	Pipistrellus nathusii	0.539	0.595	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+294	Waveform 1	1	1281.831500000	1281.841800000	39218.000	52814.000	Pipistrellus nathusii	0.603	0.649	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+294	Spectrogram 1	1	1281.831500000	1281.841800000	39218.000	52814.000	Pipistrellus nathusii	0.603	0.649	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+295	Waveform 1	1	1281.934500000	1281.942400000	38359.000	48587.000	Pipistrellus nathusii	0.52	0.559	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+295	Spectrogram 1	1	1281.934500000	1281.942400000	38359.000	48587.000	Pipistrellus nathusii	0.52	0.559	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+296	Waveform 1	1	1282.030500000	1282.039500000	39218.000	51296.000	Pipistrellus nathusii	0.584	0.62	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+296	Spectrogram 1	1	1282.030500000	1282.039500000	39218.000	51296.000	Pipistrellus nathusii	0.584	0.62	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+297	Waveform 1	1	1282.231500000	1282.241000000	39218.000	52602.000	Pipistrellus nathusii	0.508	0.62	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+297	Spectrogram 1	1	1282.231500000	1282.241000000	39218.000	52602.000	Pipistrellus nathusii	0.508	0.62	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+298	Waveform 1	1	1282.333500000	1282.343300000	40078.000	51529.000	Pipistrellus nathusii	0.553	0.616	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+298	Spectrogram 1	1	1282.333500000	1282.343300000	40078.000	51529.000	Pipistrellus nathusii	0.553	0.616	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+299	Waveform 1	1	1282.539500000	1282.549500000	40078.000	49730.000	Pipistrellus nathusii	0.496	0.572	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+299	Spectrogram 1	1	1282.539500000	1282.549500000	40078.000	49730.000	Pipistrellus nathusii	0.496	0.572	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+300	Waveform 1	1	1282.848500000	1282.857900000	40078.000	50401.000	Pipistrellus nathusii	0.591	0.629	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+300	Spectrogram 1	1	1282.848500000	1282.857900000	40078.000	50401.000	Pipistrellus nathusii	0.591	0.629	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+301	Waveform 1	1	1283.062500000	1283.073300000	40078.000	47466.000	Pipistrellus nathusii	0.507	0.535	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+301	Spectrogram 1	1	1283.062500000	1283.073300000	40078.000	47466.000	Pipistrellus nathusii	0.507	0.535	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+302	Waveform 1	1	1283.166500000	1283.176600000	40078.000	49724.000	Pipistrellus nathusii	0.493	0.549	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+302	Spectrogram 1	1	1283.166500000	1283.176600000	40078.000	49724.000	Pipistrellus nathusii	0.493	0.549	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+303	Waveform 1	1	1283.690500000	1283.700000000	40937.000	47088.000	Pipistrellus nathusii	0.507	0.518	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+303	Spectrogram 1	1	1283.690500000	1283.700000000	40937.000	47088.000	Pipistrellus nathusii	0.507	0.518	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+304	Waveform 1	1	1283.860500000	1283.870200000	40078.000	50011.000	Pipistrellus nathusii	0.483	0.58	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+304	Spectrogram 1	1	1283.860500000	1283.870200000	40078.000	50011.000	Pipistrellus nathusii	0.483	0.58	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+305	Waveform 1	1	1283.892500000	1283.901900000	40937.000	50937.000	Pipistrellus nathusii	0.603	0.663	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+305	Spectrogram 1	1	1283.892500000	1283.901900000	40937.000	50937.000	Pipistrellus nathusii	0.603	0.663	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+306	Waveform 1	1	1284.005500000	1284.013900000	41796.000	50095.000	Pipistrellus nathusii	0.526	0.593	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+306	Spectrogram 1	1	1284.005500000	1284.013900000	41796.000	50095.000	Pipistrellus nathusii	0.526	0.593	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+307	Waveform 1	1	1284.212500000	1284.222800000	40937.000	48388.000	Pipistrellus nathusii	0.557	0.636	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+307	Spectrogram 1	1	1284.212500000	1284.222800000	40937.000	48388.000	Pipistrellus nathusii	0.557	0.636	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+308	Waveform 1	1	1284.510500000	1284.520600000	40937.000	51614.000	Pipistrellus nathusii	0.575	0.618	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+308	Spectrogram 1	1	1284.510500000	1284.520600000	40937.000	51614.000	Pipistrellus nathusii	0.575	0.618	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+309	Waveform 1	1	1284.725500000	1284.733400000	40937.000	50306.000	Pipistrellus nathusii	0.662	0.685	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+309	Spectrogram 1	1	1284.725500000	1284.733400000	40937.000	50306.000	Pipistrellus nathusii	0.662	0.685	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+310	Waveform 1	1	1284.940500000	1284.953700000	40937.000	50355.000	Pipistrellus nathusii	0.448	0.534	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+310	Spectrogram 1	1	1284.940500000	1284.953700000	40937.000	50355.000	Pipistrellus nathusii	0.448	0.534	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+311	Waveform 1	1	1285.463500000	1285.472600000	40078.000	47882.000	Pipistrellus nathusii	0.631	0.675	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+311	Spectrogram 1	1	1285.463500000	1285.472600000	40078.000	47882.000	Pipistrellus nathusii	0.631	0.675	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+312	Waveform 1	1	1285.666500000	1285.676400000	40078.000	47980.000	Pipistrellus nathusii	0.546	0.624	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+312	Spectrogram 1	1	1285.666500000	1285.676400000	40078.000	47980.000	Pipistrellus nathusii	0.546	0.624	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+313	Waveform 1	1	1285.977500000	1285.986700000	40078.000	48009.000	Pipistrellus nathusii	0.547	0.567	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+313	Spectrogram 1	1	1285.977500000	1285.986700000	40078.000	48009.000	Pipistrellus nathusii	0.547	0.567	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+314	Waveform 1	1	1286.091500000	1286.100400000	40078.000	45798.000	Pipistrellus nathusii	0.472	0.526	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+314	Spectrogram 1	1	1286.091500000	1286.100400000	40078.000	45798.000	Pipistrellus nathusii	0.472	0.526	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+315	Waveform 1	1	1499.828500000	1499.837400000	41796.000	48505.000	Pipistrellus nathusii	0.443	0.527	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+315	Spectrogram 1	1	1499.828500000	1499.837400000	41796.000	48505.000	Pipistrellus nathusii	0.443	0.527	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+316	Waveform 1	1	1499.923500000	1499.931300000	40078.000	49655.000	Pipistrellus nathusii	0.486	0.526	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+316	Spectrogram 1	1	1499.923500000	1499.931300000	40078.000	49655.000	Pipistrellus nathusii	0.486	0.526	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+317	Waveform 1	1	1500.046500000	1500.052900000	39218.000	57531.000	Pipistrellus nathusii	0.354	0.533	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+317	Spectrogram 1	1	1500.046500000	1500.052900000	39218.000	57531.000	Pipistrellus nathusii	0.354	0.533	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+318	Waveform 1	1	1501.494500000	1501.501400000	40078.000	60132.000	Pipistrellus nathusii	0.427	0.501	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+318	Spectrogram 1	1	1501.494500000	1501.501400000	40078.000	60132.000	Pipistrellus nathusii	0.427	0.501	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+319	Waveform 1	1	1501.683500000	1501.693000000	40078.000	60449.000	Pipistrellus nathusii	0.368	0.522	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+319	Spectrogram 1	1	1501.683500000	1501.693000000	40078.000	60449.000	Pipistrellus nathusii	0.368	0.522	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+320	Waveform 1	1	1501.775500000	1501.783800000	40937.000	57352.000	Pipistrellus nathusii	0.361	0.51	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+320	Spectrogram 1	1	1501.775500000	1501.783800000	40937.000	57352.000	Pipistrellus nathusii	0.361	0.51	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+321	Waveform 1	1	1501.968500000	1501.977100000	37500.000	58948.000	Pipistrellus nathusii	0.431	0.556	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+321	Spectrogram 1	1	1501.968500000	1501.977100000	37500.000	58948.000	Pipistrellus nathusii	0.431	0.556	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+322	Waveform 1	1	1502.054500000	1502.062900000	37500.000	52034.000	Pipistrellus nathusii	0.435	0.524	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+322	Spectrogram 1	1	1502.054500000	1502.062900000	37500.000	52034.000	Pipistrellus nathusii	0.435	0.524	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+323	Waveform 1	1	1502.153500000	1502.160400000	39218.000	55628.000	Pipistrellus nathusii	0.572	0.612	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+323	Spectrogram 1	1	1502.153500000	1502.160400000	39218.000	55628.000	Pipistrellus nathusii	0.572	0.612	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+324	Waveform 1	1	1502.247500000	1502.256200000	40078.000	49526.000	Pipistrellus nathusii	0.558	0.606	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+324	Spectrogram 1	1	1502.247500000	1502.256200000	40078.000	49526.000	Pipistrellus nathusii	0.558	0.606	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+325	Waveform 1	1	1502.345500000	1502.352800000	39218.000	55401.000	Pipistrellus nathusii	0.549	0.587	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+325	Spectrogram 1	1	1502.345500000	1502.352800000	39218.000	55401.000	Pipistrellus nathusii	0.549	0.587	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+326	Waveform 1	1	1502.538500000	1502.546900000	38359.000	57948.000	Pipistrellus nathusii	0.558	0.659	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+326	Spectrogram 1	1	1502.538500000	1502.546900000	38359.000	57948.000	Pipistrellus nathusii	0.558	0.659	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+327	Waveform 1	1	1502.632500000	1502.640800000	40078.000	48828.000	Pipistrellus nathusii	0.516	0.584	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+327	Spectrogram 1	1	1502.632500000	1502.640800000	40078.000	48828.000	Pipistrellus nathusii	0.516	0.584	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+328	Waveform 1	1	1502.730500000	1502.738900000	38359.000	53505.000	Pipistrellus nathusii	0.595	0.649	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+328	Spectrogram 1	1	1502.730500000	1502.738900000	38359.000	53505.000	Pipistrellus nathusii	0.595	0.649	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+329	Waveform 1	1	1502.824500000	1502.832300000	40078.000	47895.000	Pipistrellus nathusii	0.442	0.513	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+329	Spectrogram 1	1	1502.824500000	1502.832300000	40078.000	47895.000	Pipistrellus nathusii	0.442	0.513	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+330	Waveform 1	1	1502.923500000	1502.932000000	39218.000	54177.000	Pipistrellus nathusii	0.565	0.615	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+330	Spectrogram 1	1	1502.923500000	1502.932000000	39218.000	54177.000	Pipistrellus nathusii	0.565	0.615	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+331	Waveform 1	1	1503.121500000	1503.130000000	38359.000	54403.000	Pipistrellus nathusii	0.428	0.557	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+331	Spectrogram 1	1	1503.121500000	1503.130000000	38359.000	54403.000	Pipistrellus nathusii	0.428	0.557	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+332	Waveform 1	1	1503.312500000	1503.321200000	38359.000	47831.000	Pipistrellus nathusii	0.53	0.618	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+332	Spectrogram 1	1	1503.312500000	1503.321200000	38359.000	47831.000	Pipistrellus nathusii	0.53	0.618	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+333	Waveform 1	1	1503.700500000	1503.708500000	39218.000	50286.000	Pipistrellus nathusii	0.419	0.519	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+333	Spectrogram 1	1	1503.700500000	1503.708500000	39218.000	50286.000	Pipistrellus nathusii	0.419	0.519	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+334	Waveform 1	1	1503.894500000	1503.904700000	39218.000	48577.000	Pipistrellus nathusii	0.501	0.55	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+334	Spectrogram 1	1	1503.894500000	1503.904700000	39218.000	48577.000	Pipistrellus nathusii	0.501	0.55	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+335	Waveform 1	1	1504.091500000	1504.101200000	38359.000	45767.000	Pipistrellus nathusii	0.54	0.565	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+335	Spectrogram 1	1	1504.091500000	1504.101200000	38359.000	45767.000	Pipistrellus nathusii	0.54	0.565	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+336	Waveform 1	1	1535.814500000	1535.838000000	16875.000	20329.000	Nyctalus leisleri	0.274	0.552	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+336	Spectrogram 1	1	1535.814500000	1535.838000000	16875.000	20329.000	Nyctalus leisleri	0.274	0.552	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+337	Waveform 1	1	1536.208500000	1536.221300000	19453.000	25976.000	Nyctalus noctula	0.459	0.631	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+337	Spectrogram 1	1	1536.208500000	1536.221300000	19453.000	25976.000	Nyctalus noctula	0.459	0.631	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+338	Waveform 1	1	1536.632500000	1536.642900000	22031.000	29387.000	Nyctalus noctula	0.352	0.564	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+338	Spectrogram 1	1	1536.632500000	1536.642900000	22031.000	29387.000	Nyctalus noctula	0.352	0.564	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+339	Waveform 1	1	1537.055500000	1537.065500000	21171.000	29259.000	Nyctalus noctula	0.365	0.571	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+339	Spectrogram 1	1	1537.055500000	1537.065500000	21171.000	29259.000	Nyctalus noctula	0.365	0.571	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+340	Waveform 1	1	1537.346500000	1537.356300000	20312.000	28303.000	Nyctalus noctula	0.38	0.589	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+340	Spectrogram 1	1	1537.346500000	1537.356300000	20312.000	28303.000	Nyctalus noctula	0.38	0.589	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+341	Waveform 1	1	1537.690500000	1537.701400000	19453.000	26289.000	Nyctalus noctula	0.438	0.61	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+341	Spectrogram 1	1	1537.690500000	1537.701400000	19453.000	26289.000	Nyctalus noctula	0.438	0.61	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+342	Waveform 1	1	1630.898500000	1630.908100000	43515.000	49360.000	Pipistrellus pipistrellus	0.317	0.51	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+342	Spectrogram 1	1	1630.898500000	1630.908100000	43515.000	49360.000	Pipistrellus pipistrellus	0.317	0.51	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+343	Waveform 1	1	1636.562500000	1636.570700000	44375.000	57442.000	Pipistrellus pipistrellus	0.538	0.639	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+343	Spectrogram 1	1	1636.562500000	1636.570700000	44375.000	57442.000	Pipistrellus pipistrellus	0.538	0.639	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+344	Waveform 1	1	1637.608500000	1637.615800000	44375.000	51902.000	Pipistrellus pipistrellus	0.476	0.513	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+344	Spectrogram 1	1	1637.608500000	1637.615800000	44375.000	51902.000	Pipistrellus pipistrellus	0.476	0.513	-1	Echolocation	/mnt/ubna_data_01/recover-20220801/UBNA_004/20220730_053000.WAV	Carp Pond			
+346	Waveform 1	1	230.973665148	230.986303274	24402.235	29229.050										1
+346	Spectrogram 1	1	230.973665148	230.986303274	24402.235	29229.050										1
+347	Waveform 1	1	231.133099962	231.150598905	24670.391	28156.425										1
+347	Spectrogram 1	1	231.133099962	231.150598905	24670.391	28156.425										1
+348	Waveform 1	1	232.207340896	232.234561474	21452.514	29765.363										3
+348	Spectrogram 1	1	232.207340896	232.234561474	21452.514	29765.363										3
+349	Waveform 1	1	232.882994793	232.917992679	21988.827	28424.581										3
+349	Spectrogram 1	1	232.882994793	232.917992679	21988.827	28424.581										3
+355	Waveform 1	1	233.999038757	234.027231499	21184.358	29765.363										3
+355	Spectrogram 1	1	233.999038757	234.027231499	21184.358	29765.363										3
+356	Waveform 1	1	235.968642540	236.006556916	20916.201	26815.642										3
+356	Spectrogram 1	1	235.968642540	236.006556916	20916.201	26815.642										3
+357	Waveform 1	1	238.147261475	238.164760418	23061.453	27888.268										3
+357	Spectrogram 1	1	238.147261475	238.164760418	23061.453	27888.268										3
+358	Waveform 1	1	242.092302021	242.111745291	22256.983	27083.799										3
+358	Spectrogram 1	1	242.092302021	242.111745291	22256.983	27083.799										3
+359	Waveform 1	1	243.372641617	243.388196233	19843.575	26279.330										2
+359	Spectrogram 1	1	243.372641617	243.388196233	19843.575	26279.330										2
+360	Waveform 1	1	244.207730329	244.233006580	16625.698	26815.642										2
+360	Spectrogram 1	1	244.207730329	244.233006580	16625.698	26815.642										2
+361	Waveform 1	1	252.056980554	252.068646516	40223.464	45586.592										1
+361	Spectrogram 1	1	252.056980554	252.068646516	40223.464	45586.592										1
+362	Waveform 1	1	252.151280413	252.165862866	39418.994	45050.279										1
+362	Spectrogram 1	1	252.151280413	252.165862866	39418.994	45050.279										1
+363	Waveform 1	1	252.249468927	252.260162726	37810.056	46927.374										1
+363	Spectrogram 1	1	252.249468927	252.260162726	37810.056	46927.374										1
+364	Waveform 1	1	252.337935806	252.364184220	38882.682	46391.061										1
+364	Spectrogram 1	1	252.337935806	252.364184220	38882.682	46391.061										1
+365	Waveform 1	1	252.440012974	252.456539753	39687.151	45586.592										1
+365	Spectrogram 1	1	252.440012974	252.456539753	39687.151	45586.592										1
+366	Waveform 1	1	253.390789142	253.402455104	41296.089	49340.782										1
+366	Spectrogram 1	1	253.390789142	253.402455104	41296.089	49340.782										1
+367	Waveform 1	1	253.834095963	253.846734088	37541.899	47195.531										3
+367	Spectrogram 1	1	253.834095963	253.846734088	37541.899	47195.531										3
+368	Waveform 1	1	254.114079051	254.138383139	33251.397	48536.313										3
+368	Spectrogram 1	1	254.114079051	254.138383139	33251.397	48536.313										3
+369	Waveform 1	1	254.296845790	254.316289060	36201.117	47195.531										3
+369	Spectrogram 1	1	254.296845790	254.316289060	36201.117	47195.531										3
+370	Waveform 1	1	254.485445509	254.502944452	38078.212	43977.654										3
+370	Spectrogram 1	1	254.485445509	254.502944452	38078.212	43977.654										3
+371	Waveform 1	1	255.310812586	255.326367202	38614.525	46391.061										3
+371	Spectrogram 1	1	255.310812586	255.326367202	38614.525	46391.061										3
+372	Waveform 1	1	255.592740002	255.605378127	42100.559	47195.531										3
+372	Spectrogram 1	1	255.592740002	255.605378127	42100.559	47195.531										3
+373	Waveform 1	1	256.243117648	256.252839283	40491.620	46122.905										3
+373	Spectrogram 1	1	256.243117648	256.252839283	40491.620	46122.905										3
+374	Waveform 1	1	257.596369770	257.606091405	39150.838	46927.374										2
+374	Spectrogram 1	1	257.596369770	257.606091405	39150.838	46927.374										2
+375	Waveform 1	1	257.781080836	257.797607615	41564.246	47731.844										2
+375	Spectrogram 1	1	257.781080836	257.797607615	41564.246	47731.844										2
+376	Waveform 1	1	257.875380695	257.893851802	39150.838	49340.782										2
+376	Spectrogram 1	1	257.875380695	257.893851802	39150.838	49340.782										2
+377	Waveform 1	1	257.978430027	257.989123825	39150.838	48536.313										2
+377	Spectrogram 1	1	257.978430027	257.989123825	39150.838	48536.313										2
+378	Waveform 1	1	258.175779218	258.187445180	40491.620	47731.844										2
+378	Spectrogram 1	1	258.175779218	258.187445180	40491.620	47731.844										2
+379	Waveform 1	1	258.072729886	258.084395848	37005.587	46927.374										1
+379	Spectrogram 1	1	258.072729886	258.084395848	37005.587	46927.374										1
+380	Waveform 1	1	258.954482446	258.962259754	39150.838	47463.687										1
+380	Spectrogram 1	1	258.954482446	258.962259754	39150.838	47463.687										1
+381	Waveform 1	1	259.325848904	259.343347847	39955.307	46659.218										1
+381	Spectrogram 1	1	259.325848904	259.343347847	39955.307	46659.218										1
+382	Waveform 1	1	259.464868285	259.472645593	42636.872	45586.592										1
+382	Spectrogram 1	1	259.464868285	259.472645593	42636.872	45586.592										1
+383	Waveform 1	1	259.702076443	259.716658896	41832.402	47463.687										1
+383	Spectrogram 1	1	259.702076443	259.716658896	41832.402	47463.687										1
+384	Waveform 1	1	259.783738177	259.797348466	41027.933	47195.531										1
+384	Spectrogram 1	1	259.783738177	259.797348466	41027.933	47195.531										1
+385	Waveform 1	1	259.968449243	259.983031695	41832.402	47731.844										1
+385	Spectrogram 1	1	259.968449243	259.983031695	41832.402	47731.844										1
+386	Waveform 1	1	260.151215981	260.163854107	39955.307	48536.313										2
+386	Spectrogram 1	1	260.151215981	260.163854107	39955.307	48536.313										2
+387	Waveform 1	1	260.415644454	260.429254743	39955.307	49340.782										1
+387	Spectrogram 1	1	260.415644454	260.429254743	39955.307	49340.782										1
+388	Waveform 1	1	260.490501043	260.514805131	38614.525	49340.782										1
+388	Spectrogram 1	1	260.490501043	260.514805131	38614.525	49340.782										1
+389	Waveform 1	1	260.555635998	260.569246287	41296.089	48804.469										1
+389	Spectrogram 1	1	260.555635998	260.569246287	41296.089	48804.469										1
+390	Waveform 1	1	259.871232892	259.892620489	40491.620	47195.531										2
+390	Spectrogram 1	1	259.871232892	259.892620489	40491.620	47195.531										2
+391	Waveform 1	1	260.071498574	260.088997517	39687.151	47195.531										2
+391	Spectrogram 1	1	260.071498574	260.088997517	39687.151	47195.531										2
+392	Waveform 1	1	260.250376658	260.271764255	40759.777	46927.374										2
+392	Spectrogram 1	1	260.250376658	260.271764255	40759.777	46927.374										2
+393	Waveform 1	1	260.339815701	260.368008442	41564.246	47195.531										2
+393	Spectrogram 1	1	260.339815701	260.368008442	41564.246	47195.531										2
+394	Waveform 1	1	260.798677137	260.820064734	38078.212	50949.721										3
+394	Spectrogram 1	1	260.798677137	260.820064734	38078.212	50949.721										3
+395	Waveform 1	1	261.126296237	261.140878690	37541.899	52558.659										3
+395	Spectrogram 1	1	261.126296237	261.140878690	37541.899	52558.659										3
+396	Waveform 1	1	261.030052051	261.046578830	41027.933	48804.469										3
+396	Spectrogram 1	1	261.030052051	261.046578830	41027.933	48804.469										3
+397	Waveform 1	1	260.880338871	260.889088343	42905.028	47731.844										2
+397	Spectrogram 1	1	260.880338871	260.889088343	42905.028	47731.844										2
+398	Waveform 1	1	261.222540424	261.235178550	43441.341	47195.531										2
+398	Spectrogram 1	1	261.222540424	261.235178550	43441.341	47195.531										2
+399	Waveform 1	1	261.626960441	261.636682076	41296.089	46122.905										2
+399	Spectrogram 1	1	261.626960441	261.636682076	41296.089	46122.905										2
+400	Waveform 1	1	261.834031530	261.851530473	36201.117	46927.374										3
+400	Spectrogram 1	1	261.834031530	261.851530473	36201.117	46927.374										3
+401	Waveform 1	1	261.939025189	261.956524132	37541.899	50413.408										3
+401	Spectrogram 1	1	261.939025189	261.956524132	37541.899	50413.408										3
+402	Waveform 1	1	262.047907501	262.060545626	37273.743	48804.469										3
+402	Spectrogram 1	1	262.047907501	262.060545626	37273.743	48804.469										3
+403	Waveform 1	1	262.147068178	262.164567121	34860.335	49608.939										3
+403	Spectrogram 1	1	262.147068178	262.164567121	34860.335	49608.939										3
+404	Waveform 1	1	263.171728773	263.186311225	39150.838	42368.715										1
+404	Spectrogram 1	1	263.171728773	263.186311225	39150.838	42368.715										1
+405	Waveform 1	1	264.680527055	264.697053835	36737.430	46391.061										1
+405	Spectrogram 1	1	264.680527055	264.697053835	36737.430	46391.061										1
+406	Waveform 1	1	315.807587056	315.813420037	41027.933	49072.626										1
+406	Spectrogram 1	1	315.807587056	315.813420037	41027.933	49072.626										1
+407	Waveform 1	1	315.982576486	315.989381631	42368.715	48268.156										1
+407	Spectrogram 1	1	315.982576486	315.989381631	42368.715	48268.156										1
+408	Waveform 1	1	316.167287552	316.173120533	39418.994	46659.218										1
+408	Spectrogram 1	1	316.167287552	316.173120533	39418.994	46659.218										1
+409	Waveform 1	1	316.533793455	316.540598600	39687.151	46122.905										2
+409	Spectrogram 1	1	316.533793455	316.540598600	39687.151	46122.905										2
+410	Waveform 1	1	316.812804381	316.821553852	39955.307	47463.687										1
+410	Spectrogram 1	1	316.812804381	316.821553852	39955.307	47463.687										1
+411	Waveform 1	1	316.994598955	317.003348427	42905.028	48268.156										1
+411	Spectrogram 1	1	316.994598955	317.003348427	42905.028	48268.156										1
+412	Waveform 1	1	318.044535801	318.052313109	42636.872	50949.721										1
+412	Spectrogram 1	1	318.044535801	318.052313109	42636.872	50949.721										1
+413	Waveform 1	1	317.957041086	317.965790558	41296.089	49877.095										2
+413	Spectrogram 1	1	317.957041086	317.965790558	41296.089	49877.095										2
+414	Waveform 1	1	317.874407188	317.888989641	43441.341	49340.782										1
+414	Spectrogram 1	1	317.874407188	317.888989641	43441.341	49340.782										1
+415	Waveform 1	1	317.823854686	317.832604158	40759.777	49877.095										1
+415	Spectrogram 1	1	317.823854686	317.832604158	40759.777	49877.095										1
+416	Waveform 1	1	317.765524876	317.773302184	41564.246	50413.408										1
+416	Spectrogram 1	1	317.765524876	317.773302184	41564.246	50413.408										1
+417	Waveform 1	1	318.195221408	318.207859533	42905.028	49072.626										1
+417	Spectrogram 1	1	318.195221408	318.207859533	42905.028	49072.626										1
+418	Waveform 1	1	318.435345793	318.443123101	39687.151	56581.006										2
+418	Spectrogram 1	1	318.435345793	318.443123101	39687.151	56581.006										2
+419	Waveform 1	1	318.889346148	318.901012110	38882.682	56312.849										3
+419	Spectrogram 1	1	318.889346148	318.901012110	38882.682	56312.849										3
+420	Waveform 1	1	318.995311970	319.008922259	39418.994	54167.598										3
+420	Spectrogram 1	1	318.995311970	319.008922259	39418.994	54167.598										3
+421	Waveform 1	1	319.109055100	319.117804571	40759.777	54435.754										3
+421	Spectrogram 1	1	319.109055100	319.117804571	40759.777	54435.754										3
+422	Waveform 1	1	319.330708642	319.337513786	44782.123	47731.844										3
+422	Spectrogram 1	1	319.330708642	319.337513786	44782.123	47731.844										3
+423	Waveform 1	1	319.455145570	319.476533167	42100.559	48804.469										3
+423	Spectrogram 1	1	319.455145570	319.476533167	42100.559	48804.469										3
+424	Waveform 1	1	319.502781582	319.519308361	42368.715	49877.095										3
+424	Spectrogram 1	1	319.502781582	319.519308361	42368.715	49877.095										3
+425	Waveform 1	1	319.545556776	319.557222738	42905.028	49877.095										3
+425	Spectrogram 1	1	319.545556776	319.557222738	42905.028	49877.095										3
+426	Waveform 1	1	319.212104694	319.231547964	42100.559	49340.782										3
+426	Spectrogram 1	1	319.212104694	319.231547964	42100.559	49340.782										3
+427	Waveform 1	1	319.410426049	319.434730136	40223.464	48804.469										3
+427	Spectrogram 1	1	319.410426049	319.434730136	40223.464	48804.469										3
+428	Waveform 1	1	320.148298147	320.155103292	39418.994	48804.469										3
+428	Spectrogram 1	1	320.148298147	320.155103292	39418.994	48804.469										3
+429	Waveform 1	1	319.587359806	319.606803076	44245.810	48268.156										1
+429	Spectrogram 1	1	319.587359806	319.606803076	44245.810	48268.156										1
+430	Waveform 1	1	319.946088139	319.960670591	41296.089	48000.000										1
+430	Spectrogram 1	1	319.946088139	319.960670591	41296.089	48000.000										1
+431	Waveform 1	1	320.009278766	320.023861219	43977.654	48804.469										1
+431	Spectrogram 1	1	320.009278766	320.023861219	43977.654	48804.469										1
+432	Waveform 1	1	320.055942614	320.071497230	42100.559	47195.531										1
+432	Spectrogram 1	1	320.055942614	320.071497230	42100.559	47195.531										1
+433	Waveform 1	1	320.100662135	320.108439443	46122.905	48536.313										1
+433	Spectrogram 1	1	320.100662135	320.108439443	46122.905	48536.313										1
+434	Waveform 1	1	319.890674819	319.906229435	43709.497	47195.531										1
+434	Spectrogram 1	1	319.890674819	319.906229435	43709.497	47195.531										1
+435	Waveform 1	1	319.846927461	319.864426404	41027.933	47195.531										1
+435	Spectrogram 1	1	319.846927461	319.864426404	41027.933	47195.531										1
+436	Waveform 1	1	320.261069377	320.277596156	38882.682	47731.844										1
+436	Spectrogram 1	1	320.261069377	320.277596156	38882.682	47731.844										1
+437	Waveform 1	1	320.321343514	320.332037312	42636.872	48804.469										1
+437	Spectrogram 1	1	320.321343514	320.332037312	42636.872	48804.469										1
+438	Waveform 1	1	320.201767403	320.219266346	39150.838	51217.877										2
+438	Spectrogram 1	1	320.201767403	320.219266346	39150.838	51217.877										2
+439	Waveform 1	1	320.394255777	320.406893902	42905.028	49340.782										2
+439	Spectrogram 1	1	320.394255777	320.406893902	42905.028	49340.782										2
+440	Waveform 1	1	320.573133861	320.578966842	42905.028	49072.626										1
+440	Spectrogram 1	1	320.573133861	320.578966842	42905.028	49072.626										1
+441	Waveform 1	1	611.533943464	611.550470243	39687.151	47731.844										1
+441	Spectrogram 1	1	611.533943464	611.550470243	39687.151	47731.844										1
+442	Waveform 1	1	611.631159814	611.643797940	38614.525	47731.844										1
+442	Spectrogram 1	1	611.631159814	611.643797940	38614.525	47731.844										1
+443	Waveform 1	1	611.712821548	611.730320491	42636.872	48268.156										1
+443	Spectrogram 1	1	611.712821548	611.730320491	42636.872	48268.156										1
+444	Waveform 1	1	611.816843043	611.824620351	40491.620	45318.436										1
+444	Spectrogram 1	1	611.816843043	611.824620351	40491.620	45318.436										1
+445	Waveform 1	1	611.903365595	611.914059393	39955.307	47195.531										3
+445	Spectrogram 1	1	611.903365595	611.914059393	39955.307	47195.531										3
+446	Waveform 1	1	612.096826132	612.110436421	38882.682	46391.061										3
+446	Spectrogram 1	1	612.096826132	612.110436421	38882.682	46391.061										3
+447	Waveform 1	1	612.197931136	612.208624934	39955.307	49340.782										3
+447	Spectrogram 1	1	612.197931136	612.208624934	39955.307	49340.782										3
+448	Waveform 1	1	612.388475182	612.400141144	38614.525	47731.844										3
+448	Spectrogram 1	1	612.388475182	612.400141144	38614.525	47731.844										3
+449	Waveform 1	1	613.353833803	613.361611111	38078.212	50413.408										3
+449	Spectrogram 1	1	613.353833803	613.361611111	38078.212	50413.408										3
+450	Waveform 1	1	613.448133663	613.459799625	35932.961	49877.095										3
+450	Spectrogram 1	1	613.448133663	613.459799625	35932.961	49877.095										3
+451	Waveform 1	1	613.736866487	613.753393266	37273.743	47731.844										3
+451	Spectrogram 1	1	613.736866487	613.753393266	37273.743	47731.844										3
+452	Waveform 1	1	613.638677973	613.650343935	39150.838	46927.374										2
+452	Spectrogram 1	1	613.638677973	613.650343935	39150.838	46927.374										2
+453	Waveform 1	1	614.022682556	614.036292845	36469.274	48268.156										2
+453	Spectrogram 1	1	614.022682556	614.036292845	36469.274	48268.156										2
+454	Waveform 1	1	614.129620542	614.135453523	40759.777	45586.592										2
+454	Spectrogram 1	1	614.129620542	614.135453523	40759.777	45586.592										2
+455	Waveform 1	1	614.228781219	614.240447181	39955.307	46659.218										2
+455	Spectrogram 1	1	614.228781219	614.240447181	39955.307	46659.218										2
+456	Waveform 1	1	614.331830550	614.340580022	39955.307	47195.531										2
+456	Spectrogram 1	1	614.331830550	614.340580022	39955.307	47195.531										2
+457	Waveform 1	1	614.520430270	614.532096232	37273.743	47463.687										2
+457	Spectrogram 1	1	614.520430270	614.532096232	37273.743	47463.687										2
+458	Waveform 1	1	614.607924985	614.622507437	39687.151	48536.313										2
+458	Spectrogram 1	1	614.607924985	614.622507437	39687.151	48536.313										2
+459	Waveform 1	1	615.034705026	615.044426661	38078.212	48804.469										2
+459	Spectrogram 1	1	615.034705026	615.044426661	38078.212	48804.469										2
+460	Waveform 1	1	615.117338923	615.126088395	41564.246	47731.844										2
+460	Spectrogram 1	1	615.117338923	615.126088395	41564.246	47731.844										2
+461	Waveform 1	1	618.117436282	618.125213590	40491.620	48804.469										2
+461	Spectrogram 1	1	618.117436282	618.125213590	40491.620	48804.469										2
+462	Waveform 1	1	618.499496538	618.518939808	36469.274	47731.844										2
+462	Spectrogram 1	1	618.499496538	618.518939808	36469.274	47731.844										2
+463	Waveform 1	1	618.607406687	618.616156158	37810.056	49877.095										1
+463	Spectrogram 1	1	618.607406687	618.616156158	37810.056	49877.095										1
+464	Waveform 1	1	617.722737900	617.726626554	36469.274	48000.000										1
+464	Spectrogram 1	1	617.722737900	617.726626554	36469.274	48000.000										1
+465	Waveform 1	1	619.460966505	619.470688140	38614.525	47463.687										3
+465	Spectrogram 1	1	619.460966505	619.470688140	38614.525	47463.687										3
+466	Waveform 1	1	620.055930832	620.068568958	37541.899	48268.156										3
+466	Spectrogram 1	1	620.055930832	620.068568958	37541.899	48268.156										3
+467	Waveform 1	1	620.242586225	620.262029495	37005.587	48268.156										3
+467	Spectrogram 1	1	620.242586225	620.262029495	37005.587	48268.156										3
+468	Waveform 1	1	620.540068256	620.549789891	39150.838	50145.251										3
+468	Spectrogram 1	1	620.540068256	620.549789891	39150.838	50145.251										3
+469	Waveform 1	1	620.330080940	620.344663392	39687.151	46122.905										2
+469	Spectrogram 1	1	620.330080940	620.344663392	39687.151	46122.905										2
+470	Waveform 1	1	620.441879742	620.450629214	38614.525	43441.341										2
+470	Spectrogram 1	1	620.441879742	620.450629214	38614.525	43441.341										2
+471	Waveform 1	1	621.424737307	621.438347596	39418.994	48268.156										2
+471	Spectrogram 1	1	621.424737307	621.438347596	39418.994	48268.156										2
+472	Waveform 1	1	622.031366759	622.044977048	37273.743	47195.531										2
+472	Spectrogram 1	1	622.031366759	622.044977048	37273.743	47195.531										2
+473	Waveform 1	1	690.525154451	690.536820413	36201.117	46391.061										2
+473	Spectrogram 1	1	690.525154451	690.536820413	36201.117	46391.061										2
+474	Waveform 1	1	691.366076144	691.378714269	36737.430	47195.531										3
+474	Spectrogram 1	1	691.366076144	691.378714269	36737.430	47195.531										3
+475	Waveform 1	1	691.052067332	691.070538439	37273.743	43977.654										2
+475	Spectrogram 1	1	691.052067332	691.070538439	37273.743	43977.654										2
+476	Waveform 1	1	691.564397498	691.575091297	39687.151	47463.687										2
+476	Spectrogram 1	1	691.564397498	691.575091297	39687.151	47463.687										2
+477	Waveform 1	1	692.207970000	692.222552453	36737.430	48000.000										2
+477	Spectrogram 1	1	692.207970000	692.222552453	36737.430	48000.000										2
+478	Waveform 1	1	692.421845971	692.431567606	40759.777	46659.218										3
+478	Spectrogram 1	1	692.421845971	692.431567606	40759.777	46659.218										3
+479	Waveform 1	1	692.629888960	692.641554922	36469.274	46391.061										3
+479	Spectrogram 1	1	692.629888960	692.641554922	36469.274	46391.061										3
+480	Waveform 1	1	693.474699307	693.480532288	36737.430	46927.374										2
+480	Spectrogram 1	1	693.474699307	693.480532288	36737.430	46927.374										2
+481	Waveform 1	1	830.357282705	830.371865157	38346.369	48804.469										3
+481	Spectrogram 1	1	830.357282705	830.371865157	38346.369	48804.469										3
+482	Waveform 1	1	830.470053671	830.476858816	39687.151	47731.844										3
+482	Spectrogram 1	1	830.470053671	830.476858816	39687.151	47731.844										3
+483	Waveform 1	1	830.688790459	830.700456421	37810.056	47731.844										3
+483	Spectrogram 1	1	830.688790459	830.700456421	37810.056	47731.844										3
+484	Waveform 1	1	830.793784117	830.813227387	37005.587	50145.251										3
+484	Spectrogram 1	1	830.793784117	830.813227387	37005.587	50145.251										3
+485	Waveform 1	1	830.132712936	830.150211879	36737.430	48000.000										1
+485	Spectrogram 1	1	830.132712936	830.150211879	36737.430	48000.000										1
+486	Waveform 1	1	830.924054290	830.932803762	39418.994	47731.844										3
+486	Spectrogram 1	1	830.924054290	830.932803762	39418.994	47731.844										3
+487	Waveform 1	1	831.025159294	831.038769583	39955.307	49340.782										3
+487	Spectrogram 1	1	831.025159294	831.038769583	39955.307	49340.782										3
+488	Waveform 1	1	831.138902424	831.148624059	39418.994	50413.408										3
+488	Spectrogram 1	1	831.138902424	831.148624059	39418.994	50413.408										3
+489	Waveform 1	1	831.353750558	831.365416520	39687.151	50413.408										3
+489	Spectrogram 1	1	831.353750558	831.365416520	39687.151	50413.408										3
+490	Waveform 1	1	831.458744216	831.467493688	36201.117	49072.626										3
+490	Spectrogram 1	1	831.458744216	831.467493688	36201.117	49072.626										3
+491	Waveform 1	1	831.563737874	831.574431673	38882.682	49877.095										3
+491	Spectrogram 1	1	831.563737874	831.574431673	38882.682	49877.095										3
+492	Waveform 1	1	831.660954225	831.683313985	36201.117	49877.095										3
+492	Spectrogram 1	1	831.660954225	831.683313985	36201.117	49877.095										3
+493	Waveform 1	1	831.776641681	831.794140625	39150.838	50413.408										3
+493	Spectrogram 1	1	831.776641681	831.794140625	39150.838	50413.408										3
+494	Waveform 1	1	831.885524257	831.900106710	36469.274	49340.782										3
+494	Spectrogram 1	1	831.885524257	831.900106710	36469.274	49340.782										3
+495	Waveform 1	1	831.989545752	832.002183877	38882.682	48268.156										3
+495	Spectrogram 1	1	831.989545752	832.002183877	38882.682	48268.156										3
+496	Waveform 1	1	832.088706429	832.102316718	40491.620	49340.782										3
+496	Spectrogram 1	1	832.088706429	832.102316718	40491.620	49340.782										3
+497	Waveform 1	1	832.293832928	832.301610236	37810.056	48268.156										3
+497	Spectrogram 1	1	832.293832928	832.301610236	37810.056	48268.156										3
+498	Waveform 1	1	832.361884373	832.374522499	40491.620	50413.408										3
+498	Spectrogram 1	1	832.361884373	832.374522499	40491.620	50413.408										3
+499	Waveform 1	1	832.452295579	832.469794522	39418.994	48268.156										3
+499	Spectrogram 1	1	832.452295579	832.469794522	39418.994	48268.156										3
+500	Waveform 1	1	832.510625389	832.519374861	37541.899	47195.531										3
+500	Spectrogram 1	1	832.510625389	832.519374861	37541.899	47195.531										3
+501	Waveform 1	1	832.568955199	832.579648998	39687.151	49340.782										3
+501	Spectrogram 1	1	832.568955199	832.579648998	39687.151	49340.782										3
+502	Waveform 1	1	832.616591211	832.632145827	40491.620	48804.469										3
+502	Spectrogram 1	1	832.616591211	832.632145827	40491.620	48804.469										3
+503	Waveform 1	1	832.665199386	832.672004530	39955.307	49072.626										3
+503	Spectrogram 1	1	832.665199386	832.672004530	39955.307	49072.626										3
+504	Waveform 1	1	832.928655959	832.939349757	38078.212	52022.346										3
+504	Spectrogram 1	1	832.928655959	832.939349757	38078.212	52022.346										3
+505	Waveform 1	1	833.037538271	833.047259906	38614.525	47731.844										3
+505	Spectrogram 1	1	833.037538271	833.047259906	38614.525	47731.844										3
+506	Waveform 1	1	833.161975199	833.169752507	39687.151	50413.408										3
+506	Spectrogram 1	1	833.161975199	833.169752507	39687.151	50413.408										3
+507	Waveform 1	1	833.247525587	833.262108040	40491.620	48804.469										3
+507	Spectrogram 1	1	833.247525587	833.262108040	40491.620	48804.469										3
+508	Waveform 1	1	833.368073862	833.389461459	39418.994	49340.782										3
+508	Spectrogram 1	1	833.368073862	833.389461459	39418.994	49340.782										3
+509	Waveform 1	1	833.587782813	833.600420939	38882.682	50681.564										3
+509	Spectrogram 1	1	833.587782813	833.600420939	38882.682	50681.564										3
+510	Waveform 1	1	833.796797966	833.807491765	38614.525	51217.877										3
+510	Spectrogram 1	1	833.796797966	833.807491765	38614.525	51217.877										3
+511	Waveform 1	1	832.708947007	832.724501623	42368.715	47195.531										2
+511	Spectrogram 1	1	832.708947007	832.724501623	42368.715	47195.531										2
+512	Waveform 1	1	832.747833547	832.765332490	41027.933	49877.095										2
+512	Spectrogram 1	1	832.747833547	832.765332490	41027.933	49877.095										2
+513	Waveform 1	1	832.808107684	832.818801483	41564.246	48268.156										2
+513	Spectrogram 1	1	832.808107684	832.818801483	41564.246	48268.156										2
+514	Waveform 1	1	833.430292326	833.443902615	37810.056	46927.374										2
+514	Spectrogram 1	1	833.430292326	833.443902615	37810.056	46927.374										2
+515	Waveform 1	1	833.692776471	833.703470270	40223.464	46391.061										2
+515	Spectrogram 1	1	833.692776471	833.703470270	40223.464	46391.061										2
+516	Waveform 1	1	834.127333676	834.140943965	41564.246	49608.939										2
+516	Spectrogram 1	1	834.127333676	834.140943965	41564.246	49608.939										2
+517	Waveform 1	1	834.244965460	834.266353057	37810.056	48536.313										2
+517	Spectrogram 1	1	834.244965460	834.266353057	37810.056	48536.313										2
+518	Waveform 1	1	834.472451719	834.479256864	39687.151	45854.749										2
+518	Spectrogram 1	1	834.472451719	834.479256864	39687.151	45854.749										2
+519	Waveform 1	1	834.356764262	834.373291042	36201.117	48268.156										3
+519	Spectrogram 1	1	834.356764262	834.373291042	36201.117	48268.156										3
+520	Waveform 1	1	835.273514708	835.284208507	39150.838	45586.592										2
+520	Spectrogram 1	1	835.273514708	835.284208507	39150.838	45586.592										2
+521	Waveform 1	1	835.491279333	835.505861785	37810.056	46122.905										2
+521	Spectrogram 1	1	835.491279333	835.505861785	37810.056	46122.905										2
+522	Waveform 1	1	834.704799060	834.715492858	37810.056	44513.966										1
+522	Spectrogram 1	1	834.704799060	834.715492858	37810.056	44513.966										1
+523	Waveform 1	1	834.942979118	834.951728589	38078.212	46122.905										1
+523	Spectrogram 1	1	834.942979118	834.951728589	38078.212	46122.905										1
+524	Waveform 1	1	835.722654246	835.726542900	38078.212	45854.749										1
+524	Spectrogram 1	1	835.722654246	835.726542900	38078.212	45854.749										1
+525	Waveform 1	1	862.851855480	862.859632788	41564.246	45586.592										1
+525	Spectrogram 1	1	862.851855480	862.859632788	41564.246	45586.592										1
+526	Waveform 1	1	862.931572887	862.939350195	44513.966	47731.844										1
+526	Spectrogram 1	1	862.931572887	862.939350195	44513.966	47731.844										1
+527	Waveform 1	1	864.517172086	864.533698866	37541.899	45050.279										1
+527	Spectrogram 1	1	864.517172086	864.533698866	37541.899	45050.279										1
+528	Waveform 1	1	864.864234457	864.872011765	37810.056	42905.028										1
+528	Spectrogram 1	1	864.864234457	864.872011765	37810.056	42905.028										1
+529	Waveform 1	1	865.643909849	865.651687157	36469.274	46659.218										2
+529	Spectrogram 1	1	865.643909849	865.651687157	36469.274	46659.218										2
+530	Waveform 1	1	865.745014853	865.760569469	38078.212	45318.436										2
+530	Spectrogram 1	1	865.745014853	865.760569469	38078.212	45318.436										2
+531	Waveform 1	1	865.846119858	865.856813656	39418.994	45586.592										2
+531	Spectrogram 1	1	865.846119858	865.856813656	39418.994	45586.592										2
+532	Waveform 1	1	866.161100832	866.172766794	36737.430	44782.123										2
+532	Spectrogram 1	1	866.161100832	866.172766794	36737.430	44782.123										2
+533	Waveform 1	1	866.267066654	866.273871799	35396.648	42905.028										1
+533	Spectrogram 1	1	866.267066654	866.273871799	35396.648	42905.028										1
+534	Waveform 1	1	866.369143822	866.376921130	38346.369	47195.531										1
+534	Spectrogram 1	1	866.369143822	866.376921130	38346.369	47195.531										1
+535	Waveform 1	1	866.470248826	866.474137480	38078.212	45854.749										1
+535	Spectrogram 1	1	866.470248826	866.474137480	38078.212	45854.749										1
+536	Waveform 1	1	868.188062261	868.192923079	38346.369	44513.966										1
+536	Spectrogram 1	1	868.188062261	868.192923079	38346.369	44513.966										1
+537	Waveform 1	1	868.275556977	868.288195102	37273.743	44513.966										1
+537	Spectrogram 1	1	868.275556977	868.288195102	37273.743	44513.966										1
+538	Waveform 1	1	868.367912509	868.375689817	37541.899	43977.654										1
+538	Spectrogram 1	1	868.367912509	868.375689817	37541.899	43977.654										1
+539	Waveform 1	1	868.801497695	868.812191493	35664.804	44782.123										1
+539	Spectrogram 1	1	868.801497695	868.812191493	35664.804	44782.123										1
+540	Waveform 1	1	869.327438149	869.336187621	39150.838	46122.905										1
+540	Spectrogram 1	1	869.327438149	869.336187621	39150.838	46122.905										1
+541	Waveform 1	1	869.596726867	869.609364992	35396.648	47195.531										1
+541	Spectrogram 1	1	869.596726867	869.609364992	35396.648	47195.531										1
+542	Waveform 1	1	869.684221582	869.696859707	37541.899	46122.905										1
+542	Spectrogram 1	1	869.684221582	869.696859707	37541.899	46122.905										1
+543	Waveform 1	1	869.857266685	869.873793465	39150.838	45586.592										1
+543	Spectrogram 1	1	869.857266685	869.873793465	39150.838	45586.592										1
+544	Waveform 1	1	870.042949914	870.057532367	39687.151	43709.497										1
+544	Spectrogram 1	1	870.042949914	870.057532367	39687.151	43709.497										1
+545	Waveform 1	1	870.222800162	870.232521797	42368.715	44513.966										1
+545	Spectrogram 1	1	870.222800162	870.232521797	42368.715	44513.966										1
+546	Waveform 1	1	870.396817429	870.408483391	38346.369	42905.028										1
+546	Spectrogram 1	1	870.396817429	870.408483391	38346.369	42905.028										1
+547	Waveform 1	1	1007.034429844	1007.066511239	24134.078	25743.017										1
+547	Spectrogram 1	1	1007.034429844	1007.066511239	24134.078	25743.017										1
+548	Waveform 1	1	1008.433373650	1008.478093171	24134.078	28156.425										1
+548	Spectrogram 1	1	1008.433373650	1008.478093171	24134.078	28156.425										1
+549	Waveform 1	1	1008.168945178	1008.194221429	26279.330	27888.268										1
+549	Spectrogram 1	1	1008.168945178	1008.194221429	26279.330	27888.268										1
+550	Waveform 1	1	1008.581142503	1008.618084716	25474.860	27083.799										1
+550	Spectrogram 1	1	1008.581142503	1008.618084716	25474.860	27083.799										1
+551	Waveform 1	1	1008.985562520	1009.008894444	24938.547	27351.955										2
+551	Spectrogram 1	1	1008.985562520	1009.008894444	24938.547	27351.955										2
+552	Waveform 1	1	1009.605803097	1009.627190694	23865.922	28960.894										2
+552	Spectrogram 1	1	1009.605803097	1009.627190694	23865.922	28960.894										2
+553	Waveform 1	1	1010.018972586	1010.052998308	24670.391	27083.799										2
+553	Spectrogram 1	1	1010.018972586	1010.052998308	24670.391	27083.799										2
+554	Waveform 1	1	1010.675183213	1010.716014080	25743.017	27888.268										2
+554	Spectrogram 1	1	1010.675183213	1010.716014080	25743.017	27888.268										2
+555	Waveform 1	1	1010.943500340	1010.991136352	24402.235	27888.268										3
+555	Spectrogram 1	1	1010.943500340	1010.991136352	24402.235	27888.268										3
+556	Waveform 1	1	1011.712481934	1011.749424147	25474.860	26279.330										3
+556	Spectrogram 1	1	1011.712481934	1011.749424147	25474.860	26279.330										3
+557	Waveform 1	1	1012.245227533	1012.276336765	24670.391	27351.955										3
+557	Spectrogram 1	1	1012.245227533	1012.276336765	24670.391	27351.955										3
+558	Waveform 1	1	1012.787695031	1012.827553734	24402.235	27888.268										3
+558	Spectrogram 1	1	1012.787695031	1012.827553734	24402.235	27888.268										3
+559	Waveform 1	1	1014.124420110	1014.164278813	25474.860	28424.581										3
+559	Spectrogram 1	1	1014.124420110	1014.164278813	25474.860	28424.581										3
+560	Waveform 1	1	1013.327246038	1013.351550125	24938.547	28424.581										3
+560	Spectrogram 1	1	1013.327246038	1013.351550125	24938.547	28424.581										3
+561	Waveform 1	1	1014.976035601	1015.011033487	24134.078	27620.112										3
+561	Spectrogram 1	1	1014.976035601	1015.011033487	24134.078	27620.112										3
+562	Waveform 1	1	1015.372678573	1015.416425931	23329.609	27083.799										3
+562	Spectrogram 1	1	1015.372678573	1015.416425931	23329.609	27083.799										3
+563	Waveform 1	1	1015.904452009	1015.934589078	23865.922	26815.642										3
+563	Spectrogram 1	1	1015.904452009	1015.934589078	23865.922	26815.642										3
+564	Waveform 1	1	1016.564551291	1016.602465667	23329.609	27351.955										3
+564	Spectrogram 1	1	1016.564551291	1016.602465667	23329.609	27351.955										3
+565	Waveform 1	1	1016.805647839	1016.831896254	24402.235	28424.581										1
+565	Spectrogram 1	1	1016.805647839	1016.831896254	24402.235	28424.581										1
+566	Waveform 1	1	1017.559074817	1017.585323231	25743.017	27888.268										1
+566	Spectrogram 1	1	1017.559074817	1017.585323231	25743.017	27888.268										1
+567	Waveform 1	1	1052.879727565	1052.895282181	37541.899	47731.844										1
+567	Spectrogram 1	1	1052.879727565	1052.895282181	37541.899	47731.844										1
+568	Waveform 1	1	1052.585162024	1052.595855822	37541.899	48536.313										1
+568	Spectrogram 1	1	1052.585162024	1052.595855822	37541.899	48536.313										1
+569	Waveform 1	1	1052.681406210	1052.698905153	36737.430	49072.626										1
+569	Spectrogram 1	1	1052.681406210	1052.698905153	36737.430	49072.626										1
+570	Waveform 1	1	1052.973055525	1052.983749323	38882.682	47195.531										2
+570	Spectrogram 1	1	1052.973055525	1052.983749323	38882.682	47195.531										2
+571	Waveform 1	1	1053.075132692	1053.087770818	36737.430	51486.034										2
+571	Spectrogram 1	1	1053.075132692	1053.087770818	36737.430	51486.034										2
+572	Waveform 1	1	1053.691484353	1053.702178151	39687.151	49072.626										3
+572	Spectrogram 1	1	1053.691484353	1053.702178151	39687.151	49072.626										3
+573	Waveform 1	1	1054.395330992	1054.408941281	38346.369	46391.061										3
+573	Spectrogram 1	1	1054.395330992	1054.408941281	38346.369	46391.061										3
+574	Waveform 1	1	1054.498380323	1054.503241141	34860.335	53094.972										3
+574	Spectrogram 1	1	1054.498380323	1054.503241141	34860.335	53094.972										3
+575	Waveform 1	1	1054.605318308	1054.623789415	38614.525	48000.000										3
+575	Spectrogram 1	1	1054.605318308	1054.623789415	38614.525	48000.000										3
+576	Waveform 1	1	1055.095288977	1055.111815756	38882.682	49340.782										3
+576	Spectrogram 1	1	1055.095288977	1055.111815756	38882.682	49340.782										3
+577	Waveform 1	1	1055.261528936	1055.280972206	39955.307	50145.251										3
+577	Spectrogram 1	1	1055.261528936	1055.280972206	39955.307	50145.251										3
+578	Waveform 1	1	1055.425824568	1055.449156492	39418.994	47463.687										3
+578	Spectrogram 1	1	1055.425824568	1055.449156492	39418.994	47463.687										3
+579	Waveform 1	1	1055.350967978	1055.369439084	39150.838	47463.687										2
+579	Spectrogram 1	1	1055.350967978	1055.369439084	39150.838	47463.687										2
+580	Waveform 1	1	1055.507486302	1055.524013081	41027.933	46659.218										2
+580	Spectrogram 1	1	1055.507486302	1055.524013081	41027.933	46659.218										2
+581	Waveform 1	1	1055.601786162	1055.620257268	39687.151	46391.061										2
+581	Spectrogram 1	1	1055.601786162	1055.620257268	39687.151	46391.061										2
+582	Waveform 1	1	1055.744694196	1055.763165303	37810.056	48536.313										2
+582	Spectrogram 1	1	1055.744694196	1055.763165303	37810.056	48536.313										2
+583	Waveform 1	1	1056.084951686	1056.095645484	36469.274	45318.436										2
+583	Spectrogram 1	1	1056.084951686	1056.095645484	36469.274	45318.436										2
+584	Waveform 1	1	1056.165641256	1056.182168036	39418.994	49072.626										2
+584	Spectrogram 1	1	1056.165641256	1056.182168036	39418.994	49072.626										2
+585	Waveform 1	1	1056.245358663	1056.264801933	37273.743	48804.469										2
+585	Spectrogram 1	1	1056.245358663	1056.264801933	37273.743	48804.469										2
+586	Waveform 1	1	1056.730468251	1056.745050704	39418.994	48268.156										2
+586	Spectrogram 1	1	1056.730468251	1056.745050704	39418.994	48268.156										2
+587	Waveform 1	1	1057.002674295	1057.015312421	36201.117	46927.374										2
+587	Spectrogram 1	1	1057.002674295	1057.015312421	36201.117	46927.374										2
+588	Waveform 1	1	1057.208772958	1057.228216228	39687.151	47195.531										1
+588	Spectrogram 1	1	1057.208772958	1057.228216228	39687.151	47195.531										1
+589	Waveform 1	1	1081.812290949	1081.843400181	23329.609	28692.737										1
+589	Spectrogram 1	1	1081.812290949	1081.843400181	23329.609	28692.737										1
+590	Waveform 1	1	1082.203100677	1082.227404765	21988.827	29497.207										1
+590	Spectrogram 1	1	1082.203100677	1082.227404765	21988.827	29497.207										1
+591	Waveform 1	1	1082.469473477	1082.509332181	23865.922	30033.520										1
+591	Spectrogram 1	1	1082.469473477	1082.509332181	23865.922	30033.520										1
+592	Waveform 1	1	1082.720291924	1082.746540339	21720.670	28156.425										2
+592	Spectrogram 1	1	1082.720291924	1082.746540339	21720.670	28156.425										2
+593	Waveform 1	1	1082.984720397	1083.019718283	21720.670	28960.894										3
+593	Spectrogram 1	1	1082.984720397	1083.019718283	21720.670	28960.894										3
+594	Waveform 1	1	1083.247204542	1083.275397284	21720.670	28692.737										3
+594	Spectrogram 1	1	1083.247204542	1083.275397284	21720.670	28692.737										3
+595	Waveform 1	1	1083.633153453	1083.668151339	22256.983	27620.112										3
+595	Spectrogram 1	1	1083.633153453	1083.668151339	22256.983	27620.112										3
+596	Waveform 1	1	1083.906331660	1083.953967672	20916.201	27888.268										3
+596	Spectrogram 1	1	1083.906331660	1083.953967672	20916.201	27888.268										3
+597	Waveform 1	1	1084.067710802	1084.094931380	23865.922	28960.894										2
+597	Spectrogram 1	1	1084.067710802	1084.094931380	23865.922	28960.894										2
+598	Waveform 1	1	1084.473102982	1084.499351397	22256.983	28424.581										3
+598	Spectrogram 1	1	1084.473102982	1084.499351397	22256.983	28424.581										3
+599	Waveform 1	1	1084.731697901	1084.765723623	22793.296	28424.581										3
+599	Spectrogram 1	1	1084.731697901	1084.765723623	22793.296	28424.581										3
+600	Waveform 1	1	1085.009736662	1085.046678875	22256.983	27888.268										3
+600	Spectrogram 1	1	1085.009736662	1085.046678875	22256.983	27888.268										3
+601	Waveform 1	1	1085.273192971	1085.306246530	21452.514	30033.520										3
+601	Spectrogram 1	1	1085.273192971	1085.306246530	21452.514	30033.520										3
+602	Waveform 1	1	1085.524011155	1085.560953368	20916.201	30569.832										3
+602	Spectrogram 1	1	1085.524011155	1085.560953368	20916.201	30569.832										3
+603	Waveform 1	1	1086.307575201	1086.340628760	22793.296	29229.050										3
+603	Spectrogram 1	1	1086.307575201	1086.340628760	22793.296	29229.050										3
+604	Waveform 1	1	1086.577836655	1086.618667522	23597.765	27888.268										3
+604	Spectrogram 1	1	1086.577836655	1086.618667522	23597.765	27888.268										3
+605	Waveform 1	1	1086.840321064	1086.876291113	22256.983	28424.581										3
+605	Spectrogram 1	1	1086.840321064	1086.876291113	22256.983	28424.581										3
+606	Waveform 1	1	1087.232102955	1087.278766803	23061.453	28692.737										3
+606	Spectrogram 1	1	1087.232102955	1087.278766803	23061.453	28692.737										3
+607	Waveform 1	1	1087.504308736	1087.548056093	23597.765	27351.955										3
+607	Spectrogram 1	1	1087.504308736	1087.548056093	23597.765	27351.955										3
+608	Waveform 1	1	1087.761932327	1087.799846704	23597.765	26279.330										3
+608	Spectrogram 1	1	1087.761932327	1087.799846704	23597.765	26279.330										3
+609	Waveform 1	1	1088.370506680	1088.409393220	22793.296	30301.676										3
+609	Spectrogram 1	1	1088.370506680	1088.409393220	22793.296	30301.676										3
+610	Waveform 1	1	1090.659952518	1090.700783385	21184.358	27351.955										3
+610	Spectrogram 1	1	1090.659952518	1090.700783385	21184.358	27351.955										3
+611	Waveform 1	1	1091.623366812	1091.657392535	22793.296	27351.955										3
+611	Spectrogram 1	1	1091.623366812	1091.657392535	22793.296	27351.955										3
+612	Waveform 1	1	1092.029731156	1092.064729042	23061.453	27083.799										3
+612	Spectrogram 1	1	1092.029731156	1092.064729042	23061.453	27083.799										3
+613	Waveform 1	1	1093.134108322	1093.178827843	21720.670	26815.642										3
+613	Spectrogram 1	1	1093.134108322	1093.178827843	21720.670	26815.642										3
+614	Waveform 1	1	1093.555055118	1093.593941658	21720.670	26279.330										3
+614	Spectrogram 1	1	1093.555055118	1093.593941658	21720.670	26279.330										3
+615	Waveform 1	1	1093.830177653	1093.871008520	21988.827	27351.955										3
+615	Spectrogram 1	1	1093.830177653	1093.871008520	21988.827	27351.955										3
+617	Waveform 1	1	1260.542140861	1260.558667641	19575.419	30569.832										2
+617	Spectrogram 1	1	1260.542140861	1260.558667641	19575.419	30569.832										2
+618	Waveform 1	1	1260.791014718	1260.809485825	23865.922	27888.268										2
+618	Spectrogram 1	1	1260.791014718	1260.809485825	23865.922	27888.268										2
+619	Waveform 1	1	1261.045721819	1261.070025907	22793.296	27888.268										2
+619	Spectrogram 1	1	1261.045721819	1261.070025907	22793.296	27888.268										2
+620	Waveform 1	1	1261.314038946	1261.338343033	22793.296	27620.112										2
+620	Spectrogram 1	1	1261.314038946	1261.338343033	22793.296	27620.112										2
+621	Waveform 1	1	1261.832202092	1261.852617526	23061.453	27083.799										2
+621	Spectrogram 1	1	1261.832202092	1261.852617526	23061.453	27083.799										2
+622	Waveform 1	1	1262.096630828	1262.119962752	22525.140	26279.330										2
+622	Spectrogram 1	1	1262.096630828	1262.119962752	22525.140	26279.330										2
+623	Waveform 1	1	1271.282604459	1271.305936383	33787.709	44513.966										1
+623	Spectrogram 1	1	1271.282604459	1271.305936383	33787.709	44513.966										1
+624	Waveform 1	1	1271.581058654	1271.590780290	38346.369	41832.402										1
+624	Spectrogram 1	1	1271.581058654	1271.590780290	38346.369	41832.402										1
+625	Waveform 1	1	1271.776463518	1271.786185153	39418.994	42905.028										1
+625	Spectrogram 1	1	1271.776463518	1271.786185153	39418.994	42905.028										1
+626	Waveform 1	1	1271.473148506	1271.489675285	38346.369	46122.905										1
+626	Spectrogram 1	1	1271.473148506	1271.489675285	38346.369	46122.905										1
+627	Waveform 1	1	1272.277127986	1272.292682602	38614.525	45586.592										1
+627	Spectrogram 1	1	1272.277127986	1272.292682602	38614.525	45586.592										1
+628	Waveform 1	1	1272.857509596	1272.872092049	37810.056	43977.654										1
+628	Spectrogram 1	1	1272.857509596	1272.872092049	37810.056	43977.654										1
+629	Waveform 1	1	1273.256096896	1273.272623675	38614.525	48804.469										3
+629	Spectrogram 1	1	1273.256096896	1273.272623675	38614.525	48804.469										3
+630	Waveform 1	1	1273.758705426	1273.776204369	37541.899	43441.341										1
+630	Spectrogram 1	1	1273.758705426	1273.776204369	37541.899	43441.341										1
+631	Waveform 1	1	1273.369840026	1273.376645170	43441.341	45586.592										1
+631	Spectrogram 1	1	1273.369840026	1273.376645170	43441.341	45586.592										1
+632	Waveform 1	1	1274.961272206	1274.975854658	38078.212	46927.374										3
+632	Spectrogram 1	1	1274.961272206	1274.975854658	38078.212	46927.374										3
+633	Waveform 1	1	1277.152528430	1277.167110883	38614.525	42905.028										3
+633	Spectrogram 1	1	1277.152528430	1277.167110883	38614.525	42905.028										3
+634	Waveform 1	1	1277.745548166	1277.756241965	40759.777	43441.341										3
+634	Spectrogram 1	1	1277.745548166	1277.756241965	40759.777	43441.341										3
+635	Waveform 1	1	1278.055668587	1278.066362386	35932.961	44782.123										3
+635	Spectrogram 1	1	1278.055668587	1278.066362386	35932.961	44782.123										3
+636	Waveform 1	1	1278.547583319	1278.567026589	35932.961	49340.782										3
+636	Spectrogram 1	1	1278.547583319	1278.567026589	35932.961	49340.782										3
+637	Waveform 1	1	1278.328846531	1278.335651676	34324.022	45318.436										1
+637	Spectrogram 1	1	1278.328846531	1278.335651676	34324.022	45318.436										1
+638	Waveform 1	1	1279.602380983	1279.619879926	38614.525	48804.469										3
+638	Spectrogram 1	1	1279.602380983	1279.619879926	38614.525	48804.469										3
+639	Waveform 1	1	1280.731063072	1280.747589852	39150.838	45318.436										3
+639	Spectrogram 1	1	1280.731063072	1280.747589852	39150.838	45318.436										3
+640	Waveform 1	1	1284.313485795	1284.330984738	38346.369	46659.218										3
+640	Spectrogram 1	1	1284.313485795	1284.330984738	38346.369	46659.218										3
+641	Waveform 1	1	1285.250651675	1285.268150618	39687.151	46927.374										3
+641	Spectrogram 1	1	1285.250651675	1285.268150618	39687.151	46927.374										3
+642	Waveform 1	1	1285.048441667	1285.066912773	38614.525	46659.218										1
+642	Spectrogram 1	1	1285.048441667	1285.066912773	38614.525	46659.218										1
+643	Waveform 1	1	1284.834565696	1284.853036803	38882.682	45854.749										1
+643	Spectrogram 1	1	1284.834565696	1284.853036803	38882.682	45854.749										1
+644	Waveform 1	1	1499.733278988	1499.744944950	39150.838	46659.218										1
+644	Spectrogram 1	1	1499.733278988	1499.744944950	39150.838	46659.218										1
+645	Waveform 1	1	1499.980208518	1499.995763134	36469.274	51754.190										3
+645	Spectrogram 1	1	1499.980208518	1499.995763134	36469.274	51754.190										3
+646	Waveform 1	1	1500.108534363	1500.123116816	34860.335	50413.408										3
+646	Spectrogram 1	1	1500.108534363	1500.123116816	34860.335	50413.408										3
+647	Waveform 1	1	1500.176585809	1500.192140425	37005.587	51217.877										3
+647	Spectrogram 1	1	1500.176585809	1500.192140425	37005.587	51217.877										3
+648	Waveform 1	1	1500.231999128	1500.244637254	39150.838	49877.095										3
+648	Spectrogram 1	1	1500.231999128	1500.244637254	39150.838	49877.095										3
+649	Waveform 1	1	1500.285468121	1500.295189756	43173.184	50413.408										3
+649	Spectrogram 1	1	1500.285468121	1500.295189756	43173.184	50413.408										3
+650	Waveform 1	1	1500.344770095	1500.352547403	41296.089	49072.626										3
+650	Spectrogram 1	1	1500.344770095	1500.352547403	41296.089	49072.626										3
+651	Waveform 1	1	1500.413793703	1500.418654521	37005.587	52826.816										3
+651	Spectrogram 1	1	1500.413793703	1500.418654521	37005.587	52826.816										3
+652	Waveform 1	1	1500.493511110	1500.507121399	41027.933	50949.721										3
+652	Spectrogram 1	1	1500.493511110	1500.507121399	41027.933	50949.721										3
+653	Waveform 1	1	1500.577117172	1500.594616115	39955.307	52558.659										3
+653	Spectrogram 1	1	1500.577117172	1500.594616115	39955.307	52558.659										3
+654	Waveform 1	1	1500.837656990	1500.847378625	44513.966	48804.469										3
+654	Spectrogram 1	1	1500.837656990	1500.847378625	44513.966	48804.469										3
+655	Waveform 1	1	1500.931956850	1500.947511466	39955.307	50949.721										3
+655	Spectrogram 1	1	1500.931956850	1500.947511466	39955.307	50949.721										3
+656	Waveform 1	1	1500.697665446	1500.706414917	38614.525	48804.469										2
+656	Spectrogram 1	1	1500.697665446	1500.706414917	38614.525	48804.469										2
+657	Waveform 1	1	1501.029173464	1501.037922935	39955.307	51486.034										3
+657	Spectrogram 1	1	1501.029173464	1501.037922935	39955.307	51486.034										3
+658	Waveform 1	1	1501.121528996	1501.138055776	40491.620	50681.564										3
+658	Spectrogram 1	1	1501.121528996	1501.138055776	40491.620	50681.564										3
+659	Waveform 1	1	1501.211940202	1501.223606164	38882.682	49877.095										3
+659	Spectrogram 1	1	1501.211940202	1501.223606164	38882.682	49877.095										3
+660	Waveform 1	1	1501.305267898	1501.316933860	37810.056	51486.034										3
+660	Spectrogram 1	1	1501.305267898	1501.316933860	37810.056	51486.034										3
+661	Waveform 1	1	1501.392762613	1501.406372902	39955.307	50681.564										3
+661	Spectrogram 1	1	1501.392762613	1501.406372902	39955.307	50681.564										3
+662	Waveform 1	1	1501.586223150	1501.595944785	35932.961	48000.000										3
+662	Spectrogram 1	1	1501.586223150	1501.595944785	35932.961	48000.000										3
+663	Waveform 1	1	1501.883705182	1501.902176289	35932.961	46927.374										3
+663	Spectrogram 1	1	1501.883705182	1501.902176289	35932.961	46927.374										3
+664	Waveform 1	1	1502.439782969	1502.453393258	36469.274	46927.374										3
+664	Spectrogram 1	1	1502.439782969	1502.453393258	36469.274	46927.374										3
+665	Waveform 1	1	1503.503330104	1503.516940393	39150.838	49877.095										3
+665	Spectrogram 1	1	1503.503330104	1503.516940393	39150.838	49877.095										3
+666	Waveform 1	1	1503.013359699	1503.034747296	35396.648	49340.782										1
+666	Spectrogram 1	1	1503.013359699	1503.034747296	35396.648	49340.782										1
+667	Waveform 1	1	1503.215569707	1503.229179996	35396.648	45586.592										1
+667	Spectrogram 1	1	1503.215569707	1503.229179996	35396.648	45586.592										1
+668	Waveform 1	1	1504.287865477	1504.295642785	37005.587	47731.844										1
+668	Spectrogram 1	1	1504.287865477	1504.295642785	37005.587	47731.844										1
+669	Waveform 1	1	1535.287247058	1535.307662491	18234.637	21988.827										2
+669	Spectrogram 1	1	1535.287247058	1535.307662491	18234.637	21988.827										2
+670	Waveform 1	1	1537.952920171	1537.972363441	19843.575	23597.765										2
+670	Spectrogram 1	1	1537.952920171	1537.972363441	19843.575	23597.765										2
+671	Waveform 1	1	1538.485665771	1538.507053368	16893.855	23061.453										2
+671	Spectrogram 1	1	1538.485665771	1538.507053368	16893.855	23061.453										2
+672	Waveform 1	1	1636.224077149	1636.229910130	43977.654	50681.564										2
+672	Spectrogram 1	1	1636.224077149	1636.229910130	43977.654	50681.564										2
+673	Waveform 1	1	1636.318377009	1636.330042971	41296.089	49877.095										2
+673	Spectrogram 1	1	1636.318377009	1636.330042971	41296.089	49877.095										2
+674	Waveform 1	1	1636.646968272	1636.658634234	42905.028	50413.408										2
+674	Spectrogram 1	1	1636.646968272	1636.658634234	42905.028	50413.408										2
+675	Waveform 1	1	1636.707242409	1636.719880535	45318.436	49608.939										2
+675	Spectrogram 1	1	1636.707242409	1636.719880535	45318.436	49608.939										2
+676	Waveform 1	1	1636.754878421	1636.764600056	47195.531	50145.251										2
+676	Spectrogram 1	1	1636.754878421	1636.764600056	47195.531	50145.251										2
+677	Waveform 1	1	1637.521915688	1637.537470304	43173.184	49877.095										2
+677	Spectrogram 1	1	1637.521915688	1637.537470304	43173.184	49877.095										2
+678	Waveform 1	1	1637.438309627	1637.462613714	42100.559	48804.469										1
+678	Spectrogram 1	1	1637.438309627	1637.462613714	42100.559	48804.469										1
+679	Waveform 1	1	1637.691072137	1637.707598917	43441.341	47731.844										1
+679	Spectrogram 1	1	1637.691072137	1637.707598917	43441.341	47731.844										1
