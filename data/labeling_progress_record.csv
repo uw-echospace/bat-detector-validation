@@ -24,7 +24,7 @@ Central Pond,11,Normal,20221112_030000,True,False,False
 Central Pond,12,Normal,20221217_050000,True,False,False
 Central Pond,12,Normal,20221215_040000,True,False,False
 Fallen Tree,8,Extreme Wind,20220827_050000,True,True,(Misalignment issues)
-Fallen Tree,8,Normal,20220828_060000,True,True,False
+Fallen Tree,8,Normal,20220828_060000,True,True,True
 Fallen Tree,9,Extreme Wind,20220923_040000,True,True,(text file issues)
 Fallen Tree,9,Normal,20220924_030000,True,False,False
 Fallen Tree,10,Extreme Rain,20221031_090000,True,False,False
