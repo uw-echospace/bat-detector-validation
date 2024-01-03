@@ -2,7 +2,7 @@ Site name,Month,Condition,Name,Has WAV file,Has txt file,Finish manual labeling?
 Carp Pond,7,Extreme Wind,20220722_110000,True,True,(Misalignment issues)
 Carp Pond,7,Normal,20220730_053000,True,True,True
 Carp Pond,8,Extreme Wind,20220804_040000,True,True,False
-Carp Pond,8,Normal,20220804_080000,True,True,False
+Carp Pond,8,Normal,20220804_080000,True,True,(Misalignment issues)
 Carp Pond,9,Extreme Wind,20220928_040000,True,True,False
 Carp Pond,9,Normal,20220907_063000,True,True,False
 Carp Pond,10,Extreme Rain,20221031_090000,True,False,False
