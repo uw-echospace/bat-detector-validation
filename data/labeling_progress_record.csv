@@ -13,7 +13,7 @@ Carp Pond,12,Extreme Wind and Rain,20221209_110000,True,False,False
 Carp Pond,12,Normal,20221205_053000,True,False,False
 Central Pond,7,Normal,20220730_103000,True,True,True
 Central Pond,7,Normal,20220728_100000,True,True,False
-Central Pond,8,Extreme Wind,20220804_040000,True,True,False
+Central Pond,8,Extreme Wind,20220804_040000,True,True,(selection bounds error)
 Central Pond,8,Normal,20220804_080000,True,True,False
 Central Pond,9,Extreme Wind,20220928_040000,True,True,False
 Central Pond,9,Normal,20220917_073000,True,True,False
@@ -25,7 +25,7 @@ Central Pond,12,Normal,20221217_050000,True,False,False
 Central Pond,12,Normal,20221215_040000,True,False,False
 Fallen Tree,8,Extreme Wind,20220827_050000,True,True,(Misalignment issues)
 Fallen Tree,8,Normal,20220828_060000,True,True,True
-Fallen Tree,9,Extreme Wind,20220923_040000,True,True,(text file issues)
+Fallen Tree,9,Extreme Wind,20220923_040000,True,True,(selection bounds error)
 Fallen Tree,9,Normal,20220924_030000,True,False,False
 Fallen Tree,10,Extreme Rain,20221031_090000,True,False,False
 Fallen Tree,10,Normal,20221009_030000,True,True,False
