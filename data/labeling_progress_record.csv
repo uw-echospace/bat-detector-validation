@@ -36,7 +36,7 @@ Foliage,6,Normal,20220630_063000,True,True,False
 Foliage,7,Extreme Rain,20220706_030000,True,False,False
 Foliage,7,Normal,20220727_083000,True,True,True
 Foliage,8,Extreme Wind,20220804_040000,True,True,False
-Foliage,8,Normal,20220829_090000,True,True,False
+Foliage,8,Normal,20220829_090000,True,True,True
 Foliage,9,Extreme Wind,20220923_040000,True,True,(selection bounds error)
 Foliage,9,Normal,20220929_063000,True,False,False
 Foliage,10,Extreme Wind,20221028_030000,True,False,False
